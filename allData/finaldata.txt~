@@ -28,13 +28,14 @@ ACCT201 FINANCIAL ACCOUNTING I {001 lec mw 10:30-12noon} {002 lec mw 1:30-3pm} {
 ACCT208 AUDITING {401 lec m 3-6pm} 
  
 ACCT243 ACCT FOR COMPLX FIN STRU 
+lec tr 10:30-12noon 401 
  
 ACCT411 FINANCIAL ACCOUNTING {001 lec t 6:30-9:10pm} 
  
 ACCT611 FINANCIAL ACCOUNTING {001 lec mw 9-10:30am} {002 lec mw 10:30-12noon} {003 lec mw 12-1:30pm} 
  
-ACCT612 ACCELERATED FIN ACCT 
-lec mw 10:30-12noon {005 lec mw 12-1:30pm} 
+ACCT612 ACCELERATED FIN ACCT {001 lec mw 9-10:30am} 
+lec mw 10:30-12noon 003 {005 lec mw 12-1:30pm} 
  
 ACCT613 FIN AND MNGL ACCT {001 lec tr 9-10:30am} {003 lec tr 10:30-12noon} {005 lec tr 3-4:30pm} {007 lec mw 9-10:30am} {009 lec mw 10:30-12noon} {011 lec mw 1:30-3pm} 
  
@@ -43,6 +44,7 @@ ACCT718 AUDITING {401 lec m 3-6pm}
 ACCT742 PROBLEMS IN FIN REPORTIN {001 lec mw 10:30-12noon} {002 lec mw 12-1:30pm} {003 lec mw 1:30-3pm} 
  
 ACCT743 ACCT FOR COMPLX FIN STRC 
+lec tr 10:30-12noon 401 
  
 ACCT899 INDEPENDENT STUDY {000 ind tba staff} 
  
@@ -89,6 +91,7 @@ AFRC151 ELEMENTARY ZULU I {680 lec mw 3-5pm}
 AFRC157 ACCORDIONS OF NEW WORLD {401 lec tr 12-1:30pm} 
  
 AFRC162 ELEMENTARY TWI I 
+lec tr 4:30-6:30pm 680 
  
 AFRC168 HIST OF AMER LAW TO {401 lec tr 10:30-12noon} 
  
@@ -147,6 +150,7 @@ AFRC543 INTERMEDIATE AMHARIC I {680 lec mw 7:30-9:30pm}
 AFRC570 SONGS OF DISSENT {401 sem m 6-9pm} 
  
 AFRC575 TOPICS IN PSYCH OF EDUC 
+sem r 4:30-6:30pm 401 
  
 AFRC589 HIST OF AFR POLITCL ECON {401 sem r 3-6pm} 
  
@@ -167,6 +171,7 @@ AFST076 AFRICA SINCE {401 lec mw 12-1pm} {402 rec f 11-12noon} {403 rec f 11-12n
 AFST150 ELEMENTARY ZULU I {680 lec mw 3-5pm} 
  
 AFST160 ELEMENTARY TWI I 
+lec tr 4:30-6:30pm 680 
  
 AFST170 ELEMENTARY YORUBA I {680 lec mw 5-7pm} 
  
@@ -183,6 +188,7 @@ AFST242 INTERMEDIATE AMHARIC I {680 lec mw 7:30-9:30pm}
 AFST250 INTERMEDIATE ZULU I {680 lec tr 3-5pm} 
  
 AFST262 INTERMEDIATE TWI I 
+lec tr 6:30-8:30pm 680 
  
 AFST266 YOUTH&DEMOCRACY IN AFRCA {401 sem mw 3:30-5pm} 
  
@@ -203,6 +209,7 @@ AFST300 SENIOR THESIS {000 ind tba cassanelli}
 AFST350 ADVANCED ZULU I {680 lec tr 5-7pm} 
  
 AFST362 ADVANCED TWI I 
+lec tr 2:30-4:30pm 680 
  
 AFST370 ADVANCED YORUBA I {680 lec tr 7-9pm} 
  
@@ -237,12 +244,15 @@ AFST552 INTERMEDIATE ZULU I {680 lec tr 3-5pm}
 AFST554 ADVANCED ZULU I {680 lec tr 5-7pm} 
  
 AFST562 ELEMENTARY TWI I 
+lec tr 4:30-6:30pm 680 
  
 AFST563 OLD EGYPTIAN {401 lec tr 3-4:30pm} 
  
 AFST566 INTERMEDIATE TWI I 
+lec tr 6:30-8:30pm 680 
  
 AFST568 ADVANCED TWI I 
+lec tr 2:30-4:30pm 680 
  
 AFST580 ELEMENTARY SWAHILI I {680 lec tr 12-2pm} 
  
@@ -347,6 +357,7 @@ ANTH082 NATIVE AMERICAN LIT {401 lec tr 12-1:30pm}
 ANTH086 DESIRE AND DEMAND {301 sem m 2-5pm} 
  
 ANTH107 THE CITY IN SOUTH ASIA 
+lec tr 10:30-12noon 401 
  
 ANTH111 INTRO TO MED ARCHAEOLOGY {401 lec mw 11-12noon} {402 rec f 10-11am} {404 rec r 10-11am} 
  
@@ -472,7 +483,8 @@ ARCH302 DESIGN FUNDAMENTALS II {201 stu t 1:30-4:30pm}
  
 ARCH401 ARCH & LANDSCPE DESIGN I {201 stu r 1:30-4:30pm} 
  
-ARCH411 TOPICS IN ARCH THEORY I {202 rec f 11-12noon} 
+ARCH411 TOPICS IN ARCH THEORY I 
+lec t 10:30-12noon 201 {202 rec f 11-12noon} 
  
 ARCH431 CONSTRUCTION I {401 lec r 10:30-12noon} 
  
@@ -682,7 +694,8 @@ BE306 MOLEC PHYSIOL&CELL ENGR {001 lec tr 3-4:30pm} {201 rec f 12-1pm}
  
 BE309 BIOENGINEERING LAB I {001 lec mw 12-1:30pm} {101 lab mw 1:30-3pm} {002 lec tr 12-1:30pm} {102 lab tr 1:30-3pm} 
  
-BE324 ADV TPC IN PHYS/CHEM BE {201 rec f 3-4pm} 
+BE324 ADV TPC IN PHYS/CHEM BE 
+lec tr 10:30-12noon 001 {201 rec f 3-4pm} 
  
 BE330 SOFT MATERIALS {401 lec tr 3-4:30pm} 
  
@@ -752,7 +765,8 @@ BEPP233 CONSUMERS,FIRMS & MARKET {001 lec mw 10:30-12noon}
  
 BEPP250 MANAGERIAL ECONOMICS {001 lec mw 1:30-3pm} {002 lec mw 3-4:30pm} {202 rec f 11-12noon} {203 rec f 12-1pm} {204 rec f 1-2pm} 
  
-BEPP305 RISK MANAGEMENT {402 lec mw 1:30-3pm} {403 lec mw 3-4:30pm} 
+BEPP305 RISK MANAGEMENT 
+lec mw 10:30-12noon 401 {402 lec mw 1:30-3pm} {403 lec mw 3-4:30pm} 
  
 BEPP322 BUS INSR & EST PLNG {401 lec tr 12-1:30pm} 
  
@@ -764,7 +778,8 @@ BEPP770 INTRO TO BUSINESS ECONOM {401 lec tr 1:30-3pm}
  
 BEPP773 URBAN FISCAL POLICY {401 lec mw 10:30-12noon} 
  
-BEPP805 RISK MANAGEMENT {402 lec mw 1:30-3pm} {403 lec mw 3-4:30pm} 
+BEPP805 RISK MANAGEMENT 
+lec mw 10:30-12noon 401 {402 lec mw 1:30-3pm} {403 lec mw 3-4:30pm} 
  
 BEPP811 RISK AND CRISIS MGMT {001 lec t 3-6pm} 
  
@@ -793,6 +808,7 @@ BIBB109 INTRO TO BRAIN & BEHAV {401 lec mwf 10-11am} {402 lab t 9-10:30am} {403 
 BIBB227 PHYSIOLOGY MOTIVATED BEH {401 lec tr 3-4:30pm} 
  
 BIBB231 ANIMAL BEHAVIOR 
+lec tr 10:30-12noon 401 
  
 BIBB233 NEUROETHOLOGY {001 lec tr 1:30-3pm} 
  
@@ -869,6 +885,7 @@ BIOL215 VERTEBRATE PHYSIOLOGY {001 lec tr 1:30-3pm} {201 rec t 3-4pm} {202 rec t
 BIOL221 MOLEC. BIOL. & GENETICS {401 lec mwf 12-1pm} {402 rec w 6:30-8pm} 
  
 BIOL231 EVOLUTION OF BEHAVIOR 
+lec tr 10:30-12noon 401 
  
 BIOL240 ECOLOGY: INDIV TO ECOSYS {001 lec mwf 11-12noon} 
  
@@ -889,6 +906,7 @@ BIOL404 IMMUNOBIOLOGY {601 lec m 6:30-9:30pm}
 BIOL407 CANCER CELL BIOLOGY {601 sem w 6:30-9:30pm} 
  
 BIOL414 ADVANCED ECOLOGY 
+lec tr 10:30-12noon 001 
  
 BIOL421 MOLEC GENETICS {001 lec tr 10:30-12noon} {201 rec m 5:30-7:30pm} 
  
@@ -1010,7 +1028,8 @@ CBE410 LABORATORY {101 lab tr 1-5pm} {102 lab mw 1-5pm}
  
 CBE451 CHEMICAL REACTOR DESIGN {001 lec tr 10:30-12noon} {201 rec w 5-6pm} 
  
-CBE479 BIOTECH & BIOCHEM ENG {201 rec r 3-4pm} 
+CBE479 BIOTECH & BIOCHEM ENG 
+lec mwf 11-12noon 001 {201 rec r 3-4pm} 
  
 CBE554 ENGINEERING BIOTEC {401 lec t 4:30-7:30pm} 
  
@@ -1071,14 +1090,17 @@ CHEM441 ORGANIC MECHANISMS STRUC {001 lec tr 10:30-12noon}
 CHEM443 ORGANIC REACTIONS {001 lec mw 9:30-11am} 
  
 CHEM451 BIOLOGICAL CHEMISTRY I 
+lec mwf 8:30-10am 001 
  
 CHEM521 STATISTICAL MECHANICS I 
+lec mw 11-12:30pm 001 
  
 CHEM523 QUANTUM CHEMISTRY I {001 lec mw 2-3:30pm} 
  
 CHEM525 MOLECULAR SPECTROSCOPY {001 lec tr 9-10:30am} 
  
 CHEM557 MECH BIO CATALYSIS 
+lec wf 10:30-12noon 001 
  
 CHEM564 ORGANOMETALLICS {001 lec wf 11-12:30pm} 
  
@@ -1136,8 +1158,8 @@ CINE016 MODERN SCI-FI CINEMA {301 sem mw 3-4:30pm}
  
 CINE055 MONSTERS OF JAPAN {401 sem t 3-6pm} 
  
-CINE061 VIDEO I {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
-sem r 4:30-7:30pm {406 sem m 1-4pm} {407 sem w 2-5pm} 
+CINE061 VIDEO I {401 sem w 5-8pm} {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
+sem r 4:30-7:30pm 404 {406 sem m 1-4pm} {407 sem w 2-5pm} 
  
 CINE063 DOCUMENTARY VIDEO {401 sem t 5:30-8:30pm} 
  
@@ -1182,6 +1204,7 @@ CINE263 INVISIBLE SUB. IN {401 sem mw 2-3:30pm}
 CINE267 COMPUTER ANIMATION {401 stu tr 12-3pm} 
  
 CINE285 ART AND BUSINESS OF FILM 
+sem r 1:30-4:30pm 301 
  
 CINE292 KATHRYN BIGELOW {601 sem w 5-8pm} 
  
@@ -1211,7 +1234,8 @@ CIS110 INTRO TO COMP PROG {001 lec mwf 12-1pm} {002 lec mwf 1-2pm}
  
 CIS120 PROG LANG & TECH I {001 lec mwf 11-12noon} {201 rec w 12-1pm} {202 rec w 1-2pm} {203 rec w 3-4pm} {204 rec w 4-5pm} {205 rec w 5-6pm} {206 rec r 10-11am} {207 rec r 3-4pm} {208 rec r 4-5pm} {209 rec r 5-6pm} {210 rec w 2-3pm} {211 rec w 12-1pm} {212 rec w 5-6pm} {213 rec r 5-6pm} 
  
-CIS121 PROG LANG AND TECH II {201 rec m 12-1pm} {202 rec m 2-3pm} {203 rec m 4-5pm} {204 rec m 5-6pm} {205 rec t 2-3pm} {206 rec t 3-4pm} {207 rec t 4-5pm} {208 rec t 5-6pm} {209 rec t 12-1pm} 
+CIS121 PROG LANG AND TECH II 
+lec tr 10:30-12noon 001 {201 rec m 12-1pm} {202 rec m 2-3pm} {203 rec m 4-5pm} {204 rec m 5-6pm} {205 rec t 2-3pm} {206 rec t 3-4pm} {207 rec t 4-5pm} {208 rec t 5-6pm} {209 rec t 12-1pm} 
  
 CIS140 INTRO COGNITIVE SCIENCE {401 lec tr 1:30-3pm} {402 rec r 3-4pm} {403 rec r 3-4pm} {404 rec r 4-5pm} {405 rec r 4-5pm} {406 rec r 5-6pm} {407 rec r 6-7pm} {408 rec f 3-4pm} {409 rec f 3-4pm} {410 rec f 4-5pm} {411 rec f 5-6:15pm} 
  
@@ -1349,7 +1373,8 @@ CLST398 HONORS THESIS {000 ind tba staff}
  
 CLST399 INDEPENDENT STUDY {000 ind tba staff} 
  
-CLST402 POST BACC:GREEK {602 rec f 11-12noon} {603 rec f 12-1pm} 
+CLST402 POST BACC:GREEK 
+lec mw 11-12noon 601 {602 rec f 11-12noon} {603 rec f 12-1pm} 
  
 CLST403 POST BACC LATIN {601 lec mw 10-11am} {602 rec f 12-1pm} {603 rec f 1-2pm} 
  
@@ -1556,6 +1581,7 @@ COMM863 MEDIA & CULTURAL POLICY {301 sem t 11:30-1:30pm}
 COMM864 TRAD OF ETHNO RESEARCH {301 sem t 9:30-11:30am} 
  
 COMM867 MEDIA & SOCIAL MOVEMENTS 
+sem w 3:30-5:30pm 401 
  
 COMM868 SEM IN MASS MEDIA INDUST {301 sem w 1:30-3:30pm} 
  
@@ -1578,6 +1604,7 @@ CPLN509 LAW & URBAN DEVELOPMENT {001 lec tr 12:30-2pm}
 CPLN510 URB & PLANNING THEORY {001 lec m 10:30-12noon} {101 rec w 12-1pm} {102 rec w 12-1pm} {103 rec w 1-2pm} {104 rec w 1-2pm} 
  
 CPLN520 INTRO TO CED 
+lec tr 10:30-12noon 001 
  
 CPLN530 INTRO TO LAND USE {001 lec tr 10:30-12noon} 
  
@@ -1848,6 +1875,7 @@ ECON300 HONORS SEMINAR {301 sem m 2-5pm}
 ECON681 MICROECONOMIC THEORY {001 lec mw 9-10:30am} 
  
 ECON701 MICROEC THEORY I 
+lec tr 10:30-12noon 001 
  
 ECON703 MICROEC THRY II {001 lec mw 1:30-3pm} 
  
@@ -1856,6 +1884,7 @@ ECON705 ECONOMETRICS I: FUND {001 lec tr 1:30-3pm}
 ECON712 SEARCH IN MACROECONOMICS {001 lec t 5:30-8:30pm} {003 lec mw 1:30-3pm} {004 lec w 5:30-8:30pm} {005 lec tr 1:30-3pm} {008 lec tr 1-2:30pm} {010 lec tr 9-10:30am} {011 lec t 5:30-8:30pm} 
  
 ECON714 QUANT MACRO-ECON THEORY 
+lec m 5:30-8:30pm 001 
  
 ECON719 ECON THEORY WORKSHOP {301 sem t 3-5:30pm} 
  
@@ -1980,6 +2009,7 @@ EDUC568 COGNITIVE DEVELOPMENT {001 lec t 12-2pm}
 EDUC573 REFRM HED: LRN OTHR COUN {001 sem r 10-12noon} 
  
 EDUC575 TOPICS IN PSYCH OF EDUC 
+sem r 4:30-6:30pm 401 
  
 EDUC578 TEACHING, READING &STUDY {001 lec m 7-9pm} 
  
@@ -2200,6 +2230,7 @@ ENGL253 REWRITING AMERICAN CLASS {301 sem tr 10:30-12noon}
 ENGL256 SEEDS OF MDRN DRAMA {401 sem tr 10:30-12noon} 
  
 ENGL258 JAMES JOYCE 
+sem tr 10:30-12noon 301 
  
 ENGL259 DRUG WARS:INFL PSYC RHET {401 sem w 3-6pm} 
  
@@ -2344,6 +2375,7 @@ ENVS648 FOOD & AGRICLTRL POLICY {660 sem r 5:30-8:15pm}
 ENVS664 SUSTAINABLE DESIGN {660 sem r 5:30-8:15pm} 
  
 ENVS673 THE FUTURE OF WATER 
+sem m 5:30-8:10pm 660 
  
 EPID518 GEOGRAPHY & HEALTH {401 lec w 4:30-7:30pm} 
  
@@ -2354,6 +2386,7 @@ EPID542 MSRMT OF HEALTH IN EPID {001 lec tr 1-2:30pm}
 EPID580 OUTCOMES RESEARCH {401 lec r 1-4pm} 
  
 EPID582 SYSTEMATIC REVIEWS 
+lec mf 10:30-12noon 001 
  
 EPID610 TUTORIAL IN EPI RESEARCH {000 ind tba staff} 
  
@@ -2455,8 +2488,8 @@ ESE895 TEACHING PRATICUM {001 lec tba sarkar}
  
 ESE899 PHD INDEPENDENT STUDY {000 ind tba staff} 
  
-FNAR061 VIDEO I {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
-sem r 4:30-7:30pm {406 sem m 1-4pm} {407 sem w 2-5pm} 
+FNAR061 VIDEO I {401 sem w 5-8pm} {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
+sem r 4:30-7:30pm 404 {406 sem m 1-4pm} {407 sem w 2-5pm} 
  
 FNAR063 DOCUMENTARY VIDEO {401 sem t 5:30-8:30pm} 
  
@@ -2604,8 +2637,8 @@ FNAR640 DIGITAL PHOTOGRAPHY {401 stu m 10-1pm} {402 stu m 5-8pm} {403 stu m 2-5p
  
 FNAR645 BOOK&PUBLICATION DESIGN {401 stu f 10-2pm} 
  
-FNAR661 VIDEO I {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
-sem r 4:30-7:30pm {406 sem m 1-4pm} {407 sem w 2-5pm} 
+FNAR661 VIDEO I {401 sem w 5-8pm} {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
+sem r 4:30-7:30pm 404 {406 sem m 1-4pm} {407 sem w 2-5pm} 
  
 FNAR663 DOCUMENTARY VIDEO {401 sem t 5:30-8:30pm} 
  
@@ -2619,7 +2652,8 @@ FNAR684 PHOTOGRAPHY & FASHION {401 stu t 4:30-7:30pm}
  
 FNAR686 VISUAL NARRATIVE {401 stu w 1:30-4:30pm} 
  
-FNCE100 CORPORATE FINANCE {002 lec tr 12-1:30pm} {003 lec mw 9-10:30am} {004 lec mw 10:30-12noon} {005 lec mw 1:30-3pm} {301 lec mw 10:30-12noon} {302 lec mw 12-1:30pm} 
+FNCE100 CORPORATE FINANCE 
+lec tr 10:30-12noon 001 {002 lec tr 12-1:30pm} {003 lec mw 9-10:30am} {004 lec mw 10:30-12noon} {005 lec mw 1:30-3pm} {301 lec mw 10:30-12noon} {302 lec mw 12-1:30pm} 
  
 FNCE101 MONETARY ECON & GLOB ECO {001 lec mw 10:30-12noon} {003 lec mw 1:30-3pm} {004 lec mw 9-10:30am} 
  
@@ -2629,7 +2663,8 @@ FNCE205 INVESTMENT MANAGEMENT {001 lec tr 9-10:30am} {002 lec tr 12-1:30pm}
  
 FNCE206 FINANCIAL DERIVATIVES {001 lec mw 12-1:30pm} {002 lec mw 3-4:30pm} 
  
-FNCE207 CORPORATE VALUATION {002 lec mw 12-1:30pm} 
+FNCE207 CORPORATE VALUATION 
+lec mw 10:30-12noon 001 {002 lec mw 12-1:30pm} 
  
 FNCE208 INTERNATIONAL CORP FINAN {001 lec mw 12-1:30pm} 
  
@@ -2649,8 +2684,8 @@ FNCE393 ASP-GLOBAL MONETARY FIN {001 lec tr 9-10:30am}
  
 FNCE604 PREP FOR ACCEL CORP FIN {001 lec wrf 9-12noon} 
  
-FNCE611 CORPORATE FINANCE 
-lec tr 10:30-12noon {003 lec tr 1:30-3pm} {004 lec mw 10:30-12noon} {005 lec mw 12-1:30pm} {006 lec mw 3-4:30pm} 
+FNCE611 CORPORATE FINANCE {001 lec tr 9-10:30am} 
+lec tr 10:30-12noon 002 {003 lec tr 1:30-3pm} {004 lec mw 10:30-12noon} {005 lec mw 12-1:30pm} {006 lec mw 3-4:30pm} 
  
 FNCE612 ACCELERATED CORP FINANCE {001 lec tr 9-10:30am} {003 lec tr 10:30-12noon} {005 lec tr 12-1:30pm} 
  
@@ -2685,6 +2720,7 @@ FNCE911 FINANCIAL ECONOMICS {001 lec m 2:30-5:30pm}
 FNCE928 METHODS IN FNCE THEORY {001 lec w 12-3pm} 
  
 FNCE934 EMPIRICAL METH IN ASSET 
+lec t 4:30-7:30pm 001 
  
 FNCE937 APPLIED QUANTITATIVE MET {001 lec f 9-12noon} 
  
@@ -2720,7 +2756,8 @@ FREN211 FR FOR PROFESSIONS I {301 sem mw 2-3:30pm} {302 sem mw 3:30-5pm}
  
 FREN212 ADV FR GRAM & COMP {301 sem mwf 10-11am} {302 sem mwf 11-12noon} {303 sem mwf 12-1pm} {304 sem mwf 1-2pm} 
  
-FREN214 ADV. COMP & CONVERSATION {302 sem mwf 1-2pm} 
+FREN214 ADV. COMP & CONVERSATION 
+sem mwf 11-12noon 301 {302 sem mwf 1-2pm} 
  
 FREN217 FRENCH PHONETICS {301 sem tr 12-1:30pm} 
  
@@ -2876,7 +2913,8 @@ GRMN027 EURO ZONE CRISIS {301 sem tr 10:30-12noon}
  
 GRMN029 DIGITAL FOOTPRINTS {301 sem mwf 10-11am} 
  
-GRMN101 ELEMENTARY GERMAN I {002 lec mtwrf 12-1pm} {003 lec mwf 1-2pm} 
+GRMN101 ELEMENTARY GERMAN I 
+lec mtwrf 11-12noon 001 {002 lec mtwrf 12-1pm} {003 lec mwf 1-2pm} 
  
 GRMN102 ELEMENTARY GERMAN II {001 lec mwf 11-12noon} {002 lec mtwrf 12-1pm} 
  
@@ -2885,6 +2923,7 @@ GRMN103 INTERMEDIATE GERMAN I {001 lec mtwr 11-12noon} {002 lec mtwr 12-1pm} {00
 GRMN104 INTERMEDIATE GERMAN II {001 lec mtwr 11-12noon} {002 lec mtwr 12-1pm} 
  
 GRMN106 ACCELERATED ELEM GERMAN 
+lec tr 10:30-12noon 401 
  
 GRMN180 GERMAN IN RESIDENCE {001 lec tba zambon} 
  
@@ -2905,6 +2944,7 @@ GRMN263 JEWISH AMERICAN LIT {401 sem tr 1:30-3pm}
 GRMN279 INTRO TO LITERARY & CULT {401 lec tr 9-10:30am} 
  
 GRMN302 PLACES OF MEMORY 
+lec mwf 11-12noon 001 
  
 GRMN379 DECADENCE {001 lec tr 10:30-12noon} 
  
@@ -2913,6 +2953,7 @@ GRMN399 INDEPENDENT STUDY {000 ind tba staff}
 GRMN401 TRANS(L)ITS {001 lec tr 1:30-3pm} 
  
 GRMN505 ACCELERATED ELEM GERMAN 
+lec tr 10:30-12noon 401 
  
 GRMN526 THE TROUBLE WITH FREUD {401 sem t 3-5pm} 
  
@@ -2985,6 +3026,7 @@ HCMG204 COMPARATIVE HC SYSTEMS {401 lec tr 9-10:30am}
 HCMG211 LAW OF HLTHCARE IN AMER. {401 lec tr 1:30-3pm} 
  
 HCMG213 HC MGMT&STRAT 
+lec mw 12-1:30pm 001 
  
 HCMG250 HEALTH POLICY {401 lec tr 4:30-6pm} 
  
@@ -3072,11 +3114,12 @@ HIST070 COLONIAL LATIN AMERICA {401 lec mw 12-1pm} {402 rec f 12-1pm} {403 rec f
  
 HIST076 AFRICA SINCE {401 lec mw 12-1pm} {402 rec f 11-12noon} {403 rec f 11-12noon} {404 rec f 12-1pm} {405 rec f 12-1pm} {406 rec r 4:30-5:30pm} {407 rec r 4:30-5:30pm} {408 rec r 12-1pm} 
  
-HIST081 HIST MID EAST SINCE {402 rec f 12-1pm} {403 rec f 12-1pm} {404 rec f 1-2pm} {405 rec f 1-2pm} 
-rec r 4:30-5:30pm 
-rec r 4:30-5:30pm 
+HIST081 HIST MID EAST SINCE {401 lec mw 1-2pm} {402 rec f 12-1pm} {403 rec f 12-1pm} {404 rec f 1-2pm} {405 rec f 1-2pm} 
+rec r 4:30-5:30pm 406 
+rec r 4:30-5:30pm 407 
  
 HIST083 DIPLOMACY IN MIDDLE EAST 
+lec tr 12-1:30pm 401 
  
 HIST085 INDIA: CULTURE & SOCIETY {401 lec tr 3-4:30pm} 
  
@@ -3136,11 +3179,13 @@ HIST212 CLASSICAL LIBERAL THGHT {301 sem t 3-6pm}
  
 HIST220 RUSSIA AND THE WEST {401 sem tr 3-4:30pm} 
  
-HIST230 SECULAR JUDAISM AND JEWS {402 sem w 3:30-6:30pm} {403 sem r 3-6pm} 
+HIST230 SECULAR JUDAISM AND JEWS 
+sem t 1:30-4:30pm 401 {402 sem w 3:30-6:30pm} {403 sem r 3-6pm} 
  
 HIST231 PHILA & GREAT MIGRATION {401 sem r 1:30-4:30pm} 
  
-HIST232 SEX&POWER IN MIDDLE EAST {402 sem r 1:30-4:30pm} 
+HIST232 SEX&POWER IN MIDDLE EAST 
+sem t 1:30-4:30pm 401 {402 sem r 1:30-4:30pm} 
  
 HIST233 CITIES IN CHINESE HIST {401 sem m 2-5pm} {402 sem w 2-5pm} 
  
@@ -3393,6 +3438,7 @@ JPAN611 INTERMED JAPANESE III {401 lec mtwr 12-1pm}
 JWST031 BEGINNING YIDDISH I {401 lec tr 12-1:30pm} 
  
 JWST033 INTERMEDIATE YIDDISH I 
+lec tr 10:30-12noon 401 
  
 JWST051 ELEM MODERN HEBREW I {401 lec mw 11-12noon} {402 lec mw 12-1pm} 
  
@@ -3571,8 +3617,10 @@ LAW592 TRIAL ADVOCACY {001 lec w 6:40-8:30pm}
 LAW600 ACCOUNTING {001 lec m 4:30-6:20pm} 
  
 LAW601 ADMINISTRATIVE LAW 
+lec tr 10:30-11:50am 001 
  
 LAW602 EMPLOYEE BENEFITS 
+lec r 4:30-6:20pm 001 
  
 LAW607 ANTITRUST {001 lec tr 3-4:20pm} 
  
@@ -3581,6 +3629,7 @@ LAW612 APPELLATE ADVOCACY {001 lec m 5-7pm} {002 lec t 4:30-6:30pm} {003 lec m 4
 LAW617 CONFLICT OF LAWS {001 lec mw 3-4:20pm} 
  
 LAW621 COPYRIGHT 
+lec mtw 8:45-10:20am 001 
  
 LAW622 CORPORATIONS {001 lec mwr 3-4:15pm} {002 lec mwr 10:30-12noon} {003 lec mwr 10:30-11:45am} 
  
@@ -4022,15 +4071,16 @@ MEAM110 INTRO TO MECHANICS {001 lec mwf 11-12noon} {201 rec m 3-4pm} {202 rec m 
  
 MEAM147 INTRO TO MECHANICS LAB {101 lab r 5-7pm} {102 lab f 9-11am} {103 lab f 12-2pm} {104 lab f 2-4pm} 
  
-MEAM201 MACH DESIGN & MANUFACT 
-lab r 10:30-12noon {102 lab r 1:30-3pm} {103 lab f 11-12:30pm} {104 lab f 1-2:30pm} 
+MEAM201 MACH DESIGN & MANUFACT {001 lec t 3-4:30pm} 
+lab r 10:30-12noon 101 {102 lab r 1:30-3pm} {103 lab f 11-12:30pm} {104 lab f 1-2:30pm} 
  
 MEAM210 STATICS & STRENTH OF MAT {001 lec tr 12-1:30pm} {201 rec m 10-11am} {202 rec m 12-1pm} {203 rec m 3-4pm} 
  
 MEAM247 LECTURE {001 lec m 2-3pm} {101 lab r 9-10:30am} {102 lab r 10:30-12noon} {103 lab r 3-4:30pm} {104 lab f 11-12:30pm} {105 lab f 1-2:30pm} 
  
-MEAM302 FLUID MECHANICS {201 rec t 11-12noon} 
-rec r 1:30-2:30pm 
+MEAM302 FLUID MECHANICS 
+lec mwf 11-12noon 001 {201 rec t 11-12noon} 
+rec r 1:30-2:30pm 202 
  
 MEAM347 LECTURE {001 lec mf 10-11am} {101 lab t 10:30-12noon} {102 lab t 1:30-3pm} {103 lab w 1:30-3pm} {104 lab w 3-4:30pm} {105 lab w 4:30-6pm} 
  
@@ -4083,6 +4133,7 @@ MEAM599 MASTER'S INDEP STUDY {000 ind tba staff}
 MEAM662 ADV MOLECULAR THERMODYN {401 lec mw 1:30-3pm} {402 rec f 1:30-3pm} 
  
 MEAM699 MEAM SEMINAR 
+sem t 10:30-12noon 301 
  
 MEAM895 TEACHING PRACTICUM {001 lec tba purohit} 
  
@@ -4090,8 +4141,8 @@ MEAM899 INDEPENDENT STUDY {000 ind tba staff} {001 ind tba staff} {002 ind tba s
  
 MEAM995 DISSERTATION {001 dis tba purohit} 
  
-MGEC611 MICROECONOMICS FOR MANAG {003 lec tr 1:30-3pm} {005 lec tr 10:30-12noon} {006 lec tr 1:30-3pm} {007 lec tr 9-10:30am} 
-lec tr 10:30-12noon {009 lec tr 1:30-3pm} {010 lec tr 9-10:30am} {011 lec tr 10:30-12noon} {012 lec tr 1:30-3pm} {001 lec tr 9-10:30am} {004 lec tr 9-10:30am} 
+MGEC611 MICROECONOMICS FOR MANAG {002 lec tr 10:30-12noon} {003 lec tr 1:30-3pm} {005 lec tr 10:30-12noon} {006 lec tr 1:30-3pm} {007 lec tr 9-10:30am} 
+lec tr 10:30-12noon 008 {009 lec tr 1:30-3pm} {010 lec tr 9-10:30am} {011 lec tr 10:30-12noon} {012 lec tr 1:30-3pm} {001 lec tr 9-10:30am} {004 lec tr 9-10:30am} 
  
 MGMT100 RECITATION {251 rec w 10-11am} {252 rec w 11-12noon} {253 rec w 12-1pm} {254 rec w 1-2pm} {255 rec w 2-3pm} {256 rec w 3-4pm} {006 lec tr 12-1:30pm} {261 rec w 10-11am} {262 rec w 11-12noon} {263 rec w 12-1pm} {264 rec w 1-2pm} {265 rec w 2-3pm} {266 rec w 3-4pm} {007 lec tr 3-4:30pm} {271 rec f 10-11am} {272 rec f 11-12noon} {273 rec f 12-1pm} {274 rec f 1-2pm} {275 rec f 2-3pm} {276 rec f 3-4pm} {008 lec tr 3-4:30pm} {281 rec f 10-11am} {282 rec f 11-12noon} {283 rec f 12-1pm} {284 rec f 1-2pm} {285 rec f 2-3pm} {286 rec f 3-4pm} {009 lec tr 3-4:30pm} {291 rec f 10-11am} {292 rec f 11-12noon} {293 rec f 12-1pm} {294 rec f 1-2pm} {295 rec f 2-3pm} {296 rec f 3-4pm} 
  
@@ -4106,6 +4157,7 @@ MGMT211 COMPETITIVE STRATEGY {001 lec mw 10:30-12noon}
 MGMT223 BUSINESS POLICY {001 lec tr 1:30-3pm} 
  
 MGMT231 ENTREPR VENTR INITIATION 
+lec tr 10:30-12noon 001 
  
 MGMT234 INT'L COMPARATIVE MGMT. {001 lec tr 3-4:30pm} 
  
@@ -4130,6 +4182,7 @@ MGMT265 CULTURE OF TECHNOLOGY {001 lec mw 12-1:30pm}
 MGMT266 FAMILY ENTERPRISE MGMT. {401 lec m 3-6pm} 
  
 MGMT272 POWER & POL IN ORGANIZ 
+lec tr 10:30-12noon 001 
  
 MGMT291 NEGOTIATIONS {406 lec m 3-6pm} {407 lec w 3-6pm} {408 lec r 3-6pm} {409 lec r 3-6pm} {411 lec mw 12-1:30pm} 
  
@@ -4199,12 +4252,14 @@ MKTG101 LECTURE {001 lec m 3-4:30pm} {002 lec m 4:30-6pm} {201 rec t 9-10:30am} 
  
 MKTG211 CONSUMER BEHAVIOR {001 lec tr 9-10:30am} {002 lec tr 10:30-12noon} {003 lec mw 10:30-12noon} 
  
-MKTG212 MARKETING RESEARCH {002 lec tr 10:30-12noon} {003 lec tr 1:30-3pm} 
+MKTG212 MARKETING RESEARCH 
+lec mw 10:30-12noon 001 {002 lec tr 10:30-12noon} {003 lec tr 1:30-3pm} 
  
-MKTG221 NEW PRODUCT MANAGEMENT 
-lec tr 10:30-12noon 
+MKTG221 NEW PRODUCT MANAGEMENT {001 lec mw 9-10:30am} 
+lec tr 10:30-12noon 002 
  
-MKTG224 ADVERTISING MANAGEMENT {002 lec mw 9-10:30am} 
+MKTG224 ADVERTISING MANAGEMENT 
+lec tr 10:30-12noon 001 {002 lec mw 9-10:30am} 
  
 MKTG227 MKTG AND ELECTRONIC COMM {401 lec tr 10:30-12noon} {403 lec tr 1:30-3pm} 
  
@@ -4212,8 +4267,8 @@ MKTG231 PSYC CONSUM FINANC DECIS {001 lec mw 3-4:30pm}
  
 MKTG233 SOCIAL IMPACT OF MKTG {001 lec mw 1:30-3pm} 
  
-MKTG242 MULTINATIONAL MARKETING 
-lec tr 10:30-12noon 
+MKTG242 MULTINATIONAL MARKETING {402 lec tr 9-10:30am} 
+lec tr 10:30-12noon 404 
  
 MKTG254 PRICING POLICY {402 lec tr 10:30-12noon} 
  
@@ -4229,7 +4284,8 @@ MKTG711 CONSUMER BEHAVIOR {001 lec tr 10:30-12noon} {002 lec tr 1:30-3pm} {003 l
  
 MKTG712 MARKETING RESEARCH {001 lec tr 9-10:30am} {002 lec tr 1:30-3pm} 
  
-MKTG724 ADVERTISING MANAGEMENT {003 lec tr 1:30-3pm} 
+MKTG724 ADVERTISING MANAGEMENT 
+lec tr 10:30-12noon 001 {003 lec tr 1:30-3pm} 
  
 MKTG727 MKTG AND ELECTRONIC COMM {050 lec tba bell} {401 lec tr 10:30-12noon} {403 lec tr 1:30-3pm} 
  
@@ -4237,8 +4293,8 @@ MKTG731 PSYC CONSUM FINANC DECIS {001 lec mw 1:30-3pm}
  
 MKTG733 SOCIAL IMPACT OF MKTG {001 lec mw 3-4:30pm} 
  
-MKTG742 MULTINATIONAL MARKETING 
-lec tr 10:30-12noon 
+MKTG742 MULTINATIONAL MARKETING {402 lec tr 9-10:30am} 
+lec tr 10:30-12noon 404 
  
 MKTG754 PRICING POLICY {004 lec tr 12-1:30pm} {050 lec tba zhang} {402 lec tr 10:30-12noon} 
  
@@ -4336,7 +4392,8 @@ MSSP628 POLICY ANALYSIS {001 lec w 12-2:30pm} {002 lec w 4-6:30pm}
  
 MSSP629 RESRCH EVALUATION DESIGN {001 lec m 1-3:30pm} 
  
-MSSP630 QUANTITATIVE REASONING {002 lec t 1:30-3:30pm} {102 lab r 2-3pm} {103 lab r 3:30-4:30pm} 
+MSSP630 QUANTITATIVE REASONING 
+lec t 11:30-1:30pm 001 {002 lec t 1:30-3:30pm} {102 lab r 2-3pm} {103 lab r 3:30-4:30pm} 
  
 MTR603 DISEASE MEASUREMENT {002 sem tr 8-10am} 
  
@@ -4386,7 +4443,8 @@ MUSC255 ACCRDIONS OF THE NEW WLD {401 lec tr 12-1:30pm}
  
 MUSC265 PERFORM ARTS SOUTH ASIA {401 lec tr 1:30-3pm} 
  
-MUSC270 THEORY & MUSICIANSHP III {101 lab mw 11-12noon} 
+MUSC270 THEORY & MUSICIANSHP III 
+lec tr 10:30-12noon 001 {101 lab mw 11-12noon} 
  
 MUSC277 RECORDING MUSIC {301 sem w 3:30-5pm} 
  
@@ -4426,15 +4484,16 @@ MUSC998 COMPOSITION {000 ind tba staff}
  
 NELC008 ARAB VOICES OF DISSENT {401 sem tr 4:30-6pm} 
  
-NELC031 HIST MID EAST SINCE {402 rec f 12-1pm} {403 rec f 12-1pm} {404 rec f 1-2pm} {405 rec f 1-2pm} 
-rec r 4:30-5:30pm 
-rec r 4:30-5:30pm 
+NELC031 HIST MID EAST SINCE {401 lec mw 1-2pm} {402 rec f 12-1pm} {403 rec f 12-1pm} {404 rec f 1-2pm} {405 rec f 1-2pm} 
+rec r 4:30-5:30pm 406 
+rec r 4:30-5:30pm 407 
  
 NELC033 CLTL HER,PLTCS&WAR IN ME {401 sem t 3-6pm} 
  
 NELC052 MED & EARLY MOD JEWRY {401 lec mw 2-3:30pm} 
  
 NELC083 DIPLOMACY IN MIDDLE EAST 
+lec tr 12-1:30pm 401 
  
 NELC101 INTRO TO ANC NEAR EAST {401 lec mw 10-11am} {402 rec r 10:30-11:30am} {403 rec f 9-10am} {404 rec f 10-11am} 
  
@@ -4461,6 +4520,7 @@ NELC258 JEWISH FOLKLORE {401 lec tr 10:30-12noon}
 NELC266 HIST OF ANC EGYPT {401 lec tr 3-4:30pm} 
  
 NELC282 SEX&POWER IN MIDDLE EAST 
+sem t 1:30-4:30pm 401 
  
 NELC336 NATIONALISM IN MID EAST {401 sem m 2-5pm} 
  
@@ -4513,6 +4573,7 @@ NPLD580 NONPRFT GOVERNING BOARDS {001 lec tba shmavonian}
 NPLD589 ETHICS & SOCIAL IMPACT {001 lec r 3:30-6:30pm} 
  
 NPLD590 NONPROFIT FINANCIAL MGMT 
+lec t 5:30-8:30pm 401 
  
 NPLD783 SOC IMPACT MEASUREMENT {001 lec m 12-3pm} 
  
@@ -4525,6 +4586,7 @@ NPLD786 NONPROFIT GOVNCE & MGMNT {001 lec t 2-5pm}
 NPLD787 LEADERSHIP FOR NEW ECON. {001 lec tba smith} 
  
 NPLD790 NONPROFIT FINANCIAL MGMT 
+lec t 5:30-8:30pm 401 
  
 NSCI100 NAVAL SCIENCE DRILL {001 lec w 7-8:45am} 
  
@@ -4535,8 +4597,10 @@ NSCI201 LEADERSHIP & MANAGEMENT {001 lec tr 7:30-8:45am} {002 lec tr 7:30-8:45am
 NSCI301 ENGINEERING {001 lec tr 7:30-8:45am} {002 lec tr 7:30-8:45am} 
  
 NSCI310 EVOLUTION OF WARFARE 
+lec mr 7:30-8:45am 001 
  
-NURS061 BIOL BASED CHEMISTRY {201 rec r 12-1pm} {202 rec r 3-4pm} {203 rec r 4-5pm} {204 rec f 2-3pm} 
+NURS061 BIOL BASED CHEMISTRY 
+lec tr 1:30-2:30pm 001 {201 rec r 12-1pm} {202 rec r 3-4pm} {203 rec r 4-5pm} {204 rec f 2-3pm} 
  
 NURS062 CELL BIOLOGY {001 lec mw 3-4:30pm} {201 rec f 10-11am} {202 rec f 11-12noon} {203 rec f 1-2pm} {204 rec f 2-3pm} 
  
@@ -4550,7 +4614,8 @@ NURS112 NUTRITION: SCI & APPLICA {001 lec tr 3-4:30pm} {002 lec tr 4:30-6pm}
  
 NURS132 LABORATORY {101 lab t 1:30-3pm} {102 lab t 3-4:30pm} {103 lab w 11-12:30pm} {104 lab w 2-3:30pm} {105 lab r 1:30-3pm} {106 lab r 3-4:30pm} 
  
-NURS164 ANAT&PHYS/PHYS ASSESS II {101 cln w 8:30-11am} {102 cln w 8:30-11am} {103 cln w 8:30-11am} {104 cln w 8:30-11am} {105 cln w 11:30-2pm} {106 cln w 11:30-2pm} {107 cln w 11:30-2pm} {108 cln w 11:30-2pm} {110 cln w 2-4:30pm} {111 cln w 2-4:30pm} {112 cln w 2-4:30pm} {113 cln w 2-4:30pm} {201 lab t 1:30-3pm} {202 lab t 3-4:30pm} {203 lab w 11-12:30pm} {204 lab w 2-3:30pm} {205 lab r 1:30-3pm} {206 lab r 3-4:30pm} 
+NURS164 ANAT&PHYS/PHYS ASSESS II 
+lec tr 10:30-12noon 001 {101 cln w 8:30-11am} {102 cln w 8:30-11am} {103 cln w 8:30-11am} {104 cln w 8:30-11am} {105 cln w 11:30-2pm} {106 cln w 11:30-2pm} {107 cln w 11:30-2pm} {108 cln w 11:30-2pm} {110 cln w 2-4:30pm} {111 cln w 2-4:30pm} {112 cln w 2-4:30pm} {113 cln w 2-4:30pm} {201 lab t 1:30-3pm} {202 lab t 3-4:30pm} {203 lab w 11-12:30pm} {204 lab w 2-3:30pm} {205 lab r 1:30-3pm} {206 lab r 3-4:30pm} 
  
 NURS215 LABORATORY {202 lab t 8-11am} {203 lab t 12-3pm} {204 lab t 12-3pm} {205 lab t 4-7pm} {206 lab t 4-7pm} {207 lab w 1-4pm} {208 lab w 1-4pm} {209 lab w 5-8pm} {210 lab w 5-8pm} {211 lab r 12-3pm} {212 lab r 12-3pm} {213 lab r 4-7pm} {214 lab r 4-7pm} {111 cln r 7-1pm} {112 cln t 7-1pm} {113 cln t 7-1pm} 
  
@@ -4803,6 +4868,7 @@ PERS013 INTERMED PERSIAN I {401 lec mtwr 2-3pm}
 PERS015 ADVANCED PERSIAN I {680 lec tr 5-7pm} 
  
 PERS017 READING AND WRITING 
+lec mw 4:30-6:30pm 680 
  
 PERS111 BEGINNING PASHTU I {680 lec f 8:30-11:30am} 
  
@@ -5038,7 +5104,8 @@ PSCI233 INTRO TO AFRO-AMER POL {001 lec tr 3-4:30pm}
  
 PSCI236 THE PUBLIC POL PROCESS {401 lec mw 11-12noon} {402 rec f 1-2pm} {403 rec r 11-12noon} {404 rec f 11-12noon} {405 rec f 12-1pm} {406 rec r 12-1pm} {407 rec w 2-3pm} 
  
-PSCI237 THE AMERICAN PRESIDENCY {201 rec r 1:30-2:30pm} {202 rec r 3-4pm} {203 rec f 11-12noon} 
+PSCI237 THE AMERICAN PRESIDENCY 
+lec tr 10:30-11:30am 001 {201 rec r 1:30-2:30pm} {202 rec r 3-4pm} {203 rec f 11-12noon} 
  
 PSCI252 WAR,STRATEGY & POLITICS {001 lec tr 10:30-11:30am} {201 rec m 10-11am} {202 rec m 2-3pm} {203 rec t 9:30-10:30am} 
  
@@ -5115,6 +5182,7 @@ PSYC207 INTRO COGNITIVE SCIENCE {401 lec tr 1:30-3pm} {402 rec r 3-4pm} {403 rec
 PSYC225 DRUGS, BRAIN AND MIND {601 lec tr 4:30-6pm} 
  
 PSYC231 EVOLUTION OF BEHAVIOR 
+lec tr 10:30-12noon 401 
  
 PSYC253 JUDGMENT AND DECISIONS {601 lec r 5:30-8:40pm} 
  
@@ -5145,6 +5213,7 @@ PSYC547 FNDTIONS SOC COG NEUROSC {001 lec m 2-3:30pm}
 PSYC579 EXP METHODS PERCEPTION {301 lec tr 3:30-5pm} 
  
 PSYC600 BIOL BASIS OF BEHAVIOR 
+sem tr 1:30-3:30pm 302 
  
 PSYC611 STAT FOR PSYCH {401 lec tr 12-1:30pm} 
  
@@ -5262,7 +5331,8 @@ RELS218 SAINTS & DEVILS RUSS LIT {401 sem mw 2-3:30pm}
  
 RELS226 RABBINIC NARRATIVE {401 sem t 10:30-1:30pm} 
  
-RELS230 SECULAR JUDAISM AND JEWS {402 sem w 3:30-6:30pm} {403 sem r 3-6pm} 
+RELS230 SECULAR JUDAISM AND JEWS 
+sem t 1:30-4:30pm 401 {402 sem w 3:30-6:30pm} {403 sem r 3-6pm} 
  
 RELS231 JESUS AND JUDAISM {301 sem tr 10:30-12noon} 
  
@@ -5341,6 +5411,7 @@ RUSS503 INTERMEDIATE RUSSIAN I {401 lec mw 10-11am} {402 lec mtwr 5-6pm}
 RUSS511 ADVANCED RUSS CONV/COMP {401 lec mw 11-12noon} 
  
 SAST002 THE CITY IN SOUTH ASIA 
+lec tr 10:30-12noon 401 
  
 SAST005 PERFORM ARTS SOUTH ASIA {401 lec tr 1:30-3pm} 
  
@@ -5459,6 +5530,7 @@ SOCI126 CONTEMPORARY SOCIO THEOR {601 lec m 5-8pm}
 SOCI128 INTRO TO DEMOG METHODS {001 lec mw 2-3:30pm} 
  
 SOCI130 DIPLOMACY IN MIDDLE EAST 
+lec tr 12-1:30pm 401 
  
 SOCI135 LAW & SOCIETY {401 lec tr 4:30-6pm} 
  
@@ -5527,32 +5599,33 @@ SOCI691 SOCI WRITING WKSHP II {401 sem w 6-8:30pm}
 SOCI707 SEM DEMOGRAPHIC RESEARCH {401 sem w 6-8:30pm} 
  
 SOCI867 MEDIA & SOCIAL MOVEMENTS 
+sem w 3:30-5:30pm 401 
  
-SPAN110 ELEMENTARY SPANISH I {302 sem mwf 10-11am} {303 sem mtwf 11-12noon} {304 sem mwf 11-12noon} {305 sem mtwf 12-1pm} {306 sem mtwrf 12-1pm} {307 sem mwf 1-2pm} {308 sem mtwrf 2-3pm} 
-sem mtwrf 12-1pm 
+SPAN110 ELEMENTARY SPANISH I {301 sem mtwrf 9-10am} {302 sem mwf 10-11am} {303 sem mtwf 11-12noon} {304 sem mwf 11-12noon} {305 sem mtwf 12-1pm} {306 sem mtwrf 12-1pm} {307 sem mwf 1-2pm} {308 sem mtwrf 2-3pm} 
+sem mtwrf 12-1pm 309 
  
 SPAN115 SPAN FOR MED PROF ELEM {680 sem mw 6-8:30pm} 
  
-SPAN121 ELEMENTARY SPANISH {302 sem mtwrf 9-10am} {303 sem mwf 10-11am} {304 sem mwf 10-11am} {305 sem mtwrf 11-12noon} {306 sem mtwrf 12-1pm} 
-sem mtwrf 12-1pm {308 sem mwf 1-2pm} 
+SPAN121 ELEMENTARY SPANISH {301 sierra matute v} {302 sem mtwrf 9-10am} {303 sem mwf 10-11am} {304 sem mwf 10-11am} {305 sem mtwrf 11-12noon} {306 sem mtwrf 12-1pm} 
+sem mtwrf 12-1pm 307 {308 sem mwf 1-2pm} 
  
-SPAN130 INTERMEDIATE SPANISH I {302 sem mwrf 9-10am} {303 sem mwf 10-11am} {304 sem mwf 10-11am} {305 sem mwf 11-12noon} 
-sem mwrf 11-12noon 
-sem mwrf 11-12noon {308 sem mwrf 12-1pm} {309 sem mwf 12-1pm} {310 sem mw 1-2pm} {311 sem mtwr 2-3pm} {312 sem mtwrf 2-3pm} {313 sem mw 3:30-4:30pm} {314 sem tr 3-4pm} 
+SPAN130 INTERMEDIATE SPANISH I {301 sem mwrf 9-10am} {302 sem mwrf 9-10am} {303 sem mwf 10-11am} {304 sem mwf 10-11am} {305 sem mwf 11-12noon} 
+sem mwrf 11-12noon 306 
+sem mwrf 11-12noon 307 {308 sem mwrf 12-1pm} {309 sem mwf 12-1pm} {310 sem mw 1-2pm} {311 sem mtwr 2-3pm} {312 sem mtwrf 2-3pm} {313 sem mw 3:30-4:30pm} {314 sem tr 3-4pm} 
  
 SPAN135 SPAN FOR MED PROF INT I {680 sem tr 6-8pm} 
  
-SPAN140 INTERMEDIATE SPANISH II {302 sem mtwf 9-10am} {303 sem mwf 10-11am} {304 sem mwf 10-11am} {305 sem mwf 10-11am} {306 sem mtwf 11-12noon} {307 sem mwf 11-12noon} 
-sem mtwf 11-12noon {309 sem mwf 12-1pm} {310 sem mtwf 12-1pm} {311 sem mtwf 12-1pm} {312 sem mw 1-2pm} {313 sem mw 1-2pm} {314 sem mtwr 2-3pm} {315 sem mtwr 2-3pm} {316 sem mw 3:30-4:30pm} 
-sem mw 3:30-4:30pm 
+SPAN140 INTERMEDIATE SPANISH II {301 sem mtwf 9-10am} {302 sem mtwf 9-10am} {303 sem mwf 10-11am} {304 sem mwf 10-11am} {305 sem mwf 10-11am} {306 sem mtwf 11-12noon} {307 sem mwf 11-12noon} 
+sem mtwf 11-12noon 308 {309 sem mwf 12-1pm} {310 sem mtwf 12-1pm} {311 sem mtwf 12-1pm} {312 sem mw 1-2pm} {313 sem mw 1-2pm} {314 sem mtwr 2-3pm} {315 sem mtwr 2-3pm} {316 sem mw 3:30-4:30pm} 
+sem mw 3:30-4:30pm 317 
  
 SPAN145 SPAN FOR MED PROF INT {680 sem tr 6-8pm} 
  
 SPAN180 SPANISH CONVERSATION {301 sem tba martinez} 
  
-SPAN202 ADVANCED SPANISH 
-sem mtwf 11-12noon {303 sem mtwf 12-1pm} {304 sem mtwf 12-1pm} {305 sem mw 1-2pm} {306 sem mtwr 2-3pm} 
-sem mw 3:30-4:30pm 
+SPAN202 ADVANCED SPANISH {301 sem mwf 10-11am} 
+sem mtwf 11-12noon 302 {303 sem mtwf 12-1pm} {304 sem mtwf 12-1pm} {305 sem mw 1-2pm} {306 sem mtwr 2-3pm} 
+sem mw 3:30-4:30pm 307 
  
 SPAN208 BUSINESS SPANISH I {301 sem mw 2-3:30pm} {302 sem tr 3-4:30pm} {680 sem tr 6-7:30pm} 
  
@@ -5562,8 +5635,8 @@ SPAN212 ADV SPANISH SYNTAX {301 sem mwf 11-12noon} {302 sem mwf 11-12noon} {303 
  
 SPAN219 TEXTS AND CONTEXTS {301 sem mwf 10-11am} {302 sem mwf 11-12noon} {303 sem mwf 12-1pm} {304 sem mwf 1-2pm} 
  
-SPAN223 INTRO LITERARY ANALYSIS 
-sem mwf 11-12noon {303 sem mwf 12-1pm} {304 sem mwf 1-2pm} 
+SPAN223 INTRO LITERARY ANALYSIS {301 sem mwf 10-11am} 
+sem mwf 11-12noon 302 {303 sem mwf 12-1pm} {304 sem mwf 1-2pm} 
  
 SPAN317 INTRO TO HSPN LINGUISTIC {301 sem mwf 10-11am} 
  
@@ -5770,6 +5843,7 @@ URBS018 INTRO TO SOUND STUDIES {401 sem tr 1:30-3pm} {402 sem f 2-4pm}
 URBS103 INDUSTRIAL METROPOLIS {401 sem t 1:30-4:30pm} 
  
 URBS122 THE CITY IN SOUTH ASIA 
+lec tr 10:30-12noon 401 
  
 URBS139 ANCIENT CIVS OF THE WRLD {401 lec tr 1:30-3pm} 
  
@@ -5780,6 +5854,7 @@ URBS178 URB UNIV-COMMUNITY REL {401 sem w 2-5pm}
 URBS200 URBAN RESEARCH METHODS {301 sem r 5-8pm} 
  
 URBS202 URBAN EDUCATION 
+sem t 4:30-7:30pm 301 
  
 URBS204 URBAN LAW {001 lec mw 2-3:30pm} 
  
@@ -5849,8 +5924,8 @@ VLST253 DRAWING I {401 stu mw 10-1pm} {402 stu mw 2-5pm} {403 stu tr 1:30-4:30pm
  
 VLST260 PHOTOGRAPHY PRACTICES {401 stu t 1:30-4:30pm} 
  
-VLST261 VIDEO I {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
-sem r 4:30-7:30pm {406 sem m 1-4pm} {407 sem w 2-5pm} 
+VLST261 VIDEO I {401 sem w 5-8pm} {402 sem t 1:30-4:30pm} {403 sem t 9-12noon} 
+sem r 4:30-7:30pm 404 {406 sem m 1-4pm} {407 sem w 2-5pm} 
  
 VLST264 ART,DESIGN & DIGITAL CUL {401 stu tr 9-12noon} {402 stu tr 1:30-4:30pm} {403 stu mw 5-8pm} {404 stu mw 10-1pm} {405 stu tr 4:30-7:30pm} 
  
@@ -5913,5 +5988,6 @@ WRIT089 MARINE ECOLOGIES {301 sem mwf 11-12noon} {302 sem mwf 12-1pm} {303 sem m
 YDSH101 BEGINNING YIDDISH I {401 lec tr 12-1:30pm} 
  
 YDSH103 INTERMEDIATE YIDDISH I 
+lec tr 10:30-12noon 401 
  
 YDSH501 BEGINNING YIDDISH I {401 lec tr 12-1:30pm} 

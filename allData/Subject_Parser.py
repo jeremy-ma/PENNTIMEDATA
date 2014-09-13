@@ -64,7 +64,7 @@ for line in subject_file:
 		courseinfo = line.split()
 		for i in range(0,3):
 			section = section + courseinfo[i] + ' '
-		section = section + num + ' '
+		section =  num + section + ' '
 		section = section + '\n'
 		grabNextLine = False
 
