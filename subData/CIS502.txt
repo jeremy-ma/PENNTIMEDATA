@@ -1,0 +1,8 @@
+CIS-502 ANALYSIS OF ALGORITHMS            1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MW 1:30-3PM SKIR AUD             GUHA S
+     MAX: 75                
+          RECITATION                        0 CU
+ 201 REC F 2-3PM SKIR AUD                 GUHA S
+     MAX: 80                
+ 

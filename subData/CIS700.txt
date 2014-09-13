@@ -1,0 +1,4 @@
+CIS-700 TOPICS: CRYPTOGRAPHY              1 CU
+ 001 LEC MW 12-1:30PM MOOR 212        HENINGER N
+     MAX: 30                
+ 

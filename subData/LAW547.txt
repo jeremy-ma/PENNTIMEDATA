@@ -1,0 +1,9 @@
+LAW-547 BOK COURSE                        1 SH
+ 001 LEC MWF 1:30-2:50PM TANE 253         CHAN J
+     PERMISSION NEEDED FROM DEPARTMENT
+     DATES: 10/06/14 - 10/24/14
+     MAX: 16                
+ 002 LEC MWF 9-10:20AM TANE 253       LOUGHLIN M
+     DATES: 09/08/14 - 09/26/14
+     MAX: 16                
+ 

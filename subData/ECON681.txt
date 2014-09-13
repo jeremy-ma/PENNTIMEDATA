@@ -1,4 +1,4 @@
-ECON-681  MICROECONOMIC THEORY              1 CU
+ECON-681 MICROECONOMIC THEORY              1 CU
  001 LEC MW 9-10:30AM MCNB 410             PAI M
      MAX: 40                
  

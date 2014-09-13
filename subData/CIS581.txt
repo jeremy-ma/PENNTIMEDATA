@@ -1,0 +1,4 @@
+CIS-581 COMP VISION&CMPTNL PHOTO          1 CU
+ 001 LEC TR 4:30-6PM DRLB A5               SHI J
+     MAX: 45                
+ 

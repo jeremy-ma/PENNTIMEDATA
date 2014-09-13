@@ -1,4 +1,4 @@
-EDCE-613  PLN13A:LITRCY STY GRP           1.5 CU
+EDCE-613 PLN13A:LITRCY STY GRP           1.5 CU
  001 LEC TBA                             YORKS K
      DATES: 09/22/14 - 12/01/14
      MAX: 40                

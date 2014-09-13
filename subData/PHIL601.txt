@@ -1,4 +1,4 @@
-PHIL-601  PHILOSOPHY CONSORTIUM             1 CU
+PHIL-601 PHILOSOPHY CONSORTIUM             1 CU
  001 LEC TBA                          WEISBERG M
      MAX: 20                
  

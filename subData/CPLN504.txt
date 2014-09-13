@@ -1,4 +1,4 @@
-CPLN-504  SITE PLANNING                     1 CU
+CPLN-504 SITE PLANNING                     1 CU
  001 LEC M 9-12NOON MEYH B2               PAGE S
      MAX: 32                
  

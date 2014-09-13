@@ -1,4 +1,4 @@
-FNCE-731  INTERNATL CORP FINANCE            1 CU
+FNCE-731 INTERNATL CORP FINANCE            1 CU
      MBA COURSE
  001 LEC MW 1:30-3PM JMHH F55           BODNAR G
      MAX: 60                

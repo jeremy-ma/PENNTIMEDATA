@@ -1,0 +1,4 @@
+LAW-649 INTERDISC CHILD ADV CLIN          6 SH
+ 001 CLN MW 1:30-2:50PM SILV 52          FINCK K
+     MAX: 10                
+ 

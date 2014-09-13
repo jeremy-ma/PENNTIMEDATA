@@ -1,0 +1,5 @@
+MUSC-005 COLLEGE MUSIC PROGRAM           0.5 CU
+ 001 STU TBA                            KETNER M
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 199               
+ 

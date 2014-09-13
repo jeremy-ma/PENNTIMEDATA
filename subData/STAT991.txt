@@ -1,4 +1,4 @@
-STAT-991  SEM IN ADV APPL OF STAT           1 CU
+STAT-991 SEM IN ADV APPL OF STAT           1 CU
  301 SEM MW 1:30-3PM JMHH G86           MOSSEL E
      MAX: 30                
  

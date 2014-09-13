@@ -1,4 +1,4 @@
-KORN-431  ADV RDGS MOD KOREAN I             1 CU
+KORN-431 ADV RDGS MOD KOREAN I             1 CU
  001 LEC MW 2-3:30PM WILL 220             JUNG J
      MAX: 15                
  

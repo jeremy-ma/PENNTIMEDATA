@@ -1,4 +1,4 @@
-SWRK-901  PROSEMINAR                      0.5 CU
+SWRK-901 PROSEMINAR                      0.5 CU
  001 LEC R 2:30-4PM TBA                  DOYLE A
      CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
      MAX: 20                

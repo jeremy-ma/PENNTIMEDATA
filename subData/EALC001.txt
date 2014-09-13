@@ -1,0 +1,24 @@
+EALC-001 INTRO TO CHINESE CIVILIZ          1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     CROSS CULTURAL ANALYSIS
+     HISTORY & TRADITION SECTOR
+ 001 LEC MW 1-2PM ANNS 110              GOLDIN P
+     MAX: 160               
+          RECITATION                        0 CU
+ 201 REC F 10-11AM WILL 25              HEGESH N
+     MAX: 20                
+ 202 REC F 11-12NOON WILL 315          SEYMOUR K
+     MAX: 20                
+ 203 REC F 11-12NOON WILL 216           HEGESH N
+     MAX: 20                
+ 204 REC F 12-1PM WILL 205           EISENLOHR L
+     MAX: 20                
+ 205 REC F 12-1PM WILL 202             SEYMOUR K
+     MAX: 20                
+ 206 REC F 1-2PM WILL 205            EISENLOHR L
+     MAX: 20                
+ 207 REC F 1-2PM WILL 316             ANDREEVA P
+     MAX: 20                
+ 208 REC F 2-3PM WILL 316             ANDREEVA P
+     MAX: 20                
+ 

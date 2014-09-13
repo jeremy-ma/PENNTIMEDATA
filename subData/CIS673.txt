@@ -1,0 +1,4 @@
+CIS-673 COMP AIDED VERIF                  1 CU
+ 001 LEC MW 10:30-12NOON TOWN 305         ALUR R
+     MAX: 25                
+ 

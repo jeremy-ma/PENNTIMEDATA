@@ -1,4 +1,4 @@
-STAT-430  PROBABILITY                       1 CU
+STAT-430 PROBABILITY                       1 CU
  001 LEC MW 9-10:30AM JMHH 355             LOW M
      MAX: 76                
  002 LEC MW 10:30-12NOON JMHH 355          LOW M

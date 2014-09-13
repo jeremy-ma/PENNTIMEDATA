@@ -1,0 +1,15 @@
+PHIL-001 INTRO TO PHILOSOPHY               1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     HUMANITIES & SOCIAL SCIENCE SECTOR
+ 001 LEC TR 10:30-12NOON STIT B26     WEISBERG M
+     MAX: 90                
+          RECITATION                        0 CU
+ 201 REC F 10-11AM COHN 337            BARNETT M
+     MAX: 25                
+ 202 REC F 11-12NOON COHN 337          BARNETT M
+     MAX: 20                
+ 203 REC F 12-1PM COHN 392                BALL P
+     MAX: 25                
+ 204 REC F 1-2PM COHN 392                 BALL P
+     MAX: 20                
+ 

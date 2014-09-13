@@ -1,4 +1,4 @@
-EDUC-674  CURRIC & MAT DEV ENG LAN          1 CU
+EDUC-674 CURRIC & MAT DEV ENG LAN          1 CU
  001 LEC W 2-4PM EDUC 008                HONDO J
      DATES: 08/27/14 - 12/19/14
      MAX: 25                

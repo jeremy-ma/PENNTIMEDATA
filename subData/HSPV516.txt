@@ -1,0 +1,4 @@
+HSPV-516 DIAGNOSTICS & MONITORING          1 CU
+ 001 LEC F 2-5PM MEYH B7                 HENRY M
+     MAX: 18                
+ 

@@ -1,0 +1,4 @@
+CIS-497 DMD SENIOR PROJECT                1 CU
+ 001 LEC TBA                            BADLER N
+     MAX: 30                
+ 

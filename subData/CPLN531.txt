@@ -1,4 +1,4 @@
-CPLN-531  INTRO TO ENV PLANNING             1 CU
+CPLN-531 INTRO TO ENV PLANNING             1 CU
  001 LEC TR 2-3:30PM MEYH B4           DANIELS T
      MAX: 35                
  

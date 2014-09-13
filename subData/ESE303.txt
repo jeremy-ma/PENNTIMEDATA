@@ -1,0 +1,4 @@
+ESE-303 STOCH SYS ANALYSIS SIMUL          1 CU
+ 001 LEC MWF 10-11AM MOOR 216          RIBEIRO A
+     MAX: 70                
+ 

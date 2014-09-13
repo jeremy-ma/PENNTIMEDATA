@@ -1,4 +1,4 @@
-MATH-608  ANALYSIS                          1 CU
+MATH-608 ANALYSIS                          1 CU
  401 LEC TR 1:30-3PM DRLB 4C8          EPSTEIN C
      CROSS LISTED: AMCS-608
      SECTION MAX: 20        

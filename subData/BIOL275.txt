@@ -1,4 +1,4 @@
-BIOL-275  MICROBIOLOGY                      1 CU
+BIOL-275 MICROBIOLOGY                      1 CU
  601 LEC S 9:30-11:30AM GLAB 101       SANDERS C
      LEC S 12-3PM GLAB 101
      MAX: 20                

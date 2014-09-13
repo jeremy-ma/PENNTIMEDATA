@@ -1,0 +1,9 @@
+CIT-593 INTRO TO COMPUTER ARCH            1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MWF 11-12NOON DRLB A6          FARMER T
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 35                
+          RECITATION                        0 CU
+ 201 REC F 12-1:30PM MOOR 207           FARMER T
+     MAX: 35                
+ 

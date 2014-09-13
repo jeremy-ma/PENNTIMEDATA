@@ -1,0 +1,4 @@
+ESE-509 WAVES/FIB/ANT FOR TCOM            1 CU
+ 001 LEC M 4:30-7:30PM TOWN 321        JAGGARD D
+     MAX: 42                
+ 

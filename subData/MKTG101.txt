@@ -1,0 +1,50 @@
+MKTG-101 LECTURE                           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC M 3-4:30PM JMHH G06       NIEDERMEIER K
+     MAX: 247               
+ 002 LEC M 4:30-6PM JMHH G06       NIEDERMEIER K
+     MAX: 248               
+          INTRO TO MARKETING                1 CU
+ 201 REC T 9-10:30AM JMHH F86      HATHIRAMANI R
+     MAX: 25                
+ 202 REC T 10:30-12NOON JMHH F86          FREY J
+     MAX: 25                
+ 203 REC T 12-1:30PM JMHH F86             FREY J
+     MAX: 25                
+ 204 REC T 12-1:30PM JMHH F88      HATHIRAMANI R
+     MAX: 25                
+ 205 REC T 1:30-3PM JMHH F86          WARRINER R
+     MAX: 25                
+ 206 REC T 1:30-3PM JMHH F88               HSU A
+     MAX: 25                
+ 207 REC T 3-4:30PM JMHH F86            SASAKI J
+     MAX: 25                
+ 208 REC T 3-4:30PM JMHH F88               SHU K
+     MAX: 25                
+ 209 REC T 4:30-6PM JMHH F86            SASAKI J
+     MAX: 25                
+ 210 REC T 4:30-6PM JMHH F88             ACKER C
+     MAX: 25                
+ 211 REC R 9-10:30AM JMHH F86          WORLAND S
+     MAX: 25                
+ 212 REC R 10:30-12NOON JMHH F86         NAYAK A
+     MAX: 25                
+ 213 REC R 12-1:30PM JMHH F88            ACKER C
+     MAX: 25                
+ 214 REC R 12-1:30PM JMHH F86          WORLAND S
+     MAX: 25                
+ 215 REC R 1:30-3PM JMHH F86          WARRINER R
+     MAX: 25                
+ 216 REC R 1:30-3PM JMHH F88               HSU A
+     MAX: 25                
+ 217 REC R 3-4:30PM JMHH F86          STEPHENS J
+     MAX: 25                
+ 218 REC R 3-4:30PM JMHH F88             NAYAK A
+     MAX: 25                
+ 219 REC R 4:30-6PM JMHH F86          STEPHENS J
+     NON-HONORS STUDENTS NEED PERMISSION
+     MAX: 25                
+ 220 REC R 4:30-6PM JMHH F88               SHU K
+     JOSEPH WHARTON SCHOLARS ONLY
+     MAX: 20                
+ 

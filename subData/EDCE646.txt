@@ -1,4 +1,4 @@
-EDCE-646  PLN1:PIIC CRIT RD/WR K12        1.5 CU
+EDCE-646 PLN1:PIIC CRIT RD/WR K12        1.5 CU
  001 LEC TBA                      GINOTTI/CICONI
      DATES: 10/08/14 - 03/18/15
      MAX: 60                

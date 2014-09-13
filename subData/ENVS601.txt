@@ -1,4 +1,4 @@
-ENVS-601  PROSEMINAR                        1 CU
+ENVS-601 PROSEMINAR                        1 CU
  660 SEM T 5:30-8:10PM HAYD 358         BORDEAUX
      MAX: 24                
  

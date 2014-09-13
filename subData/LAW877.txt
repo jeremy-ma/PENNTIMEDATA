@@ -1,0 +1,4 @@
+LAW-877 EXTERN: HUMAN REL COMM            7 SH
+ 001 LEC TBA                           FRENKEL D
+     MAX: 2                 
+ 

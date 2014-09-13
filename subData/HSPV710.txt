@@ -1,4 +1,4 @@
-HSPV-710  THESIS                            1 CU
+HSPV-710 THESIS                            1 CU
  001 IND TBA                             MASON R
      MAJORS ONLY
  

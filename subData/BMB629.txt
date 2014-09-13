@@ -1,0 +1,5 @@
+BMB-629 QUANT PROBLEMS BIOCHEM.         0.5 CU
+ 001 LEC TF 12:30-2PM ACHM 255          KALLEN R
+     DATES: 10/18/14 - 12/09/14
+     MAX: 30                
+ 

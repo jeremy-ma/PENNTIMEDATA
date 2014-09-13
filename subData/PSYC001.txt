@@ -1,4 +1,4 @@
-PSYC-001  RECITATION                        0 CU
+PSYC-001 RECITATION                        0 CU
  201 REC M 1-2PM PSYL C41               DEPOLO L
      MAX: 40                
  202 REC M 1-2PM PSYL A30              CASARES J

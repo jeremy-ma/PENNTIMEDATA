@@ -1,4 +1,4 @@
-STSC-208  SCI & RELIG GLOBAL PERSP          1 CU
+STSC-208 SCI & RELIG GLOBAL PERSP          1 CU
  001 LEC MWF 10-11AM COHN 392            KUCUK B
      MAX: 40                
  

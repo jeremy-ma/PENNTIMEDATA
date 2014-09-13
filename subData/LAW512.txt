@@ -1,0 +1,40 @@
+LAW-512 LEGAL PRACTICE SKILLS             0 SH
+ 001 LEC R 1:30-2:45PM TANE 122        BARRETT E
+     MAX: 15                
+ 002 LEC R 1:30-2:45PM SILV M28        BARRETT E
+     MAX: 15                
+ 003 LEC R 12-1:20PM TANE 122          BARRETT E
+     MAX: 15                
+ 004 LEC R 1:30-2:45PM TANE 253        POLLOCK J
+     MAX: 15                
+ 005 LEC R 12-1:20PM SILV M28          POLLOCK J
+          LEGAL WRITING SECTION             0 SH
+     MAX: 15                
+ 006 LEC R 12-1:20PM TANE 253          POLLOCK J
+          LEGAL PRACTICE SKILLS             0 SH
+     MAX: 15                
+ 007 LEC R 1:30-2:45PM TANE 320         SILVER C
+     MAX: 15                
+ 008 LEC R 1:30-2:45PM TANE 345         SILVER C
+     MAX: 15                
+ 009 LEC R 12-1:20PM TANE 320           SILVER C
+     MAX: 15                
+ 010 LEC R 1:30-2:45PM SILV 240A       BRADLEY J
+     MAX: 15                
+ 011 LEC R 12-1:20PM SILV 270          BRADLEY J
+     MAX: 15                
+ 012 LEC R 12-1:20PM TANE 345          BRADLEY J
+     MAX: 15                
+ 013 LEC R 1:30-2:45PM SILV 245A        KEHNER A
+     MAX: 15                
+ 014 LEC R 12-1:20PM GK 238             KEHNER A
+     MAX: 15                
+ 015 LEC R 12-1:20PM SILV 52            KEHNER A
+     MAX: 15                
+ 016 LEC R 1:30-2:45PM TANE 145            LIN F
+     MAX: 15                
+ 017 LEC R 12-1:20PM TANE 112              LIN F
+     MAX: 15                
+ 018 LEC R 12-1:20PM TANE 142              LIN F
+     MAX: 15                
+ 

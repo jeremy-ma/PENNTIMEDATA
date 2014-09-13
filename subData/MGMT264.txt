@@ -1,4 +1,4 @@
-MGMT-264  VEN CAPITAL & ENT MGMT            1 CU
+MGMT-264 VEN CAPITAL & ENT MGMT            1 CU
  001 LEC MW 1:30-3PM JMHH 370              HAN X
      MAX: 70                
  

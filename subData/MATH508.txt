@@ -1,4 +1,4 @@
-MATH-508  ADVANCED ANALYSIS                 1 CU
+MATH-508 ADVANCED ANALYSIS                 1 CU
      REGISTRATION REQUIRED FOR LEC, LAB
  001 LEC TR 9-10:30AM DRLB A8           KAZDAN J
      MAX: 50                

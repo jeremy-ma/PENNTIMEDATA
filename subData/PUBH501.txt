@@ -1,4 +1,4 @@
-PUBH-501  INTRO TO BIOSTATS                 1 CU
+PUBH-501 INTRO TO BIOSTATS                 1 CU
  001 LEC W 5-8PM BRB 251                  SHOFER
      UNDERGRADUATES NEED PERMISSION
      MAX: 30                

@@ -1,0 +1,8 @@
+ESE-204 DECISION MODELS                   1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 1:30-3PM MOOR 216            VOHRA R
+     MAX: 40                
+          RECITATION                        0 CU
+ 201 REC F 2-3:30PM TOWN 311             VOHRA R
+     MAX: 40                
+ 

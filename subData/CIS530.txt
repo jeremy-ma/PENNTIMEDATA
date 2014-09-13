@@ -1,0 +1,4 @@
+CIS-530 COMPUTATIONAL LINGUISTCS          1 CU
+ 001 LEC MW 9-10:30AM LEVH 101         NENKOVA A
+     MAX: 80                
+ 

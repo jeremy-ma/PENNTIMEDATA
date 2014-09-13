@@ -1,0 +1,16 @@
+LAW-500 CIVIL PROCEDURE                   4 SH
+ 001 LEC MTW 9-10:15AM SILV 240A       BURBANK S
+     MAX: 70                
+ 002 LEC MTW 9-10:15AM SILV 240B       SCIRICA A
+     MAX: 70                
+ 003 LEC MTW 10:30-11:45AM SILV 240A    STRUVE C
+     MAX: 70                
+ 004 LEC MW 1:30-2:45PM GITT 2           GELBACH
+     LEC T 3-4:15PM GITT 2
+     MAX: 110               
+ 005 LEC MTW 10:30-11:45AM SILV 240B       WAX A
+     MAX: 70                
+ 006 LEC MW 1:30-2:45PM GITT 214         WOLFF T
+     LEC T 3-4:15PM GITT 214
+     MAX: 110               
+ 

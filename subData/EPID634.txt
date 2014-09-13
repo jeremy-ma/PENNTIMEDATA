@@ -1,4 +1,4 @@
-EPID-634  RCT OUTCOMES                      1 CU
+EPID-634 RCT OUTCOMES                      1 CU
  001 LEC W 9-12NOON BLOC 840            FARRAR J
      MAX: 12                
  

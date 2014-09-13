@@ -1,4 +1,4 @@
-SWRK-710  CLINICAL SUPERVISION              0 CU
+SWRK-710 CLINICAL SUPERVISION              0 CU
  001 SEM T 6-8PM MCNB 582              CONSTON E
      MAX: 10                
           MACRO SUPERVISION                 0 CU

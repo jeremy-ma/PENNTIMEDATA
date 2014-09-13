@@ -1,4 +1,4 @@
-NURS-803  CLINIC                            0 CU
+NURS-803 CLINIC                            0 CU
      REGISTRATION REQUIRED FOR CLN, SEM
  101 CLN TBA                               STAFF
      MAX: 6                 

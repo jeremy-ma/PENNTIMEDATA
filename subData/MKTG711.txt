@@ -1,4 +1,4 @@
-MKTG-711  CONSUMER BEHAVIOR                 1 CU
+MKTG-711 CONSUMER BEHAVIOR                 1 CU
  001 LEC TR 10:30-12NOON SHDH 351         REED A
      MAX: 70                
  002 LEC TR 1:30-3PM SHDH 351             REED A

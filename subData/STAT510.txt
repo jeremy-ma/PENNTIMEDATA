@@ -1,4 +1,4 @@
-STAT-510  PROBABILITY                       1 CU
+STAT-510 PROBABILITY                       1 CU
  401 LEC MW 10:30-12NOON JMHH F92       MOSSEL E
      CROSS LISTED: STAT-430
      SECTION MAX: 30        

@@ -1,4 +1,4 @@
-FNAR-601  GRADUATE STUDIO III               3 CU
+FNAR-601 GRADUATE STUDIO III               3 CU
  201 STU T 7-10PM MORG STD-2        FNAR FACULTY
      STU R 6-9PM MORG STD-2
      MAX: 20                

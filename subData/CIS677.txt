@@ -1,0 +1,4 @@
+CIS-677 ADV TPCS/ALGORTH & COMPL          1 CU
+ 001 LEC T 3-6PM TOWN 307               KHANNA S
+     MAX: 25                
+ 

@@ -1,4 +1,4 @@
-MATH-110  RECITATION                        0 CU
+MATH-110 RECITATION                        0 CU
  201 REC TR 8-9AM WILL 202             BARBOSA R
      MAX: 30                
  202 REC T 9-10AM WILL 29              BARBOSA R

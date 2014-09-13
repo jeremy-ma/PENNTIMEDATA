@@ -1,4 +1,4 @@
-MGMT-711  COMP STR/IND STR                  1 CU
+MGMT-711 COMP STR/IND STR                  1 CU
      MBA COURSE
  001 LEC TR 10:30-12NOON SHDH 215       THOMAS L
      MAX: 70                

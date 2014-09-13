@@ -1,0 +1,4 @@
+ESE-635 DIST DYNANIC SYSTEMS              1 CU
+ 001 LEC MW 4:30-6PM TOWN 307         PRECIADO V
+     MAX: 25                
+ 

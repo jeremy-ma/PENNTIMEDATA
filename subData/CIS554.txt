@@ -1,0 +1,4 @@
+CIS-554 PROGRAMMING PARADIGMS             1 CU
+ 001 LEC MW 1:30-3PM TOWN 321         MATUSZEK D
+     MAX: 35                
+ 

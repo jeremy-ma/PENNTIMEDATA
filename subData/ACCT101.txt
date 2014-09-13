@@ -1,0 +1,44 @@
+ACCT-101 PRINCIPLES OF ACCOUNTING          1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MW 10:30-12NOON JMHH F85      MICHELS J
+     MAX: 112               
+ 002 LEC MW 12-1:30PM JMHH F85         MICHELS J
+     MAX: 112               
+ 003 LEC MW 1:30-3PM JMHH F85          MICHELS J
+     MAX: 112               
+ 004 LEC TR 1:30-3PM SHDH 350     RADHAKRISHNA R
+     MAX: 142               
+ 005 LEC TR 3-4:30PM SHDH 350     RADHAKRISHNA R
+     MAX: 142               
+          RECITATION                        0 CU
+ 201 REC F 9-10AM JMHH F50             SCUDDER E
+     MAX: 41                
+ 202 REC F 10-11AM JMHH F50               FUNG J
+     MAX: 41                
+ 203 REC F 11-12NOON JMHH F50             FUNG J
+     MAX: 42                
+ 204 REC F 12-1PM JMHH F50                FUNG J
+     MAX: 41                
+ 205 REC F 12-1PM JMHH F60                 STAFF
+     MAX: 42                
+ 206 REC F 1-2PM JMHH F50                  STAFF
+     MAX: 42                
+ 207 REC F 10-11AM JMHH F60            SCUDDER E
+     MAX: 42                
+ 208 REC F 11-12NOON JMHH F60              STAFF
+     MAX: 42                
+ 209 REC F 9-10AM JMHH F55                 LIM Z
+     MAX: 41                
+ 210 REC F 10-11AM JMHH F55                LIM Z
+     MAX: 41                
+ 211 REC F 12-1PM JMHH F55                 NIE E
+     MAX: 41                
+ 212 REC F 11-12NOON JMHH F55              NIE E
+     MAX: 41                
+ 213 REC F 12-1PM JMHH F65             SCUDDER E
+     MAX: 41                
+ 214 REC F 1-2PM JMHH F55                  NIE E
+     MAX: 40                
+ 215 REC F 12-1PM JMHH F45                 LIM Z
+     MAX: 41                
+ 

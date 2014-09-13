@@ -1,4 +1,4 @@
-GEOL-651  GEOCOMPUTATIONS I                 1 CU
+GEOL-651 GEOCOMPUTATIONS I                 1 CU
  690 LEC T 6-9PM HAYD 360          MASTROPAOLO C
      MAX: 18                
  

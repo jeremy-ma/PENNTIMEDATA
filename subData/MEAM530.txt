@@ -1,4 +1,4 @@
-MEAM-530  CONTINUUM MECHANICS               1 CU
+MEAM-530 CONTINUUM MECHANICS               1 CU
  001 LEC MW 3-4:30PM TOWN 305          BASSANI J
      MAX: 20                
  

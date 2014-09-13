@@ -1,4 +1,4 @@
-NURS-620  PRIN NURS ANES PRACT IV           1 CU
+NURS-620 PRIN NURS ANES PRACT IV           1 CU
  001 LEC T 1-4PM FAGN 116                 LYNN R
      MAX: 25                
  

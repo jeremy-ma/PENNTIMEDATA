@@ -1,0 +1,10 @@
+BE-301 BIOENGINEERING SYSTEMS            1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 3-4:30PM TOWN 100        BUCHSBAUM G
+     MAX: 80                
+          RECITATION                        0 CU
+ 201 REC F 12-1PM SKIR AUD           BUCHSBAUM G
+     MAX: 40                
+ 202 REC F 1-2PM SKIR AUD            BUCHSBAUM G
+     MAX: 40                
+ 

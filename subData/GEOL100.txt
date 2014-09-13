@@ -1,0 +1,21 @@
+GEOL-100 INTRO TO GEOLOGY                  1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 11-12NOON MEYH B1            OMAR G
+     MAX: 168               
+          RECITATION                        0 CU
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 201 REC M 10-11AM HAYD 360               OMAR G
+     MAX: 28                
+ 202 REC T 3-4PM HAYD 360                 OMAR G
+     MAX: 28                
+ 203 REC T 4-5PM HAYD 360                 OMAR G
+     MAX: 28                
+ 204 REC W 9-10AM HAYD 360                OMAR G
+     MAX: 28                
+ 205 REC W 2-3PM HAYD 358                 OMAR G
+     MAX: 28                
+ 206 REC R 3-4PM HAYD 360                 OMAR G
+     MAX: 28                
+ 

@@ -1,4 +1,4 @@
-ARCH-501  DESIGN STUDIO I                   2 CU
+ARCH-501 DESIGN STUDIO I                   2 CU
  201 STU MWR 2-6PM TBA                SAUNDERS A
      CO-REQUISITE: ARCH-521
      MAX: 80                

@@ -1,0 +1,4 @@
+CIS-573 SOFTWARE ENGINEERING              1 CU
+ 001 LEC MW 4:30-6PM DRLB A2            MURPHY C
+     MAX: 50                
+ 

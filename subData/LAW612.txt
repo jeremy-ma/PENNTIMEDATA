@@ -1,0 +1,15 @@
+LAW-612 APPELLATE ADVOCACY                3 SH
+ 001 LEC M 5-7PM SILV 52               ZAUZMUR R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 12                
+ 002 LEC T 4:30-6:30PM GK 70            LEVICK M
+     MAX: 12                
+ 003 LEC M 4:30-6:30PM GK 70            RIPPLE R
+     MAX: 12                
+ 004 LEC T 6:30-8:30PM SILV 280        SANGHVI N
+     MAX: 12                
+ 005 LEC W 8:30-10:30AM SILV 280          BECKER
+     MAX: 12                
+ 006 LEC T 6:30-8:30PM GK 70            HICKOK D
+     MAX: 12                
+ 

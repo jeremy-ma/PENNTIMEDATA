@@ -1,0 +1,25 @@
+CIS-121 PROG LANG AND TECH II             1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001                                DANIILIDIS K
+     LEC TR 10:30-12NOON TOWN 100
+     MAX: 160               
+          RECITATION                        0 CU
+ 201 REC M 12-1PM MOOR 100A                STAFF
+     MAX: 20                
+ 202 REC M 2-3PM MOOR 100A                 STAFF
+     MAX: 20                
+ 203 REC M 4-5PM MOOR 100A                 STAFF
+     MAX: 20                
+ 204 REC M 5-6PM MOOR 100A                 STAFF
+     MAX: 20                
+ 205 REC T 2-3PM MOOR 100A                 STAFF
+     MAX: 20                
+ 206 REC T 3-4PM MOOR 100A                 STAFF
+     MAX: 20                
+ 207 REC T 4-5PM MOOR 100A                 STAFF
+     MAX: 20                
+ 208 REC T 5-6PM MOOR 100A                 STAFF
+     MAX: 20                
+ 209 REC T 12-1PM MOOR 100A                STAFF
+     MAX: 20                
+ 

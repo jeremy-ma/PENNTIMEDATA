@@ -1,0 +1,4 @@
+BE-492 2ND SEM IND STDY IN BE            1 CU
+ 001 LEC TBA                               HUH D
+     MAX: 50                
+ 

@@ -1,4 +1,4 @@
-GAFL-719  ADVANCED BUDGETING                1 CU
+GAFL-719 ADVANCED BUDGETING                1 CU
  001 SEM T 6-9PM DRLB 4C8                NADOL M
      UNDERGRADUATES NEED PERMISSION
      MAX: 25                

@@ -1,0 +1,4 @@
+LAW-748 CRIM PRO: PROS&ADJ                3 SH
+ 001 LEC TR 10:30-11:50AM TANE 145       BIBAS S
+     MAX: 75                
+ 

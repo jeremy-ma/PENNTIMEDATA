@@ -1,4 +1,4 @@
-SAST-560  MDRN HIST PKSTN                   1 CU
+SAST-560 MDRN HIST PKSTN                   1 CU
      CROSS CULTURAL ANALYSIS
  301 SEM R 3-6PM WILL 826                 TOOR S
      MAX: 15                

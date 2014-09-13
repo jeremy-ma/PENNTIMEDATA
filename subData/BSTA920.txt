@@ -1,4 +1,4 @@
-BSTA-920  TUTORIAL: RESEARCH         0.5 TO 3 CU
+BSTA-920 TUTORIAL: RESEARCH         0.5 TO 3 CU
  018 LEC TBA                            TROXEL A
      PERMISSION NEEDED FROM DEPARTMENT
      MAX: 30                

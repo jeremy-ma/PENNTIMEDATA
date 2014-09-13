@@ -1,0 +1,4 @@
+ESE-111 ATOMS,BITS,CIRCUITS&SYS           1 CU
+ 001 LEC MW 4:30-6PM MOOR 216              LEE D
+     MAX: 30                
+ 

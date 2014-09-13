@@ -1,4 +1,4 @@
-MATH-654  LIE GROUPS                        1 CU
+MATH-654 LIE GROUPS                        1 CU
  001 LEC TR 10:30-12NOON TOWN 319     KIRILLOV A
      MAX: 30                
  

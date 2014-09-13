@@ -1,0 +1,23 @@
+LING-001 INTRO TO LINGUISTICS              1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     NATURAL SCIENCE & MATH SECTOR
+ 001 LEC MW 12-1PM ANNS 110           LIBERMAN M
+     MAX: 168               
+          RECITATION                        0 CU
+ 201 REC R 11-12NOON WILL 216           JEOUNG H
+     MAX: 21                
+ 202 REC R 12-1PM WILL 319              JEOUNG H
+     MAX: 22                
+ 203 REC R 12-1PM FAGN 112                 CAI H
+     MAX: 22                
+ 204 REC F 11-12NOON WILL 25      GOODWIN DAVIES
+     MAX: 20                
+ 205 REC F 12-1PM WILL 25         GOODWIN DAVIES
+     MAX: 22                
+ 206 REC F 12-1PM WILL 29                  CAI H
+     MAX: 21                
+ 207 REC R 11-12NOON GLAB 100            TSENG W
+     MAX: 20                
+ 208 REC R 12-1PM GLAB 102               TSENG W
+     MAX: 20                
+ 

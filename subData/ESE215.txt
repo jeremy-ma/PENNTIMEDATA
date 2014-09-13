@@ -1,0 +1,12 @@
+ESE-215 ELEC CIRCUITS & SYS I           1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MWF 10-11AM SKIR AUD           FARMER T
+     MAX: 75                
+          LABORATORY                        0 CU
+ 101 LAB W 1-4PM TBA                    FARMER T
+     MAX: 25                
+ 102 LAB R 1:30-4:30PM TBA              FARMER T
+     MAX: 25                
+ 103 LAB F 1-4PM TBA                    FARMER T
+     MAX: 25                
+ 

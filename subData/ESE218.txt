@@ -1,0 +1,8 @@
+ESE-218 ELEC PHOT ELECTR DEV            1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC TR 12-1:30PM TOWN 315           KAGAN C
+     MAX: 35                
+          LABORATORY                        0 CU
+ 101 LAB M 1-4PM TBA                     KAGAN C
+     MAX: 35                
+ 

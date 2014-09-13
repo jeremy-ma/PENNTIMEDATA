@@ -1,4 +1,4 @@
-NURS-360  CSE STY: N/P HIV+ PATIEN          1 CU
+NURS-360 CSE STY: N/P HIV+ PATIEN          1 CU
  001 LEC F 10-12NOON FAGN 103          VINCENT C
      MAX: 20                
  

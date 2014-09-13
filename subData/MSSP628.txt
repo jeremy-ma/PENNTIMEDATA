@@ -1,0 +1,8 @@
+MSSP-628 POLICY ANALYSIS                   1 CU
+     MSSP Requirement
+ 001 LEC W 12-2:30PM CAST A19          IVERSEN R
+     MAX: 16                
+ 002 LEC W 4-6:30PM CAST A17       CAMP-LANDIS S
+     MSSP Requirement
+     MAX: 16                
+ 

@@ -56,17 +56,20 @@ for line in subject_file:
 			for i in range(0, 4):
 				section = section + courseinfo[i] + ' '
 			section = section + '\n'
-		else: 
+		else:
+			num = match.group(1) 
 			grabNextLine = True
 
 	elif grabNextLine == True:
 		courseinfo = line.split()
 		for i in range(0,3):
 			section = section + courseinfo[i] + ' '
+		section = section + num + ' '
 		section = section + '\n'
 		grabNextLine = False
 
 errthang = errthang + '\n' + section
+errthang = '\n' + errthang
 
 text.write(errthang)
 

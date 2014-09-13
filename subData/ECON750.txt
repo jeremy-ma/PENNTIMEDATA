@@ -1,4 +1,4 @@
-ECON-750  PUBLIC ECONOMICS                0.5 CU
+ECON-750 PUBLIC ECONOMICS                0.5 CU
  001 LEC TR 1:30-3PM MCNB 410      POSTLEWAITE A
      DATES: 08/27/14 - 10/17/14
      MAX: 30                

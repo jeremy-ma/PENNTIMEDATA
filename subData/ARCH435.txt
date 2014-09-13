@@ -1,4 +1,4 @@
-ARCH-435  LABORATORY                        0 CU
+ARCH-435 LABORATORY                        0 CU
  402 LAB F 1-5PM MEYH B3                FARLEY R
      PERMISSION NEEDED FROM DEPARTMENT
      CROSS LISTED: ARCH-535

@@ -1,4 +1,4 @@
-MATH-580  COMB ANAL & GRAPH THRY            1 CU
+MATH-580 COMB ANAL & GRAPH THRY            1 CU
  001 LEC MW 12-1:30PM DRLB 4C4          PANOVA G
      MAX: 30                
  

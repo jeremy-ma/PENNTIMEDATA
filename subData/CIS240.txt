@@ -1,0 +1,4 @@
+CIS-240 INTRO TO COMP SYSTEMS             1 CU
+ 001 LEC MW 3-4:30PM TOWN 100           TAYLOR C
+     MAX: 180               
+ 

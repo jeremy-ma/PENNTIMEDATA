@@ -1,4 +1,4 @@
-MEAM-545  AERODYNAMICS                      1 CU
+MEAM-545 AERODYNAMICS                      1 CU
  001 LEC MWF 9-10AM TOWN 321          KOTHMANN B
      MAX: 40                
  

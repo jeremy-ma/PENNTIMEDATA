@@ -1,4 +1,4 @@
-OPIM-659  ADVANCED TOPICS                 0.5 CU
+OPIM-659 ADVANCED TOPICS                 0.5 CU
  001 LEC TBA                               LEE T
      PERMISSION NEEDED FROM DEPARTMENT
      LOCATION: SAN FRANCISCO

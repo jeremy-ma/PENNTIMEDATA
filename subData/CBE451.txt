@@ -1,0 +1,8 @@
+CBE-451 CHEMICAL REACTOR DESIGN           1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 10:30-12NOON TOWN 303        SINNO T
+     MAX: 40                
+          RECITATION                        0 CU
+ 201 REC W 5-6PM TOWN 309                SINNO T
+     MAX: 40                
+ 

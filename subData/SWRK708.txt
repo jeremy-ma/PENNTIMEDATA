@@ -1,4 +1,4 @@
-SWRK-708  ADV. MACRO PRACTICE I             1 CU
+SWRK-708 ADV. MACRO PRACTICE I             1 CU
  001 LEC R 12-2:30PM CAST A19           MORROW N
      MAX: 20                
  002 LEC R 6:45-9:15PM CAST A14         MILLER J

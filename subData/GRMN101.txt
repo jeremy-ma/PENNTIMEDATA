@@ -1,4 +1,4 @@
-GRMN-101  ELEMENTARY GERMAN I               1 CU
+GRMN-101 ELEMENTARY GERMAN I               1 CU
  001                               KONTULAINEN E
      LEC MTWRF 11-12NOON BENN 201
      MAX: 20                

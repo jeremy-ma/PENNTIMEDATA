@@ -1,4 +1,4 @@
-EDCE-660  PLN 33B: INTEGRATING            0.5 CU
+EDCE-660 PLN 33B: INTEGRATING            0.5 CU
  001 LEC TBA                            PAPARO L
      MAX: 40                
  

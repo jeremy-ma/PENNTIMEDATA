@@ -1,4 +1,4 @@
-ARCH-751  ECOLOGY TECH AND DESIGN           1 CU
+ARCH-751 ECOLOGY TECH AND DESIGN           1 CU
  001 LEC R 12-3PM MEYH B2               BRAHAM W
      MAX: 27                
  

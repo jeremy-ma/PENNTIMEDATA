@@ -1,4 +1,4 @@
-CPLN-720  CED PRACTICUUM                    1 CU
+CPLN-720 CED PRACTICUUM                    1 CU
  001 LEC W 9-12NOON BENN 222       WOLF-POWERS A
      MAX: 15                
  

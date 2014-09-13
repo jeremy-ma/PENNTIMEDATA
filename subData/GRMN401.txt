@@ -1,4 +1,4 @@
-GRMN-401  TRANS(L)ITS                       1 CU
+GRMN-401 TRANS(L)ITS                       1 CU
  001 LEC TR 1:30-3PM GLAB 103          MACLEOD C
      MAX: 30                
  

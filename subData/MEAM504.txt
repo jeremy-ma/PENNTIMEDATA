@@ -1,4 +1,4 @@
-MEAM-504  TRIBOLOGY                         1 CU
+MEAM-504 TRIBOLOGY                         1 CU
  001 LEC TR 12-1:30PM TOWN 309         JACKSON A
      MAX: 35                
  

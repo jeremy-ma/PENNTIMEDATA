@@ -1,0 +1,8 @@
+ENGR-101 INTRO TO ENGINEERING              1 CU
+ 001 LEC TR 9-10:30AM TOWN 315            POPE D
+     MAX: 40                
+ 002 LEC TR 10:30-12NOON TOWN 315         POPE D
+     MAX: 30                
+ 003 LEC TR 12-1:30PM LRSM 208            POPE D
+     MAX: 30                
+ 

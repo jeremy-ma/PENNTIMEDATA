@@ -1,4 +1,4 @@
-BEPP-932  CONTRACT THRY & APPLCATN          1 CU
+BEPP-932 CONTRACT THRY & APPLCATN          1 CU
  001 LEC F 4-7PM JMHH F86             GOTTLIEB D
      MAX: 25                
  

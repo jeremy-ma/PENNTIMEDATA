@@ -1,0 +1,5 @@
+BE-580 MEDICAL RADIATION ENG             1 CU
+ 401 LEC MW 8:30-10AM DRLB A7           FINLAY J
+     CROSS LISTED: PHYS-582
+     MAX W/CROSS LIST: 23              
+ 

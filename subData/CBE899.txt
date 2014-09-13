@@ -1,0 +1,41 @@
+CBE-899 PHD INDEPENDENT STUDY        1 TO 4 CU
+ 000 IND TBA                               STAFF
+     SEE DEPT. FOR SECTION NUMBERS
+     UNDERGRADUATES NEED PERMISSION
+ 001 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 002 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 003 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 004 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 005 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 006 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 007 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 008 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 009 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 010 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 011 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 012 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 013 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 014 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 015 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 016 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 017 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 018 IND TBA                               STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+ 

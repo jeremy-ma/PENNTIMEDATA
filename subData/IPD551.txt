@@ -1,0 +1,4 @@
+IPD-551 DESIGN PROCESSES                  1 CU
+ 001 LEC M 10-1PM MEYH B6        ROTTENBERG/KRON
+     MAX: 20                
+ 

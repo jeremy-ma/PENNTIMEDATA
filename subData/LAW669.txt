@@ -1,0 +1,5 @@
+LAW-669 DETKIN IP CLINIC                  7 SH
+ 001 CLN MW 1:30-2:50PM SILV M28          DAHL C
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 7                 
+ 

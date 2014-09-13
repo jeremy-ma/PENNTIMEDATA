@@ -1,4 +1,4 @@
-OPIM-469  INFO STRAT&ECON                   1 CU
+OPIM-469 INFO STRAT&ECON                   1 CU
  001 LEC MW 3-4:30PM JMHH 365             HITT L
      MAX: 70                
  

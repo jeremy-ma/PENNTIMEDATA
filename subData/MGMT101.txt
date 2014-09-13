@@ -1,4 +1,4 @@
-MGMT-101  LECTURE                           0 CU
+MGMT-101 LECTURE                           0 CU
      REGISTRATION REQUIRED FOR LEC, REC
  001 LEC M 10:30-12NOON SHDH 351        CARTON A
      MAX: 133               

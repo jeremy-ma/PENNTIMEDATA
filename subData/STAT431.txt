@@ -1,4 +1,4 @@
-STAT-431  STATISTICAL INFERENCE             1 CU
+STAT-431 STATISTICAL INFERENCE             1 CU
  001 LEC MW 1:30-3PM JMHH G55               MA Z
      MAX: 60                
  002 LEC MW 3-4:30PM JMHH G55               MA Z

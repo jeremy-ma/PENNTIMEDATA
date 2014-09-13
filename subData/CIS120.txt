@@ -1,0 +1,34 @@
+CIS-120 PROG LANG & TECH I                1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     FORMAL REASONING COURSE
+ 001 LEC MWF 11-12NOON LLAB 10       ZDANCEWIC S
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 199               
+          RECITATION                        0 CU
+ 201 REC W 12-1PM MOOR 100A                STAFF
+     MAX: 20                
+ 202 REC W 1-2PM MOOR 100A                 STAFF
+     MAX: 20                
+ 203 REC W 3-4PM MOOR 100A                 STAFF
+     MAX: 20                
+ 204 REC W 4-5PM MOOR 100A                 STAFF
+     MAX: 20                
+ 205 REC W 5-6PM MOOR 100A                 STAFF
+     MAX: 20                
+ 206 REC R 10-11AM MOOR 100A               STAFF
+     MAX: 20                
+ 207 REC R 3-4PM MOOR 100A                 STAFF
+     MAX: 20                
+ 208 REC R 4-5PM MOOR 100A                 STAFF
+     MAX: 20                
+ 209 REC R 5-6PM MOOR 100A                 STAFF
+     MAX: 20                
+ 210 REC W 2-3PM MOOR 207                  STAFF
+     MAX: 20                
+ 211 REC W 12-1PM MOOR 100C                STAFF
+     MAX: 20                
+ 212 REC W 5-6PM MOOR 100C                 STAFF
+     MAX: 20                
+ 213 REC R 5-6PM MOOR 100C                 STAFF
+     MAX: 20                
+ 

@@ -1,4 +1,4 @@
-BIOM-599  GTMS CLINICAL CLERKSHIP           1 CU
+BIOM-599 GTMS CLINICAL CLERKSHIP           1 CU
  009 LEC TBA                             FRANK I
      MAX: 30                
  

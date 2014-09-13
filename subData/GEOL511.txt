@@ -1,4 +1,4 @@
-GEOL-511  GEOLOGY OF SOILS                  1 CU
+GEOL-511 GEOLOGY OF SOILS                  1 CU
  001 LEC MW 2-3:30PM TBA               JOHNSON A
      MAX: 0                 
  

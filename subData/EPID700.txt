@@ -1,4 +1,4 @@
-EPID-700  DOCTORAL SEMINAR IN EPI         0.5 CU
+EPID-700 DOCTORAL SEMINAR IN EPI         0.5 CU
  301 SEM R 3-5PM STCH 104               HOLMES J
      MAX: 15                
  

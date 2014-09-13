@@ -1,0 +1,8 @@
+CIS-191 LINUX/UNIX SKILLS               0.5 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC T 6-7:30PM TOWN 100             SHETH S
+     MAX: 20                
+          RECITATION                        0 CU
+ 201 REC W 1:30-3PM MOOR 212               LEE S
+     MAX: 20                
+ 

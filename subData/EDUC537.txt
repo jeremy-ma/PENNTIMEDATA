@@ -1,4 +1,4 @@
-EDUC-537  EDUC LINGUISTICS                  1 CU
+EDUC-537 EDUC LINGUISTICS                  1 CU
  001 LEC T 2-4PM EDUC 007               BUTLER Y
      DATES: 08/27/14 - 12/19/14
      MAX: 20                

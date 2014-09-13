@@ -1,0 +1,4 @@
+ESE-308 AGENT-BASED MOD                   1 CU
+ 001 LEC TR 9-10:30AM TOWN 305       SILVERMAN B
+     MAX: 25                
+ 

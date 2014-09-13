@@ -1,4 +1,4 @@
-ENVS-605  BIOREMEDIATION                    1 CU
+ENVS-605 BIOREMEDIATION                    1 CU
  401 LEC MW 3:30-5PM DRLB 3W2             VANN D
      CROSS LISTED: ENVS-305
      SECTION MAX: 20        

@@ -1,4 +1,4 @@
-PHYS-433  ORDER OF MAGNITUDE PHYS           1 CU
+PHYS-433 ORDER OF MAGNITUDE PHYS           1 CU
  001 LEC TR 12-1:30PM DRLB 2C2            LIDZ A
      MAX: 25                
  

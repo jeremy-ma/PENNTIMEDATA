@@ -1,4 +1,4 @@
-MEAM-347  LECTURE                           0 CU
+MEAM-347 LECTURE                           0 CU
      REGISTRATION REQUIRED FOR LEC, LAB
  001 LEC MF 10-11AM DRLB A6         KOTHMANN/YIM
      MAX: 60                

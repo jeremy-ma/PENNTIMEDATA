@@ -1,0 +1,4 @@
+NPLD-580 NONPRFT GOVERNING BOARDS        0.5 CU
+ 001 LEC TBA                        SHMAVONIAN N
+     MAX: 25                
+ 

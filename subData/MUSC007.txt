@@ -1,4 +1,4 @@
-MUSC-007  ARAB ENSEMBLE                   0.5 CU
+MUSC-007 ARAB ENSEMBLE                   0.5 CU
  009 STU R 6-9PM BENN 407               KETNER M
      STU R 6-9PM BENN 406
      MAX: 30                

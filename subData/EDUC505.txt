@@ -1,4 +1,4 @@
-EDUC-505  GLOBALIZATION & THE UNIV          1 CU
+EDUC-505 GLOBALIZATION & THE UNIV          1 CU
  001 SEM F 9-1PM EDUC 300                 RUBY A
      DATES: 08/27/14 - 12/19/14
      MAX: 20                

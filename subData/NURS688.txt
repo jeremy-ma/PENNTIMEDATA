@@ -1,4 +1,4 @@
-NURS-688  COMP/ALT THERAP-WMN HLTH          1 CU
+NURS-688 COMP/ALT THERAP-WMN HLTH          1 CU
  001 LEC M 1-4PM FAGN 214                GRUBE W
      MAX: 55                
  

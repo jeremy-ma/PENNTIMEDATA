@@ -1,4 +1,4 @@
-EPID-710  RESEARCH DESIGN CONSULT           1 CU
+EPID-710 RESEARCH DESIGN CONSULT           1 CU
  001 LEC TBA                            HOLMES J
      MAX: 30                
  

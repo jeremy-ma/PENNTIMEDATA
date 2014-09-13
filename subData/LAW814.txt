@@ -1,0 +1,4 @@
+LAW-814 EXTERN: DA'S OFF - MC             4 SH
+ 001 LEC TBA                             GRANT B
+     MAX: 2                 
+ 

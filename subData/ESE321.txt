@@ -1,0 +1,4 @@
+ESE-321 PHYS&MOD SEMICON DEV              1 CU
+ 001 LEC MWF 10-11AM DRLB 4C2          BASSETT L
+     MAX: 40                
+ 

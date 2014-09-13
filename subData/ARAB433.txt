@@ -1,4 +1,4 @@
-ARAB-433  AR RDGS SOC SCI                   1 CU
+ARAB-433 AR RDGS SOC SCI                   1 CU
  001 LEC TR 9-10:30AM BENN 17           ALOUSH A
      MAX: 15                
  

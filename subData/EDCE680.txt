@@ -1,4 +1,4 @@
-EDCE-680  PLN3:IMPLT LIT CNTRD CLS        1.5 CU
+EDCE-680 PLN3:IMPLT LIT CNTRD CLS        1.5 CU
  001 LEC TBA                            HUBONA D
      DATES: 09/30/14 - 12/10/14
      MAX: 40                

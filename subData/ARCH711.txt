@@ -1,4 +1,4 @@
-ARCH-711  TOPICS IN ARCH THEORY I           1 CU
+ARCH-711 TOPICS IN ARCH THEORY I           1 CU
  003 SEM T 6-9PM MEYH B5               SALOMON D
      MAX: 14                
  004 SEM R 9-12NOON FURN DSR               STAFF

@@ -1,4 +1,4 @@
-SAST-549  SUFISM                            1 CU
+SAST-549 SUFISM                            1 CU
  401 SEM T 1:30-4:30PM MEYH B5           ELIAS J
      CROSS LISTED: NELC-485 RELS-445 RELS-645
      MAX W/CROSS LIST: 25              

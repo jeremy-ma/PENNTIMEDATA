@@ -1,4 +1,4 @@
-NURS-580  PHARM ANES&ACCESS DRUG I          1 CU
+NURS-580 PHARM ANES&ACCESS DRUG I          1 CU
  001 LEC M 9-1PM FAGN 203                 BENT D
      MAJORS ONLY
      MAX: 30                

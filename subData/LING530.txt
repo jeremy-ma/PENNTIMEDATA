@@ -1,4 +1,4 @@
-LING-530  PHONOLOGY I                       1 CU
+LING-530 PHONOLOGY I                       1 CU
  001 LEC TR 1:30-3PM WILL 616            NOYER R
      UNDERGRADUATES NEED PERMISSION
      MAX: 12                

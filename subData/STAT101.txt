@@ -1,0 +1,9 @@
+STAT-101 INTRO BUSINESS STAT               1 CU
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC TR 12-1:30PM JMHH F85         RAKHLIN A
+     MAX: 120               
+ 002 LEC TR 1:30-3PM JMHH F85          RAKHLIN A
+     MAX: 120               
+ 003 LEC TR 3-4:30PM JMHH F85            BROWN L
+     MAX: 120               
+ 

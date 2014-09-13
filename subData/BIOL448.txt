@@ -1,4 +1,4 @@
-BIOL-448  PRINCIPLES DRUG ACTION            1 CU
+BIOL-448 PRINCIPLES DRUG ACTION            1 CU
  001 LEC TR 3-4:30PM GLAB 101          MANNING D
      MAX: 40                
  

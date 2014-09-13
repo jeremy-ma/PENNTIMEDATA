@@ -1,4 +1,4 @@
-KORN-131  KOREAN/HERITGE SPKRS I            1 CU
+KORN-131 KOREAN/HERITGE SPKRS I            1 CU
  001 LEC MTWR 12-1PM WILL 28              JUNG J
      MAX: 15                
  

@@ -1,0 +1,4 @@
+NSCI-100 NAVAL SCIENCE DRILL               1 CU
+ 001 LEC W 7-8:45AM HOLL 3RDFL          PELUSO J
+     MAX: 100               
+ 

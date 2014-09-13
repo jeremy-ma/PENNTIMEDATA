@@ -1,0 +1,8 @@
+LAW-503 CRIMINAL LAW                      4 SH
+ 001 LEC MWF 1:30-2:45PM GITT 1           KATZ L
+     MAX: 110               
+ 002 LEC MTW 10:30-11:45AM GITT 214      MORSE S
+     MAX: 110               
+ 003 LEC MWF 1:30-2:45PM GITT 213     ROBINSON P
+     MAX: 110               
+ 

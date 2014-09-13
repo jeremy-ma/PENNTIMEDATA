@@ -1,0 +1,4 @@
+BE-490 IND STUDY IN BE                   1 CU
+ 001 LEC TBA                               HUH D
+     MAX: 50                
+ 

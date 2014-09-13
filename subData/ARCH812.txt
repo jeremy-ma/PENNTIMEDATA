@@ -1,4 +1,4 @@
-ARCH-812  FIELD RESEARCH                    1 CU
+ARCH-812 FIELD RESEARCH                    1 CU
  001 IND TBA                               STAFF
      PERMISSION NEEDED FROM DEPARTMENT
  

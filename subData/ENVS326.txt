@@ -1,4 +1,4 @@
-ENVS-326  GIS MAP PLAC & ANALY SPA          1 CU
+ENVS-326 GIS MAP PLAC & ANALY SPA          1 CU
  001 LEC T 4:30-7:30PM DRLB PC-L1      HEINLEN K
      MAJORS ONLY
      MAX: 20                

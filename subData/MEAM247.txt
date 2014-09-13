@@ -1,4 +1,4 @@
-MEAM-247  LECTURE                           0 CU
+MEAM-247 LECTURE                           0 CU
      REGISTRATION REQUIRED FOR LEC, LAB
  001 LEC M 2-3PM TOWN 100             KOTHMANN B
      MAX: 60                

@@ -1,0 +1,53 @@
+MGEC-611 MICROECONOMICS FOR MANAG        0.5 CU
+     MBA COURSE
+ 002 LEC TR 10:30-12NOON JMHH 270    SINKINSON M
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 003 LEC TR 1:30-3PM JMHH 270        SINKINSON M
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 005 LEC TR 10:30-12NOON JMHH 340          LOW C
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 006 LEC TR 1:30-3PM JMHH 340              LOW C
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 007 LEC TR 9-10:30AM JMHH 345    FEATHERSTONE C
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 008                              FEATHERSTONE C
+     LEC TR 10:30-12NOON JMHH 345
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 009 LEC TR 1:30-3PM JMHH 345     FEATHERSTONE C
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 010 LEC TR 9-10:30AM JMHH 350        WEINBERG M
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 011 LEC TR 10:30-12NOON JMHH 350     WEINBERG M
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 75                
+ 012 LEC TR 1:30-3PM JMHH 350               HO K
+     DATES: 08/27/14 - 10/08/14
+     MAX: 75                
+ GROUP 1 SECTIONS
+     MBA COURSE
+ 001 LEC TR 9-10:30AM JMHH 270       SINKINSON M
+     DATES: 08/27/14 - 10/08/14
+     MAX: 75                
+ GROUP 2 SECTIONS
+     MBA COURSE
+ 004 LEC TR 9-10:30AM JMHH 340        FREEDMAN M
+     DATES: 08/27/14 - 10/08/14
+     MAX: 75                
+ 

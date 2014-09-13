@@ -1,0 +1,8 @@
+ESE-319 FNDMTL SOLID STATE CRCT         1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MWF 11-12NOON TOWN 307          LAKER K
+     MAX: 20                
+          LABORATORY                        0 CU
+ 101 LAB F 1-4PM TBA                     LAKER K
+     MAX: 20                
+ 

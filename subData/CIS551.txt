@@ -1,0 +1,4 @@
+CIS-551 COMP & NETWORK SEC                1 CU
+ 001 LEC MW 3-4:30PM MOOR 216            SMITH J
+     MAX: 40                
+ 

@@ -1,4 +1,4 @@
-EPID-638  CLINICAL TRIAL DESIGN             1 CU
+EPID-638 CLINICAL TRIAL DESIGN             1 CU
  001 LEC T 9-12NOON BLOC 940         ELLENBERG S
      MAX: 20                
  

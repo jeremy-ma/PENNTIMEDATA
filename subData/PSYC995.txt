@@ -1,4 +1,4 @@
-PSYC-995  DISSERTATION                      1 CU
+PSYC-995 DISSERTATION                      1 CU
  009 DIS TBA                          SELIGMAN M
  010 DIS TBA                     THOMPSON-SCHILL
  020 DIS TBA                          DERUBEIS R

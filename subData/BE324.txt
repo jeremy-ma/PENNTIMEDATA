@@ -1,0 +1,9 @@
+BE-324 ADV TPC IN PHYS/CHEM BE           1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001                             RADHAKRISHNAN R
+     LEC TR 10:30-12NOON MOOR 216
+     MAX: 80                
+          RECITATION                        0 CU
+ 201 REC F 3-4PM MOOR 216        RADHAKRISHNAN R
+     MAX: 80                
+ 

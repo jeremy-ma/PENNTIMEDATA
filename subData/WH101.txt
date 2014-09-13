@@ -1,0 +1,20 @@
+WH-101 PENNSTART                         0 CU
+ 001 SEM TBA                               STAFF
+     MAX: 60                
+ 002 SEM TBA                               STAFF
+     MAX: 60                
+ 003 SEM TBA                               STAFF
+     MAX: 60                
+ 004 SEM TBA                               STAFF
+     MAX: 60                
+ 005 SEM TBA                               STAFF
+     MAX: 60                
+ 006 SEM TBA                               STAFF
+     MAX: 60                
+ 007 SEM TBA                               STAFF
+     MAX: 60                
+ 008 SEM TBA                               STAFF
+     MAX: 60                
+ 009 SEM TBA                               STAFF
+     MAX: 60                
+ 

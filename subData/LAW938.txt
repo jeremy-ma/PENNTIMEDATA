@@ -1,0 +1,4 @@
+LAW-938 INTEL PROP LIT IN DIG AG          3 SH
+ 001 SEM W 4:30-6:30PM TANE 253          MARKS,B
+     MAX: 20                
+ 

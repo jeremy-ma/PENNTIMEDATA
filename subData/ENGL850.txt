@@ -1,4 +1,4 @@
-ENGL-850  FIELD LIST                   1 TO 1 CU
+ENGL-850 FIELD LIST                   1 TO 1 CU
      PERMISSION NEEDED FROM DEPARTMENT
  301 SEM TBA                           SANCHEZ M
      MAX: 20                

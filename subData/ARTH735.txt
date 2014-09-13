@@ -1,4 +1,4 @@
-ARTH-735  VISION/OPT EFFT ISLM ART          1 CU
+ARTH-735 VISION/OPT EFFT ISLM ART          1 CU
  301 SEM W 3-5PM JAFF 104                HOLOD R
      MAX: 10                
  

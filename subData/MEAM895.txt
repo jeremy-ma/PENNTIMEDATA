@@ -1,4 +1,4 @@
-MEAM-895  TEACHING PRACTICUM              0.5 CU
+MEAM-895 TEACHING PRACTICUM              0.5 CU
  001 LEC TBA                           PUROHIT P
      MAX: 30                
  

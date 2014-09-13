@@ -1,4 +1,4 @@
-GEOL-498  SENIOR THESIS                   0.5 CU
+GEOL-498 SENIOR THESIS                   0.5 CU
  001 SRT W 1-2PM CHEM 119           DMOCHOWSKI J
      CROSS LISTED: ENVS-498
      SECTION MAX: 20        

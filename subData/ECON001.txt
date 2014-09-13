@@ -1,0 +1,70 @@
+ECON-001 INTRO ECON MICRO                  0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     SOCIETY SECTOR
+ 001 LEC MW 10-11AM COHN G17             STEIN R
+     SOCIETY SECTOR
+     MAX: 234               
+ 002 LEC MW 11-12NOON COHN G17           STEIN R
+     MAX: 234               
+          INTRO TO MICRO                    0 CU
+     SOCIETY SECTOR
+ 003 LEC MW 1-2PM COHN G17               STEIN R
+     MAX: 234               
+          INTRO ECON MICRO                  1 CU
+ 201 REC F 10-11AM EDUC 114               ROSA B
+     MAX: 25                
+ 202 REC F 11-12NOON CHEM 119          ALLIONE G
+     MAX: 25                
+ 203 REC F 12-1PM MCNB 395                MENG J
+     MAX: 25                
+ 204 REC F 1-2PM MCNB 167-8               MENG J
+     MAX: 25                
+ 205 REC R 12-1PM EDUC 007             JANETOS N
+     MAX: 25                
+ 206 REC R 9-10AM MEYH B7                  ALP H
+     MAX: 25                
+ 207 REC F 10-11AM CAST A14                CAO R
+     MAX: 25                
+ 208 REC F 11-12NOON WILL 215          STULPIN G
+     MAX: 25                
+ 209 REC F 12-1PM WILL 204             STULPIN G
+     MAX: 25                
+ 210 REC F 12-1PM WILL 201                 CAO R
+     MAX: 25                
+ 211 REC F 1-2PM WILL 204           RUTHERFORD M
+     MAX: 25                
+ 212 REC F 10-11AM TOWN 307         RUTHERFORD M
+     MAX: 25                
+ 213 REC F 11-12NOON DRLB 4C2          SANGREY P
+     MAX: 25                
+ 214 REC F 12-1PM MEYH B7                HUANG J
+     MAX: 25                
+ 215 REC F 1-2PM WILL 201              BALIKCI H
+     MAX: 25                
+ 216 REC F 11-12NOON WILL 319          BALIKCI H
+     MAX: 25                
+ 217 REC F 10-11AM BENN 138            ALLIONE G
+     MAX: 25                
+ 218 REC R 11-12NOON PSYL A30              ALP H
+     MAX: 25                
+ 219 REC F 10-11AM WILL 220             VENKAT N
+     MAX: 25                
+ 220 REC F 11-12NOON WILL 301           VENKAT N
+     MAX: 25                
+ 221 REC F 12-1PM MEYH B6             KRISHNAN N
+     MAX: 25                
+ 222 REC F 1-2PM MEYH B6              KRISHNAN N
+     MAX: 25                
+ 223 REC R 11-12NOON TOWN 307          JANETOS N
+     MAX: 25                
+ 224 REC F 1-2PM MEYH B7                 HUANG J
+     MAX: 25                
+ 225 REC F 1-2PM JAFF B17              SANGREY P
+     MAX: 25                
+ 226 REC F 1-2PM CAST A14                 ROSA B
+     MAX: 25                
+ 227 REC R 11-12NOON MEYH B7        HASSLINGER A
+     MAX: 25                
+ 228 REC R 12-1PM MEYH B7           HASSLINGER A
+     MAX: 25                
+ 

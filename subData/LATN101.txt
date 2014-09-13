@@ -1,0 +1,6 @@
+LATN-101 ELEMENTARY LATIN I                1 CU
+ 301 SEM MWRF 10-11AM WILL 319            KHAN S
+     MAX: 15                
+ 302 SEM MWRF 11-12NOON WILL 633         VOZAR T
+     MAX: 12                
+ 

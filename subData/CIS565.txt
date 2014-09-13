@@ -1,0 +1,4 @@
+CIS-565 GPU PROGRAMMING&ARCH              1 CU
+ 001 LEC M 6-9PM MOOR 212                COZZI P
+     MAX: 25                
+ 

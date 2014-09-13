@@ -1,4 +1,4 @@
-NURS-670  PRIN ADLT/GERO AC CR I            1 CU
+NURS-670 PRIN ADLT/GERO AC CR I            1 CU
  001 LEC W 9-12NOON FAGN 218            PAWLOW P
      MAX: 70                
  

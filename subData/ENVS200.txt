@@ -1,0 +1,28 @@
+ENVS-200 INTRO ENV EARTH SCIENCE    1 TO 1.5 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     PHYSICAL WORLD SECTOR
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC TR 10:30-12NOON MEYH B1        PLANTE A
+     MAX: 199               
+          RECITATION                        0 CU
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     FRESHMAN SEMINAR
+ 201 REC TBA                            PLANTE A
+     MAX: 24                
+ 203 REC W 10-11AM HAYD 358             PLANTE A
+     MAX: 35                
+ 204 REC W 11-12NOON HAYD 360           PLANTE A
+     MAX: 35                
+ 205 REC W 1-2PM HAYD 358               PLANTE A
+     MAX: 35                
+ 206 REC R 12:30-1:30PM HAYD 360        PLANTE A
+     MAX: 35                
+ 207 REC R 2-3PM HAYD 358               PLANTE A
+     MAX: 35                
+          SEMINAR                         0.5 CU
+     PHYSICAL WORLD SECTOR
+     FRESHMAN SEMINAR
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 301 SEM M 2-3:30PM HAYD 358            PLANTE A
+     MAX: 24                
+ 

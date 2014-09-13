@@ -1,0 +1,10 @@
+BIOE-401 INTRO TO CLINICAL BIOE            1 CU
+ 401 LEC T 4:30-7PM TBA                FIESTER A
+     CROSS LISTED: BIOE-601
+     SECTION MAX: 30        
+     MAX W/CROSS LIST: 75              
+ 402 LEC R 4:30-7PM TBA                FIESTER A
+     CROSS LISTED: BIOE-601
+     SECTION MAX: 30        
+     MAX W/CROSS LIST: 75              
+ 

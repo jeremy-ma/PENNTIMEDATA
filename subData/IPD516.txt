@@ -1,0 +1,5 @@
+IPD-516 ADV MECHATRNC REAC SPACE          1 CU
+ 401 LEC W 9-12NOON TOWN 319               YIM M
+     CROSS LISTED: MEAM-516
+     MAX W/CROSS LIST: 20              
+ 

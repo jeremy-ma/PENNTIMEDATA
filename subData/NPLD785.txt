@@ -1,4 +1,4 @@
-NPLD-785  GROUP DYN & ORG POL               1 CU
+NPLD-785 GROUP DYN & ORG POL               1 CU
  001 LEC TBA                             SMITH K
      PERMISSION NEEDED FROM INSTRUCTOR
      MAX: 15                

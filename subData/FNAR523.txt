@@ -1,4 +1,4 @@
-FNAR-523  DRAWING I                         1 CU
+FNAR-523 DRAWING I                         1 CU
  401 STU MW 10-1PM ADDM 201C            MURPHY D
      CROSS LISTED: FNAR-123 VLST-253
      SECTION MAX: 2         

@@ -1,4 +1,4 @@
-MGMT-100  RECITATION                        0 CU
+MGMT-100 RECITATION                        0 CU
  251 REC W 10-11AM JMHH F86             GORMAN A
      MAX: 10                
  252 REC W 11-12NOON JMHH F86             PURI R

@@ -1,4 +1,4 @@
-HCMG-101  HEALTH CARE SYSTEMS               1 CU
+HCMG-101 HEALTH CARE SYSTEMS               1 CU
  001 LEC TR 12-1:30PM SHDH 351          POLSKY D
      MAX: 125               
  

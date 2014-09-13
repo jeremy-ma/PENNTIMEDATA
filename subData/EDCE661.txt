@@ -1,4 +1,4 @@
-EDCE-661  PLN 3B: EXTENDED                1.5 CU
+EDCE-661 PLN 3B: EXTENDED                1.5 CU
  001 LEC TBA                           NEIBURG S
      DATES: 09/18/14 - 12/08/14
      MAX: 40                

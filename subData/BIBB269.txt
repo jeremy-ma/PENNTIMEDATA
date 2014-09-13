@@ -1,4 +1,4 @@
-BIBB-269  AUTONOMIC PHYSIOLOGY              1 CU
+BIBB-269 AUTONOMIC PHYSIOLOGY              1 CU
  001 LEC TR 12-1:30PM COHN 402        HEERDING J
      MAX: 60                
  

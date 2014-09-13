@@ -1,0 +1,8 @@
+KORN-011 ELEMENTARY KOREAN I               1 CU
+ 001 LEC MTWR 11-12NOON WILL 301          JUNG J
+     MAX: 15                
+ 002 LEC MTWR 12-1PM WILL 317              CHO H
+     MAX: 15                
+ 003 LEC TR 3-5PM DRLB 3N6               CHUNG E
+     MAX: 15                
+ 

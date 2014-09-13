@@ -1,4 +1,4 @@
-EDUC-715  CASE STDS HIGHR ED ADMIN          1 CU
+EDUC-715 CASE STDS HIGHR ED ADMIN          1 CU
  001 LEC T 12-2PM EDUC 120              HARPER V
      DATES: 08/27/14 - 12/19/14
      MAX: 20                

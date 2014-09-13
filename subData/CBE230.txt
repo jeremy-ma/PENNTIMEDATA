@@ -1,0 +1,13 @@
+CBE-230 MATERIAL&ENERGY BALANCES          1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MWF 10-11AM TOWN 337            SHIEH W
+     MAX: 50                
+          RECITATION                        0 CU
+ 201 REC R 9-10AM TOWN 307               SHIEH W
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 5                 
+ 202 REC F 3-4PM TOWN 307                SHIEH W
+     MAX: 30                
+ 203 REC F 1-2PM TOWN 309                SHIEH W
+     MAX: 30                
+ 

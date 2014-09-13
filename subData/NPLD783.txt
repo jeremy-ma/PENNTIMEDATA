@@ -1,4 +1,4 @@
-NPLD-783  SOC IMPACT MEASUREMENT            1 CU
+NPLD-783 SOC IMPACT MEASUREMENT            1 CU
  001 LEC M 12-3PM CAST A17              HARGRO S
      MAX: 9                 
  

@@ -1,0 +1,6 @@
+OPIM-101 INTRO TO OPS & INFO MGMT          1 CU
+ 001 LEC MW 10:30-12NOON SHDH 211         HITT L
+     MAX: 70                
+ 002 LEC MW 12-1:30PM SHDH 211            HITT L
+     MAX: 70                
+ 

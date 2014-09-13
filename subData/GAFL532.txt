@@ -1,4 +1,4 @@
-GAFL-532  BIG CITY POLITICS                 1 CU
+GAFL-532 BIG CITY POLITICS                 1 CU
  001 LEC S 2-5PM FELS SWEEN             KENNEY J
      UNDERGRADUATES NEED PERMISSION
      MAX: 30                

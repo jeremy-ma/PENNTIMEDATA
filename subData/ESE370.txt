@@ -1,0 +1,4 @@
+ESE-370 CIRCUIT-LEVEL MODELING            1 CU
+ 001 LEC MWF 12-1PM TOWN 307             DEHON A
+     MAX: 25                
+ 

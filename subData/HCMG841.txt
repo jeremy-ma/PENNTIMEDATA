@@ -1,4 +1,4 @@
-HCMG-841  HEALTH SERVICES SYS               1 CU
+HCMG-841 HEALTH SERVICES SYS               1 CU
      MBA COURSE
  001 LEC TR 3-4:30PM SHDH 1206           BURNS L
      MAX: 90                

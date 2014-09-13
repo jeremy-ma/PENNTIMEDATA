@@ -1,4 +1,4 @@
-MEAM-575  MICRO AND NANO FLUIDICS           1 CU
+MEAM-575 MICRO AND NANO FLUIDICS           1 CU
  001 LEC MW 3-4:30PM TOWN 319              BAU H
      MAX: 30                
  

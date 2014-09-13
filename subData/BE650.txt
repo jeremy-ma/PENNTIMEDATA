@@ -1,0 +1,5 @@
+BE-650 ADV BIOMED IMAG APPLIC            1 CU
+ 001 LEC TBA                               STAFF
+     UNDERGRADUATES NEED PERMISSION
+     MAX: 10                
+ 

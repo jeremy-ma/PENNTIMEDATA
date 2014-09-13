@@ -1,0 +1,4 @@
+ESE-302 ENGR APPLIC OF STATISTIC          1 CU
+ 001 LEC TR 12-1:30PM TOWN 321           SMITH T
+     MAX: 40                
+ 

@@ -1,0 +1,13 @@
+ENM-427 FIN ELEMENT & APP                 1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 401 LEC TR 1:30-3PM TOWN 311           ARAVAS N
+     CROSS LISTED: MEAM-527
+     MAX W/CROSS LIST: 40              
+          RECITATION                        0 CU
+ 402 REC F 10-11AM TOWN 315             ARAVAS N
+     CROSS LISTED: MEAM-527
+     MAX W/CROSS LIST: 20              
+ 403 REC F 2-3PM DRLB 2N36              ARAVAS N
+     CROSS LISTED: MEAM-527
+     MAX W/CROSS LIST: 20              
+ 

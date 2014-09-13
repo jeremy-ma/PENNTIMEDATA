@@ -1,4 +1,4 @@
-MGMT-653  FIELD APPLICATION PROJ            1 CU
+MGMT-653 FIELD APPLICATION PROJ            1 CU
      MBA COURSE
  001 LEC TBA                           WEIGELT K
      MBA COURSE

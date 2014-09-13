@@ -1,4 +1,4 @@
-MATH-350  NUMBER THEORY                     1 CU
+MATH-350 NUMBER THEORY                     1 CU
  001 LEC MWF 11-12NOON TOWN 315       CHINBURG T
      MAX: 36                
  

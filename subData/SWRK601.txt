@@ -1,0 +1,16 @@
+SWRK-601 HIST & PHIL OF SOC WLF            1 CU
+ 001 LEC T 12-2:30PM CAST D28         SHARLEIN J
+     MAX: 25                
+ 002 LEC T 4-6:30PM CAST A8              STERN M
+     MAX: 22                
+ 003 LEC W 9-11:30AM CAST A8         LAFORTUNE A
+     MAX: 25                
+ 004 LEC W 4-6:30PM FAGN 110             AKBAR G
+     MAX: 25                
+ 005 LEC W 6:45-9:15PM WILL 216         IRVING A
+     MAX: 25                
+ 006 LEC T 9-11:30AM PSYL A30         CHAINANI A
+     MAX: 25                
+ 007 LEC T 12-2:30PM VANP 302           IRVING A
+     MAX: 25                
+ 

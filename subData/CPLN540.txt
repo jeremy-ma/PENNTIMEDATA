@@ -1,4 +1,4 @@
-CPLN-540  INTRO TO PROPERTY DEVEL           1 CU
+CPLN-540 INTRO TO PROPERTY DEVEL           1 CU
  001 LEC TR 9-10:30AM MEYH B3           LANDIS J
      MAX: 65                
  

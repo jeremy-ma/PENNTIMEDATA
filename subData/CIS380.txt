@@ -1,0 +1,4 @@
+CIS-380 COMPUTER OPER SYSTEM              1 CU
+ 001 LEC TR 1:30-3PM LEVH 101            BLAZE M
+     MAX: 140               
+ 

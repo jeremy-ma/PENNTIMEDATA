@@ -1,0 +1,4 @@
+EAS-205 APP OF SCIENTIFIC COMP            1 CU
+ 001 LEC MW 4:30-6PM TOWN 311            KAVAN L
+     MAX: 40                
+ 

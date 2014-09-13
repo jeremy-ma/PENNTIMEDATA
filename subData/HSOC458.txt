@@ -1,4 +1,4 @@
-HSOC-458  ENVIRONMENTS AND HEALTH           1 CU
+HSOC-458 ENVIRONMENTS AND HEALTH           1 CU
  301 SEM R 1:30-4:30PM COHN 237          CRNIC M
      MAX: 15                
  

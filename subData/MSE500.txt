@@ -1,0 +1,20 @@
+MSE-500 EXP METH IN MAT SCI               1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC F 3-4PM LRSM 112B             AGARWAL R
+     PERMISSION NEEDED FROM DEPARTMENT
+     COURSE WILL MEET IN LRSM 1A.
+     MAX: 24                
+          LABORATORY                        0 CU
+ 101 LAB M 9-1PM TBA                   AGARWAL R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 6                 
+ 102 LAB T 9-1PM TBA                   AGARWAL R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 6                 
+ 103 LAB W 9-1PM TBA                   AGARWAL R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 6                 
+ 104 LAB F 9-1PM TBA                   AGARWAL R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 6                 
+ 

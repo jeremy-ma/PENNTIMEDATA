@@ -1,4 +1,4 @@
-EDCE-611  PLN5A:INFORMATIONAL RWL         1.5 CU
+EDCE-611 PLN5A:INFORMATIONAL RWL         1.5 CU
  001 LEC TBA                          GABRIELE A
      DATES: 09/18/14 - 12/04/14
      MAX: 40                

@@ -1,4 +1,4 @@
-LARP-533  MEDIA I                           1 CU
+LARP-533 MEDIA I                           1 CU
  001 LEC R 9-12NOON MEYH 4THH           MATHUR A
      MAX: 35                
  002 LEC R 9-12NOON MEYH 4THH         DA CUNHA D

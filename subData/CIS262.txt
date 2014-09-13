@@ -1,0 +1,8 @@
+CIS-262 AUTOMATA,COMPUT.& COMPLX          1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 12-1:30PM TOWN 100            ROTH A
+     MAX: 170               
+          RECITATION                        0 CU
+ 201 REC M 4:30-5:30PM DRLB A1            ROTH A
+     MAX: 170               
+ 

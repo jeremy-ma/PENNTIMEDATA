@@ -1,0 +1,4 @@
+ENM-321 ENGINEERING STATISTICS            1 CU
+ 001 LEC TR 4:30-6PM TOWN 100            SHIEH W
+     MAX: 120               
+ 

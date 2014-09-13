@@ -1,4 +1,4 @@
-MEAM-570  TRANSPORT PROCESSES I             1 CU
+MEAM-570 TRANSPORT PROCESSES I             1 CU
  001 LEC MW 1:30-3PM TOWN 315        AYYASWAMY P
      MAX: 30                
  

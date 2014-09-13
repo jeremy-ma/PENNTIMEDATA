@@ -2,7 +2,7 @@
 
 FILES="../subData/*.txt"
 
-touch allData.txt
+echo '' > allData.txt
 touch new.txt
 
 for file in $FILES

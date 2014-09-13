@@ -1,4 +1,4 @@
-ARCH-701  DESIGN STUDIO V                   2 CU
+ARCH-701 DESIGN STUDIO V                   2 CU
  201 STU MF 12-6PM TBA           ROJKIND HALPERT
      STU W 2-6PM TBA
      MAX: 75                

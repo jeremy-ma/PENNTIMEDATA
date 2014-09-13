@@ -1,4 +1,4 @@
-PSYC-747  S/T SOC COG NEUROSCI              1 CU
+PSYC-747 S/T SOC COG NEUROSCI              1 CU
  001 SEM W 5:30-8PM GLAB 523             FARAH M
      PERMISSION NEEDED FROM INSTRUCTOR
      MAX: 20                

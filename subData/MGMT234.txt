@@ -1,4 +1,4 @@
-MGMT-234  INT'L COMPARATIVE MGMT.           1 CU
+MGMT-234 INT'L COMPARATIVE MGMT.           1 CU
  001 LEC TR 3-4:30PM JMHH 340          JACKSON J
      MAX: 70                
  

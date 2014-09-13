@@ -1,4 +1,4 @@
-PUBH-508  CAPSTONE SEMINAR                  1 CU
+PUBH-508 CAPSTONE SEMINAR                  1 CU
  001 LEC M 1-4PM ACHM 104               FRASSO R
      MAJORS ONLY
      MAX: 10                

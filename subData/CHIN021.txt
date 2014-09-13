@@ -1,4 +1,4 @@
-CHIN-021  INTEN BEG MOD CHIN I&II           2 CU
+CHIN-021 INTEN BEG MOD CHIN I&II           2 CU
  001 LEC MWF 10-12NOON WILL 303            WEN C
      LEC TR 10:30-12NOON WILL 303
      MAX: 15                

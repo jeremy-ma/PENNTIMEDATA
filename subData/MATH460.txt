@@ -1,4 +1,4 @@
-MATH-460  TOPOLOGY                          1 CU
+MATH-460 TOPOLOGY                          1 CU
  401 LEC MW 3-4:30PM DRLB 4C6             CAHN P
      CROSS LISTED: MATH-500
      SECTION MAX: 9         

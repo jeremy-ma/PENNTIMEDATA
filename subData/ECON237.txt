@@ -1,4 +1,4 @@
-ECON-237  URBAN FISCAL POLICY               1 CU
+ECON-237 URBAN FISCAL POLICY               1 CU
  001 LEC MW 2-3:30PM MCNB 309             SIEG H
      MAX: 40                
  

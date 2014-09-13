@@ -1,4 +1,4 @@
-EDUC-767  REGRESSN & ANALYS OF VAR          1 CU
+EDUC-767 REGRESSN & ANALYS OF VAR          1 CU
  001 LEC R 4:30-7PM EDUC 124            VICTOR T
      DATES: 08/27/14 - 12/19/14
      MAX: 30                

@@ -1,4 +1,4 @@
-PHYS-611  STATISTICAL MECHANICS             1 CU
+PHYS-611 STATISTICAL MECHANICS             1 CU
  001 LEC MWF 11-12NOON DRLB A5          KAMIEN R
      MAX: 36                
  

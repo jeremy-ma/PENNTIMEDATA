@@ -1,0 +1,8 @@
+CIS-520 MACHINE LEARNING                  1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MW 10:30-12NOON LEVH 101        UNGAR L
+     MAX: 125               
+          RECITATION                        0 CU
+ 201 REC F 9:30-11AM LEVH 101            UNGAR L
+     MAX: 140               
+ 

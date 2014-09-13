@@ -1,4 +1,4 @@
-NURS-365  CSE STY:ANALYS CLN NUTR           1 CU
+NURS-365 CSE STY:ANALYS CLN NUTR           1 CU
  001 LEC W 1-4PM FAGN 216              COMPHER C
      MAX: 20                
  

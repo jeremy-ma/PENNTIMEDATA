@@ -1,4 +1,4 @@
-SPAN-800  FIELD EXAM                   1 TO 3 CU
+SPAN-800 FIELD EXAM                   1 TO 3 CU
  000 IND TBA                               STAFF
      PERMISSION NEEDED FROM DEPARTMENT
  

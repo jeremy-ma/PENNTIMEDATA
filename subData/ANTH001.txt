@@ -1,0 +1,15 @@
+ANTH-001 INTRO TO ARCHAEOLOGY              0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     HISTORY & TRADITION SECTOR
+ 001 LEC MW 11-12NOON MUSE B17        SCHUYLER R
+     MAX: 100               
+          INTRO ARCHAEOLOGY                 1 CU
+ 201 REC M 12-1PM MUSE 328                CLAY E
+     MAX: 25                
+ 202 REC T 10:30-11:30AM MUSE 329         CLAY E
+     MAX: 25                
+ 203 REC W 12-1PM MUSE 329            SCHRODER W
+     MAX: 25                
+ 204 REC F 11-12NOON MUSE 328         SCHRODER W
+     MAX: 25                
+ 

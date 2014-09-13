@@ -1,4 +1,4 @@
-LARP-543  MEDIA III                         1 CU
+LARP-543 MEDIA III                         1 CU
  001 LEC R 12-3PM MEYH 321              STUDER M
      MAX: 16                
  002 LEC R 3-6PM MEYH 321               STUDER M

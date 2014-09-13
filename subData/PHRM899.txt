@@ -1,4 +1,4 @@
-PHRM-899  PRE-DISSERT LAB ROTATION     1 TO 4 CU
+PHRM-899 PRE-DISSERT LAB ROTATION     1 TO 4 CU
  004 LAB TBA                             BLAIR I
      MAX: 30                
  010 LAB TBA                              CHOU M

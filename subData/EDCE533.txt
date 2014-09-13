@@ -1,0 +1,32 @@
+EDCE-533 PLN1:FORM READ/LANG CURR        1.5 CU
+ 001 LEC TBA                             JANIS B
+     DATES: 09/30/14 - 12/01/14
+     MAX: 40                
+ 002 LEC TBA                             JANIS B
+     DATES: 09/10/14 - 12/10/14
+     MAX: 40                
+ 003 LEC TBA                           GINOTTI J
+     DATES: 09/29/14 - 12/14/14
+     MAX: 40                
+ 004 LEC TBA                         CHAVENSON L
+     DATES: 09/23/14 - 12/16/14
+     MAX: 40                
+ 005 LEC TBA                        WISNIEWSKI J
+     DATES: 09/10/14 - 12/10/14
+     MAX: 40                
+ 006 LEC TBA                         PAPARO/WALL
+     DATES: 09/29/14 - 12/10/14
+     MAX: 40                
+ 007 LEC TBA                         PAPARO/WALL
+     DATES: 09/20/14 - 12/02/14
+     MAX: 40                
+ 008 LEC TBA                         GOLDSTEIN M
+     DATES: 09/01/14 - 12/01/14
+     MAX: 40                
+ 009 LEC TBA                      BOTEL-SHEPPARD
+     DATES: 09/15/14 - 12/10/14
+     MAX: 40                
+ 010 LEC TBA                          GABRIELE A
+     DATES: 09/05/14 - 05/01/15
+     MAX: 40                
+ 

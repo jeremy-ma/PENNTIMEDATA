@@ -1,0 +1,20 @@
+GCB-899 PREDISSERTATION RESEARCH     1 TO 3 CU
+ 022 LAB TBA                               LEE H
+     MAX: 5                 
+ 023 LAB TBA                              KUNG H
+     MAX: 5                 
+ 024 LAB TBA                            DEVOTO M
+     MAX: 5                 
+ 025 LAB TBA                             GRICE E
+     MAX: 5                 
+ 026 LAB TBA                             ZHANG N
+     MAX: 5                 
+ 027 LAB TBA                             BUCAN M
+     MAX: 5                 
+ 028 LAB TBA                              PACK A
+     MAX: 5                 
+ 029 LAB TBA                            VOIGHT B
+     MAX: 5                 
+ 030 LAB TBA                             LAZAR M
+     MAX: 5                 
+ 

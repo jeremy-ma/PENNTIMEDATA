@@ -1,0 +1,5 @@
+CIS-500 SOFTWARE FOUNDATIONS              1 CU
+ 001 LEC T 10:30-12NOON LRSM AUD       WEIRICH S
+     LEC R 10:30-12NOON LEVH 101
+     MAX: 60                
+ 

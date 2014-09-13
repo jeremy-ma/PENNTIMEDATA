@@ -1,4 +1,4 @@
-ARCH-621  VISUAL STUDIES III              0.5 CU
+ARCH-621 VISUAL STUDIES III              0.5 CU
  101 LAB T 1-3PM MEYH B1                  HUME N
      CO-REQUISITE: ARCH-601
      MAX: 96                

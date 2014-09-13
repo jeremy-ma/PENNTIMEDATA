@@ -1,4 +1,4 @@
-BIOL-306  HISTOLOGY                         1 CU
+BIOL-306 HISTOLOGY                         1 CU
  601 LEC R 6:30-9:30PM LLAB 109           WEIL D
      MAX: 0                 
  

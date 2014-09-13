@@ -1,0 +1,9 @@
+CIS-800 PHD SPECIAL TOPICS              0.5 CU
+ 001 LEC TBA                          DEVIETTI J
+     MAX: 15                
+          PHD SPECIAL TOPICS                1 CU
+ 002 LEC TBA                             SMITH J
+     MAX: 30                
+ 003 LEC TBA                            BADLER N
+     MAX: 30                
+ 

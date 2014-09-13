@@ -1,4 +1,4 @@
-CHEM-246  LECTURE                           0 CU
+CHEM-246 LECTURE                           0 CU
      REGISTRATION REQUIRED FOR LEC, LAB
  001 LEC W 5:30-7:30PM CHEM B13            LEE J
      MAX: 24                

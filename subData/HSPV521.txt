@@ -1,4 +1,4 @@
-HSPV-521  AMERICAN ARCHITECTURE             1 CU
+HSPV-521 AMERICAN ARCHITECTURE             1 CU
  001 LEC W 2-5PM MEYH B4                WUNSCH A
      MAX: 32                
  

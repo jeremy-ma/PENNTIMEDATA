@@ -1,0 +1,20 @@
+CHIN-011 BEGINNING MOD CHINESE I           1 CU
+ 001 LEC MW 10-11AM WILL 23               CHEN S
+     LEC TR 9:30-10:30AM WILL 23
+     MAX: 15                
+ 002 LEC MTWR 11-12NOON WILL 321          WANG L
+     MAX: 15                
+ 003 LEC MTWR 11-12NOON BENN 140         LIANG F
+     MAX: 15                
+ 004 LEC MTWR 12-1PM COLL 217         DIETRICH M
+     MAX: 15                
+ 005 LEC MTWR 12-1PM WILL 3               SHIH L
+     MAX: 15                
+ 006 LEC MTWR 12-1PM BENN 19             LIANG F
+     MAX: 15                
+ 007 LEC MW 1-2PM WILL 318                WANG L
+     LEC TR 1:30-2:30PM WILL 318
+     MAX: 15                
+ 008 LEC MTWR 2-3PM WILL 205              SHIH L
+     MAX: 15                
+ 

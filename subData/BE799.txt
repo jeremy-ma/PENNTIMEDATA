@@ -1,0 +1,4 @@
+BE-799 RESEARCH ROTATION            1 TO 2 CU
+ 001 LEC TBA                               STAFF
+     MAX: 30                
+ 

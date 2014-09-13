@@ -1,0 +1,20 @@
+GCB-699 LAB ROTATION                 1 TO 2 CU
+ 033 LAB TBA                            BERGER S
+     MAX: 30                
+ 034 LAB TBA                             ZHANG N
+     MAX: 30                
+ 035 LAB TBA                            VOIGHT B
+     MAX: 30                
+ 036 LAB TBA                            DEVOTO M
+     MAX: 30                
+ 037 LAB TBA                             GRICE E
+     MAX: 30                
+ 038 LAB TBA                          KAESTNER K
+     MAX: 30                
+ 039 LAB TBA                            BARASH J
+     MAX: 30                
+ 040 LAB TBA                              MINN A
+     MAX: 30                
+ 041 LAB TBA                      CHEN-PLOTKIN A
+     MAX: 30                
+ 

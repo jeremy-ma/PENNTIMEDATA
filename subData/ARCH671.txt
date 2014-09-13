@@ -1,4 +1,4 @@
-ARCH-671  PROFESSIONAL PRACTICE I         0.5 CU
+ARCH-671 PROFESSIONAL PRACTICE I         0.5 CU
  001 LEC F 9-12NOON MEYH B3               RYAN P
      MAX: 95                
  

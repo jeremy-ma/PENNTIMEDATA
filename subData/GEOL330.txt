@@ -1,4 +1,4 @@
-GEOL-330  CHEMICAL OCEANOGRAPHY             1 CU
+GEOL-330 CHEMICAL OCEANOGRAPHY             1 CU
  001 LEC TR 10:30-11:50AM HAYD 360         STAFF
      MAX: 15                
  

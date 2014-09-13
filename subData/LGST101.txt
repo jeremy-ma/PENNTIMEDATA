@@ -1,0 +1,12 @@
+LGST-101 INTRO TO LAW & LEG PROC           1 CU
+ 001 LEC TR 9-10:30AM JMHH F45        DE LISLE M
+     MAX: 60                
+ 002 LEC TR 10:30-12NOON JMHH 365       LAUFER W
+     MAX: 60                
+ 003 LEC TR 1:30-3PM JMHH 365           LAUFER W
+     MAX: 60                
+ 004 LEC MW 9-10:30AM JMHH F45         NICHOLS P
+     MAX: 60                
+ 005 LEC MW 1:30-3PM JMHH F45          CONSTAN N
+     MAX: 60                
+ 

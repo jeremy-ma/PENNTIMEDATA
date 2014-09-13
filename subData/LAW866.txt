@@ -1,0 +1,18 @@
+LAW-866 AD HOC EXTERNSHIP           3 TO 12 SH
+ 001 LEC TBA                             BAKER T
+     MAX: 5                 
+ 002 LEC TBA                       BURKE-WHITE W
+     MAX: 5                 
+ 003 LEC TBA                           DELISLE J
+     MAX: 5                 
+ 004 LEC TBA                       FINKELSTEIN A
+     MAX: 5                 
+ 005 LEC TBA                             FISCH J
+     MAX: 5                 
+ 006 LEC TBA                         GREENBERG S
+     MAX: 5                 
+ 007 LEC TBA                               LEE S
+     MAX: 5                 
+ 008 LEC TBA                             WOLFF T
+     MAX: 5                 
+ 

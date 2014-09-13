@@ -1,0 +1,4 @@
+BE-498 SENIOR THESIS-BIOMED SCI          1 CU
+ 001 LEC TBA                            HERSCH M
+     MAX: 40                
+ 

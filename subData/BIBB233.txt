@@ -1,4 +1,4 @@
-BIBB-233  NEUROETHOLOGY                     1 CU
+BIBB-233 NEUROETHOLOGY                     1 CU
  001 LEC TR 1:30-3PM CHEM B13           MCLEAN J
      MAX: 40                
  

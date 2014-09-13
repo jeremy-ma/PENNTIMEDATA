@@ -1,4 +1,4 @@
-PHRM-699  LABORATORY ROTATION          1 TO 3 CU
+PHRM-699 LABORATORY ROTATION          1 TO 3 CU
  012 LAB TBA                             LUCKI I
      MAX: 30                
  018 LAB TBA                         BOETTIGER D

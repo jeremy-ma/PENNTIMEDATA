@@ -1,4 +1,4 @@
-NPLD-786  NONPROFIT GOVNCE & MGMNT          1 CU
+NPLD-786 NONPROFIT GOVNCE & MGMNT          1 CU
  001 LEC T 2-5PM CAST D26                  GUO C
      MAX: 25                
  

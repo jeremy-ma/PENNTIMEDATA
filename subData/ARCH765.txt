@@ -1,4 +1,4 @@
-ARCH-765  PROJECT MANAGEMENT                1 CU
+ARCH-765 PROJECT MANAGEMENT                1 CU
  001 SEM F 9-12NOON MEYH B6            CAPALDI C
      MAX: 16                
  

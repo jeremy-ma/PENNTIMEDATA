@@ -1,0 +1,5 @@
+BMB-508 MACROMOL.BIOPHYSICS               1 CU
+ 001 LEC MW 1:30-3PM ACHM 255            SHARP K
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 19                
+ 

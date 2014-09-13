@@ -1,0 +1,4 @@
+CIS-391 INTRO ARTIFICIAL INTELL           1 CU
+ 001 LEC TR 12-1:30PM LEVH 101          MARCUS M
+     MAX: 70                
+ 

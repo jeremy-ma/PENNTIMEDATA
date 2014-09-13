@@ -1,4 +1,4 @@
-COMM-500  INTRO. TO COMM FACULTY            0 CU
+COMM-500 INTRO. TO COMM FACULTY            0 CU
  001 LEC M 10:30-12NOON ANNS 300         TUROW J
      LEC M 1-2:30PM ANNS 300
      MAX: 15                

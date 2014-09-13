@@ -1,4 +1,4 @@
-GEOL-500  ADVANCED EARTH SYSTEMS            1 CU
+GEOL-500 ADVANCED EARTH SYSTEMS            1 CU
  001 SEM MWF 2-3PM BENN 138             PHIPPS S
      MAX: 20                
  

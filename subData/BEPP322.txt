@@ -1,4 +1,4 @@
-BEPP-322  BUS INSR & EST PLNG               1 CU
+BEPP-322 BUS INSR & EST PLNG               1 CU
  401 LEC TR 12-1:30PM SHDH 350         HALLMAN G
      CROSS LISTED: BEPP-823
      SECTION MAX: 50        

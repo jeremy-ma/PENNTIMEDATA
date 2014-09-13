@@ -1,0 +1,4 @@
+CIS-515 FUND OF LIN ALG&OPT               1 CU
+ 001 LEC TR 1:30-3PM MOOR 212          GALLIER J
+     MAX: 40                
+ 
