@@ -1,0 +1,19 @@
+MKTG-727  MKTG AND ELECTRONIC COMM        0.5 CU
+ 050 LEC TBA                              BELL D
+     MBA COURSE
+     LOCATION: SAN FRANCISCO
+     DATES: 10/29/14 - 11/25/14
+     MBA COURSE
+     MAX: 65                
+ 401 LEC TR 10:30-12NOON JMHH 255         BELL D
+     CROSS LISTED: MKTG-227
+     SECTION MAX: 45        
+     MAX W/CROSS LIST: 70              
+     DATES: 08/27/14 - 10/17/14
+     MBA COURSE
+ 403 LEC TR 1:30-3PM JMHH 260             BELL D
+     CROSS LISTED: MKTG-227
+     SECTION MAX: 45        
+     MAX W/CROSS LIST: 70              
+     DATES: 08/27/14 - 10/17/14
+ 

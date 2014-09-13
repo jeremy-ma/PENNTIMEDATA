@@ -1,0 +1,161 @@
+MATH-104  CALCULUS I                        0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 001 LEC MWF 12-1PM DRLB A1             RIMMER N
+     MAX: 160               
+          CALCULUS I                        1 CU
+ 210 REC T 8:30-9:30AM DRLB 3C4         ANFUSO G
+     MAX: 20                
+ 211 REC T 8:30-9:30AM DRLB 3C2             LI D
+     MAX: 20                
+ 212 REC T 9:30-10:30AM DRLB 3C4        ANFUSO G
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 213 REC T 9:30-10:30AM DRLB 3C2            LI D
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 214 REC R 8:30-9:30AM DRLB 3C4         ANFUSO G
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 215 REC R 8:30-9:30AM DRLB 3C2             LI D
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 216 REC R 9:30-10:30AM DRLB 3C4        ANFUSO G
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 217 REC R 9:30-10:30AM DRLB 3C2            LI D
+     MAX: 20                
+          CALCULUS I                        0 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 002 LEC TR 10:30-12NOON DRLB A1       DETURCK D
+     MAX: 160               
+          CALCULUS I                        1 CU
+     FORMAL REASONING COURSE
+ 220 REC M 8-9AM DRLB 2C8              JACKSON J
+     MAX: 20                
+ 221 REC M 8-9AM DRLB 4C4                 YOON H
+     MAX: 20                
+ 222 REC M 9-10AM DRLB 2C8             JACKSON J
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 223 REC M 9-10AM DRLB 4C4                YOON H
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 224 REC W 8-9AM DRLB 2C8              JACKSON J
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 225 REC W 8-9AM DRLB 4C4                 YOON H
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 226 REC W 9-10AM DRLB 2C8             JACKSON J
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 227 REC W 9-10AM DRLB 4C4                YOON H
+     MAX: 20                
+          CALCULUS I                        0 CU
+ GROUP 3 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 003 LEC TR 12-1:30PM DRLB A1          FRAIMAN N
+     MAX: 160               
+          CALCULUS I                        1 CU
+     FORMAL REASONING COURSE
+ 230 REC W 8-9AM DRLB 4C6                 DUNN M
+     MAX: 20                
+ 231 REC W 8-9AM DRLB 3C4              FRAIMAN N
+     MAX: 20                
+ 232 REC W 9-10AM DRLB 4C2                DUNN M
+     MAX: 20                
+ 233 REC W 9-10AM DRLB 3C4             FRAIMAN N
+     MAX: 20                
+ 234 REC F 8-9AM DRLB 4C2                 DUNN M
+     MAX: 20                
+ 235 REC F 8-9AM DRLB 4C4              FRAIMAN N
+     MAX: 20                
+ 236 REC F 9-10AM DRLB 4C2                DUNN M
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 237 REC F 9-10AM DRLB 4C4             FRAIMAN N
+     MAX: 20                
+          CALCULUS I                        0 CU
+ GROUP 4 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 004 LEC MWF 11-12NOON ARCH 208           CAHN P
+     MAX: 66                
+          CALCULUS I                        1 CU
+     FORMAL REASONING COURSE
+ 218 REC T 8:30-9:30AM DRLB 4C4       KRISHNAN A
+     FORMAL REASONING COURSE
+     MAX: 33                
+ 219 REC T 9:30-10:30AM DRLB 4C4      KRISHNAN A
+     MAX: 33                
+          CALCULUS I                        0 CU
+ GROUP 5 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 005 LEC TR 10:30-12NOON ARCH 208    HABLICSEK M
+     MAX: 66                
+          CALCULUS I                        1 CU
+     FORMAL REASONING COURSE
+ 228 REC M 8-9AM DRLB 4C6              JAJMANN S
+     FORMAL REASONING COURSE
+     MAX: 33                
+ 229 REC M 9-10AM DRLB 4C6             JAJMANN S
+     MAX: 33                
+          CALCULUS I                        0 CU
+ GROUP 6 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 006 LEC TR 3-4:30PM ARCH 208          NICOARA A
+     MAX: 66                
+          CALCULUS I                        1 CU
+     FORMAL REASONING COURSE
+ 238 REC F 8-9AM DRLB 4C6            ROSENBERG J
+     FORMAL REASONING COURSE
+     MAX: 33                
+ 239 REC F 9-10AM DRLB 4C6           ROSENBERG J
+     MAX: 33                
+          CALCULUS I                        0 CU
+ GROUP 7 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 007 LEC MWF 9-10AM DRLB A8             GHRIST R
+     ENGINEERING STUDENTS ONLY
+     MAX: 120               
+          CALCULUS I                        1 CU
+     FORMAL REASONING COURSE
+ 261 REC T 8:30-9:30AM DRLB 2C2     DIEGMILLER R
+     ENGINEERING STUDENTS ONLY
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 262 REC T 9:30-10:30AM DRLB 2C2    DIEGMILLER R
+     ENGINEERING STUDENTS ONLY
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 263 REC R 8:30-9:30AM DRLB 2C2     DIEGMILLER R
+     ENGINEERING STUDENTS ONLY
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 264 REC R 9:30-10:30AM DRLB 2C2    DIEGMILLER R
+     ENGINEERING STUDENTS ONLY
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 265 REC T 8:30-9:30AM DRLB 2C8            STAFF
+     ENGINEERING STUDENTS ONLY
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 266 REC T 9:30-10:30AM DRLB 2C8           STAFF
+     ENGINEERING STUDENTS ONLY
+     MAX: 20                
+ 

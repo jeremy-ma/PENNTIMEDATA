@@ -1,0 +1,49 @@
+STAT-111  INTRODUCTORY STATISTICS           0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC MW 11-12NOON JMHH G60           EWENS W
+     MAX: 100               
+          INTRODUCTORY STATISTICS           1 CU
+ 201 REC F 11-12NOON JMHH G86              GUO Z
+     MAX: 25                
+ 202 REC F 11-12NOON JMHH G90         HALPERIN K
+     MAX: 25                
+ 203 REC F 12-1PM JMHH G86                 GUO Z
+     MAX: 25                
+ 204 REC F 1-2PM JMHH G86             PIMENTEL S
+     MAX: 25                
+          INTRODUCTORY STATISTICS           0 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 002 LEC MW 12-1PM JMHH G60              EWENS W
+     MAX: 100               
+          INTRODUCTORY STATISTICS           1 CU
+ 205 REC F 12-1PM JMHH G90            PIMENTEL S
+     MAX: 25                
+ 206 REC F 12-1PM JMHH G88               JIANG Y
+     MAX: 25                
+ 207 REC F 1-2PM JMHH G88             HALPERIN K
+     MAX: 25                
+ 208 REC F 2-3PM JMHH G88                  GUO Z
+     MAX: 25                
+          INTRODUCTORY STATISTICS           0 CU
+ GROUP 3 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 003 LEC MW 2-3PM STIT B6                EWENS W
+     MAX: 148               
+          INTRODUCTORY STATISTICS           1 CU
+ 209 REC F 11-12NOON JMHH G88            JIANG Y
+     MAX: 37                
+ 210 REC F 1-2PM JMHH G90                JIANG Y
+     MAX: 37                
+ 211 REC F 2-3PM JMHH G86             PIMENTEL S
+     MAX: 37                
+ 212 REC F 2-3PM JMHH G90             HALPERIN K
+     MAX: 37                
+ 

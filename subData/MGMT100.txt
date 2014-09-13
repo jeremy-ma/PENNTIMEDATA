@@ -1,0 +1,91 @@
+MGMT-100  RECITATION                        0 CU
+ 251 REC W 10-11AM JMHH F86             GORMAN A
+     MAX: 10                
+ 252 REC W 11-12NOON JMHH F86             PURI R
+     MAX: 10                
+ 253 REC W 12-1PM JMHH F86            THOMPSON B
+     MAX: 10                
+ 254 REC W 1-2PM JMHH F86            FLEETWOOD N
+     MAX: 10                
+ 255 REC W 2-3PM JMHH F86                 YANG S
+     MAX: 10                
+ 256 REC W 3-4PM JMHH F86               KOCHAR K
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 10                
+          LDERSHP & COMMUN IN GRPS          1 CU
+ GROUP 6 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 006 LEC TR 12-1:30PM JMHH 270          BARONE O
+     MAX: 60                
+          RECITATION                        0 CU
+ 261 REC W 10-11AM SHDH 206            KEARNEY P
+     MAX: 10                
+ 262 REC W 11-12NOON SHDH 206    CEREPNALKOVIC D
+     MAX: 10                
+ 263 REC W 12-1PM SHDH 206             HOFFMAN J
+     MAX: 10                
+ 264 REC W 1-2PM SHDH 206           RITTENBERG L
+     MAX: 10                
+ 265 REC W 2-3PM SHDH 206                GINES R
+     MAX: 10                
+ 266 REC W 3-4PM SHDH 206             REIGHART A
+     MAX: 10                
+          LDERSHP & COMMUN IN GRPS          1 CU
+ GROUP 7 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 007 LEC TR 3-4:30PM JMHH 250       GREENHALGH A
+     MAX: 60                
+          RECITATION                        0 CU
+ 271 REC F 10-11AM JMHH G94           SEMOGLOU V
+     MAX: 10                
+ 272 REC F 11-12NOON JMHH G94          AMSTRUP A
+     MAX: 10                
+ 273 REC F 12-1PM JMHH G94                  HU E
+     MAX: 10                
+ 274 REC F 1-2PM JMHH G94           SUNDARAVEL N
+     MAX: 10                
+ 275 REC F 2-3PM JMHH G94             SWOFFORD C
+     MAX: 10                
+ 276 REC F 3-4PM JMHH G94           GUADAGNINO M
+     MAX: 10                
+          LDERSHP & COMMUN IN GRPS          1 CU
+ GROUP 8 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 008 LEC TR 3-4:30PM JMHH 255         NEWBERRY D
+     MAX: 60                
+          RECITATION                        0 CU
+ 281 REC F 10-11AM JMHH F86             ANANTH N
+     MAX: 10                
+ 282 REC F 11-12NOON JMHH F86          SLINGER D
+     MAX: 10                
+ 283 REC F 12-1PM JMHH F86              TUPLER J
+     MAX: 10                
+ 284 REC F 1-2PM JMHH F86              WACHTER M
+     MAX: 10                
+ 285 REC F 2-3PM JMHH F86                 COOK H
+     MAX: 10                
+ 286 REC F 3-4PM JMHH F86           MACPHAILLE A
+     MAX: 10                
+          LDERSHP & COMMUN IN GRPS          1 CU
+ GROUP 9 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 009 LEC TR 3-4:30PM JMHH 270         DINUNZIO K
+     MAX: 60                
+          RECITATION                        0 CU
+ 291 REC F 10-11AM JMHH F88             TORRES O
+     MAX: 10                
+ 292 REC F 11-12NOON JMHH F88            ODOWD S
+     MAX: 10                
+ 293 REC F 12-1PM JMHH F88              FERREE A
+     MAX: 10                
+ 294 REC F 1-2PM JMHH F88          UPADHYAYULA N
+     MAX: 10                
+ 295 REC F 2-3PM JMHH F88                BAKER J
+     MAX: 10                
+ 296 REC F 3-4PM JMHH F88                BROWN A
+     MAX: 10                
+ 

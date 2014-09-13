@@ -1,0 +1,14 @@
+EDUC-740  PRPT SCHL COURSES               0.5 CU
+ 208 LEC TBA                               STAFF
+     MAX: 30                
+ 211 LEC TBA                             PERRY A
+     MAX: 30                
+ 212 LEC TBA                           JOHNSON C
+     MAX: 30                
+ 213 LEC TBA                              BEST T
+     MAX: 30                
+ 214 LEC TBA                        RABINOWITZ M
+     MAX: 30                
+ 215 LEC TBA                              RUST F
+     MAX: 30                
+ 

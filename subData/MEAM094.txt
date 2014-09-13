@@ -1,0 +1,5 @@
+MEAM-094  TR: CNC MILLING/SOLIDCAM       0.25 CU
+ 001 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 8                 
+ 

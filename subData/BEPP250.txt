@@ -1,0 +1,21 @@
+BEPP-250  MANAGERIAL ECONOMICS              1 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 001 LEC MW 1:30-3PM SHDH 109     DURANTON/HOUDE
+     CROSS LISTED: BEPP-950
+     SECTION MAX: 60        
+     MAX W/CROSS LIST: 63              
+ 002 LEC MW 3-4:30PM SHDH 109     DURANTON/HOUDE
+     CROSS LISTED: BEPP-950
+     SECTION MAX: 60        
+     MAX W/CROSS LIST: 63              
+          RECITATION                        0 CU
+ 202 REC F 11-12NOON SHDH 105           PETERS R
+     MAX: 40                
+ 203 REC F 12-1PM SHDH 105              PETERS R
+     MAX: 40                
+ 204 REC F 1-2PM SHDH 105               PETERS R
+     SECTION MAX: 40        
+     MAX W/CROSS LIST: 40              
+ 

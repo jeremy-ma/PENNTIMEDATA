@@ -1,0 +1,31 @@
+NURS-390  LDRSHP-COMPLEX HC SYSTEM          3 CU
+     REGISTRATION REQUIRED FOR LEC, SEM, CLN
+ 001 LEC W 9-12NOON FAGN 118            ROGERS P
+     MAX: 88                
+          CLINIC                            0 CU
+ 101 CLN TR 7-3:30PM TBA                   STAFF
+     MAX: 48                
+ 102 CLN TR 7-3:30PM TBA                   STAFF
+     MAX: 32                
+ 103 CLN TR 12-8PM TBA                     STAFF
+     MAX: 16                
+ 104 CLN TR 8-4:30PM TBA                   STAFF
+     MAX: 8                 
+ 105 CLN TR 3-11:30PM TBA                  STAFF
+     MAX: 8                 
+ 106 CLN TR 3-11:30PM TBA                  STAFF
+     MAX: 8                 
+          SEMINAR                           0 CU
+ 201 SEM M 9-12NOON FAGN 118               STAFF
+     MAX: 48                
+ 202 SEM M 9-12NOON FAGN 214               STAFF
+     MAX: 32                
+ 203 SEM M 9-12NOON FAGN 215               STAFF
+     MAX: 16                
+ 204 SEM M 9-12NOON FAGN 208               STAFF
+     MAX: 8                 
+ 205 SEM M 9-12NOON FAGN 208               STAFF
+     MAX: 8                 
+ 206 SEM M 9-12NOON FAGN 216               STAFF
+     MAX: 24                
+ 

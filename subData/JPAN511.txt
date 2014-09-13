@@ -1,0 +1,4 @@
+JPAN-511  RDGS ADVANCED JAPANESE I          1 CU
+ 001 LEC W 4-7PM WILL 3              NISHIMURA Y
+     MAX: 18                
+ 

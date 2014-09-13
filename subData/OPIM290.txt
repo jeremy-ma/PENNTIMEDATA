@@ -1,0 +1,9 @@
+OPIM-290  DECISION PROCESSES                1 CU
+ 001 LEC MW 1:30-3PM JMHH F70        SIMONSOHN U
+     MAX: 55                
+ 002 LEC MW 3-4:30PM JMHH F70        SIMONSOHN U
+     MAX: 55                
+ 003 LEC TR 10:30-12NOON JMHH F45           SU X
+     AUDITORS NEED PERMISSION
+     MAX: 60                
+ 

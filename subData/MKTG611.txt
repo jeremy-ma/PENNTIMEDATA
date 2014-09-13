@@ -1,0 +1,39 @@
+MKTG-611  MARKETING MANAGEMENT            0.5 CU
+     MBA COURSE
+ 001 LEC MW 3-4:30PM JMHH 350             RIIS J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 003 LEC MW 3-4:30PM JMHH 270             RAJU J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 005 LEC MW 3-4:30PM JMHH 255         WILLIAMS P
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 007 LEC MW 9-10:30AM JMHH 350            RIIS J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 009 LEC MW 10:30-12NOON JMHH 350         RIIS J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 011 LEC MW 1:30-3PM JMHH 350             RIIS J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 013 LEC MW 9-10:30AM JMHH 270            RAJU J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 015 LEC MW 10:30-12NOON JMHH 270         RAJU J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 017 LEC MW 1:30-3PM JMHH 270             RAJU J
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 019 LEC MW 9-10:30AM JMHH 255        WILLIAMS P
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 021 LEC MW 10:30-12NOON JMHH 255     WILLIAMS P
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 023 LEC MW 1:30-3PM JMHH 255         WILLIAMS P
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 

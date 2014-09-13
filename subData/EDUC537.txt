@@ -1,0 +1,17 @@
+EDUC-537  EDUC LINGUISTICS                  1 CU
+ 001 LEC T 2-4PM EDUC 007               BUTLER Y
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 002 LEC M 2-4PM EDUC 300                MOORE R
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 003 LEC T 2-4PM EDUC 008                MOORE R
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 004 LEC R 12-2PM EDUC 300               HONDO J
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 005 LEC T 4:30-6:30PM STIT B30         SIEGEL J
+     DATES: 08/27/14 - 12/19/14
+     MAX: 15                
+ 

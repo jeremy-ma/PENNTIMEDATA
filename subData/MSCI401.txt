@@ -1,0 +1,8 @@
+MSCI-401  LEADERSHIP LAB 4                  0 CU
+ 001 LAB R 8:30-10:50AM TBA                STAFF
+     MAX: 125               
+ 101 LAB TBA                               STAFF
+     CO-REQUISITE: MSCI-410
+     CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
+     MAX: 20                
+ 

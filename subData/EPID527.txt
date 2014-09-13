@@ -1,0 +1,9 @@
+EPID-527  BIOSTATISTICS FOR EPI II          1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC TR 11-12:30PM BRB 252       LANDIS/SHAW
+     DATES: 10/21/14 - 03/03/15
+     MAX: 35                
+          LABORATORY                        0 CU
+ 101 LAB T 9-10:30AM BRB 252         LO RE/FORDE
+     MAX: 35                
+ 

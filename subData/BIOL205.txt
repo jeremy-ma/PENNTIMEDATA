@@ -1,0 +1,10 @@
+BIOL-205  CELL BIOLOGY                      1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 10:30-12NOON LLAB 10    GUO/SVITKINA
+     MAX: 250               
+          RECITATION                        0 CU
+ 201 REC T 5-6PM LLAB 10                   STAFF
+     MAX: 125               
+ 202 REC W 5-6PM LLAB 10                   STAFF
+     MAX: 125               
+ 

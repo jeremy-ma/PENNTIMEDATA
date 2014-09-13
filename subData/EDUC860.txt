@@ -1,0 +1,5 @@
+EDUC-860  PROSEMINAR IN HUMAN DEV           1 CU
+ 001 SEM M 2-4PM EDUC 200            STEVENSON H
+     DATES: 08/27/14 - 12/19/14
+     MAX: 40                
+ 

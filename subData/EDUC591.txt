@@ -1,0 +1,8 @@
+EDUC-591  APP RSRCH PLCY & PRACTIC          1 CU
+ 001 LEC W 2-4PM EDUC 120              MAYNARD R
+     DATES: 08/27/14 - 12/19/14
+     MAX: 32                
+ 002 LEC M 10-12NOON EDUC 120          MAYNARD R
+     DATES: 08/27/14 - 12/16/14
+     MAX: 25                
+ 

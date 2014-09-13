@@ -1,0 +1,10 @@
+MATH-508  ADVANCED ANALYSIS                 1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC TR 9-10:30AM DRLB A8           KAZDAN J
+     MAX: 50                
+          LABORATORY                        0 CU
+ 101 LAB M 6:30-8:30PM DRLB 3C4          TOFTS S
+     MAX: 25                
+ 102 LAB W 6:30-8:30PM DRLB 3C4          TOFTS S
+     MAX: 25                
+ 

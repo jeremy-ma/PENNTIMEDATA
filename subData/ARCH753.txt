@@ -1,0 +1,4 @@
+ARCH-753  BUILDING PERFORMANCE SIM          1 CU
+ 001 LEC M 9-12NOON MEYH 321                YI Y
+     MAX: 13                
+ 

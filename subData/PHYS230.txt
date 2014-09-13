@@ -1,0 +1,4 @@
+PHYS-230  PRINCIPLES III:                   1 CU
+ 001 LEC MWF 11-12NOON DRLB A4        LUBENSKY T
+     MAX: 80                
+ 

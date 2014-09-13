@@ -1,0 +1,10 @@
+INTR-390  SENIOR SEMINAR                    1 CU
+ 301 SEM W 2-5PM WILL 639               CAMYAR I
+     MAX: 16                
+ 302 SEM M 2-5PM WILL 639              NISHINO T
+     MAX: 15                
+ 303 SEM TR 1:30-3PM WILL 639          CAVANNA T
+     MAX: 15                
+ 305 SEM TR 10:30-12NOON WILL 639      CAVANNA T
+     MAX: 15                
+ 

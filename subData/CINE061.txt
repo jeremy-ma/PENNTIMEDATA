@@ -1,0 +1,27 @@
+CINE-061  VIDEO I                           1 CU
+ 401 SEM W 5-8PM ADDM 207               PERLIN J
+     CROSS LISTED: FNAR-061 FNAR-661
+     SECTION MAX: 0         
+     MAX W/CROSS LIST: 10              
+ 402 SEM T 1:30-4:30PM ADDM 207       REYNOLDS E
+     CROSS LISTED: FNAR-061 FNAR-661
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 10              
+ 403 SEM T 9-12NOON ADDM 207         VAN CLEVE E
+     CROSS LISTED: FNAR-061 FNAR-661
+     SECTION MAX: 0         
+     MAX W/CROSS LIST: 10              
+ 404                              DERENONCOURT S
+     SEM R 4:30-7:30PM ADDM 207
+     CROSS LISTED: FNAR-061 FNAR-661
+     SECTION MAX: 0         
+     MAX W/CROSS LIST: 10              
+ 406 SEM M 1-4PM ADDM 207               NOVACK D
+     CROSS LISTED: FNAR-061 FNAR-661
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 10              
+ 407 SEM W 2-5PM ADDM 207               PERLIN J
+     CROSS LISTED: FNAR-061 FNAR-661
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 10              
+ 

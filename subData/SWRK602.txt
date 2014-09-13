@@ -1,0 +1,16 @@
+SWRK-602  HUMAN BEHAVIOR IN SOCENV          1 CU
+ 001 LEC T 12-2:30PM CAST A14            DITTY M
+     MAX: 25                
+ 002 LEC T 4-6:30PM CAST A14         SZCZYGIEL P
+     MAX: 25                
+ 003 LEC T 6:45-9:15PM CAST A17        PERLMAN S
+     MAX: 25                
+ 004 LEC W 9-11:30AM EDUC 120            HINDS L
+     MAX: 25                
+ 005 LEC W 4-6:30PM CAST A14          GOLDBERG C
+     MAX: 25                
+ 006 LEC W 9-11:30AM CAST A14            CLOSS C
+     MAX: 25                
+ 007 LEC T 12-2:30PM CAST A8          GOLDBERG C
+     MAX: 25                
+ 

@@ -1,0 +1,10 @@
+REAL-209  REAL ESTATE INVESTMENTS           1 CU
+ 401 LEC TR 10:30-12NOON JMHH F65         WONG M
+     CROSS LISTED: FNCE-209
+     SECTION MAX: 25        
+     MAX W/CROSS LIST: 60              
+ 402 LEC TR 3-4:30PM JMHH F65             WONG M
+     CROSS LISTED: FNCE-209
+     SECTION MAX: 25        
+     MAX W/CROSS LIST: 60              
+ 

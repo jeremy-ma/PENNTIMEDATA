@@ -1,0 +1,7 @@
+EDUC-622  IEDP INT'L FLD EXP/INT          0.5 CU
+ 001 LEC R 3-4PM EDUC 200               KUCHER A
+     LEC W 9-11AM EDUC 200
+     MAJORS ONLY
+     DATES: 08/27/14 - 12/19/14
+     MAX: 30                
+ 

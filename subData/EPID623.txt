@@ -1,0 +1,5 @@
+EPID-623  APPLIED SURVIVAL ANAL           0.5 CU
+ 001 LEC TR 11-12:30PM BLOC 701             LI Y
+     DATES: 10/21/14 - 12/09/14
+     MAX: 20                
+ 

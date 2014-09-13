@@ -1,0 +1,22 @@
+REAL-721  REAL ESTATE INVESTMENTS           1 CU
+     MBA COURSE
+ 403 LEC MW 10:30-12NOON JMHH G50        SINAI T
+     CROSS LISTED: FNCE-721
+     SECTION MAX: 28        
+     MAX W/CROSS LIST: 58              
+     MBA COURSE
+ 404 LEC MW 1:30-3PM JMHH G50            SINAI T
+     CROSS LISTED: FNCE-721
+     SECTION MAX: 29        
+     MAX W/CROSS LIST: 59              
+     MBA COURSE
+ 405 LEC MW 3-4:30PM JMHH G50            SINAI T
+     CROSS LISTED: FNCE-721
+     SECTION MAX: 28        
+     MAX W/CROSS LIST: 58              
+     MBA COURSE
+ 407 LEC TR 1:30-3PM JMHH F65             WONG M
+     CROSS LISTED: FNCE-721
+     SECTION MAX: 24        
+     MAX W/CROSS LIST: 54              
+ 

@@ -1,0 +1,21 @@
+STAT-613  REGR ANALYSIS FOR BUS             1 CU
+     MBA COURSE
+ 001 LEC MW 9-10:30AM SHDH 350           WYNER A
+     DATES: 08/27/14 - 12/03/14
+     MAX: 150               
+ 002 LEC MW 10:30-12NOON SHDH 350        WYNER A
+     DATES: 08/27/14 - 12/03/14
+     MAX: 150               
+ 003 LEC MW 1:30-3PM SHDH 350            WYNER A
+     DATES: 08/27/14 - 12/03/14
+     MAX: 150               
+ 004 LEC MW 9-10:30AM JMHH F95          PITKIN E
+     DATES: 08/27/14 - 12/03/14
+     MAX: 100               
+ 005 LEC MW 10:30-12NOON JMHH F95       PITKIN E
+     DATES: 08/27/14 - 12/03/14
+     MAX: 100               
+ 006 LEC MW 1:30-3PM JMHH G60           PITKIN E
+     DATES: 08/27/14 - 12/03/14
+     MAX: 100               
+ 

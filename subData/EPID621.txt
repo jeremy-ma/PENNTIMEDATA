@@ -1,0 +1,9 @@
+EPID-621  LONGIT.CLUSTERED DATA             1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MW 9-10:30AM BLOC 1311        LOCALIO A
+     NON-MAJORS NEED PERMISSION FROM DEPARTMENT
+     MAX: 20                
+          LABORATORY                        0 CU
+ 101 LAB TBA                           LOCALIO A
+     MAX: 20                
+ 

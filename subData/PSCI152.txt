@@ -1,0 +1,18 @@
+PSCI-152  INTERNATIONAL POL. ECON.          0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 1:30-2:30PM STIT B6           GRAY J
+     MAX: 102               
+          INTERNATIONAL POL. ECON.          1 CU
+ 201 REC M 10-11AM WILL 2                 BORN V
+     MAX: 17                
+ 202 REC W 11-12NOON WILL 216             BORN V
+     MAX: 17                
+ 203 REC W 10-11AM WILL 6                 BORN V
+     MAX: 17                
+ 204 REC T 9:30-10:30AM WILL 6        KAVANAGH M
+     MAX: 17                
+ 205 REC M 3-4PM CAST A17             KAVANAGH M
+     MAX: 17                
+ 206 REC T 12-1PM WILL 307            KAVANAGH M
+     MAX: 17                
+ 

@@ -1,0 +1,19 @@
+MEAM-347  LECTURE                           0 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MF 10-11AM DRLB A6         KOTHMANN/YIM
+     MAX: 60                
+          MECH ENG DESIGN LAB               1 CU
+ 101 LAB T 10:30-12NOON TBA         KOTHMANN/YIM
+     CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
+     MAX: 12                
+ 102 LAB T 1:30-3PM TBA             KOTHMANN/YIM
+     CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
+     MAX: 12                
+ 103 LAB W 1:30-3PM TBA             KOTHMANN/YIM
+     CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
+     MAX: 12                
+ 104 LAB W 3-4:30PM TBA             KOTHMANN/YIM
+     MAX: 12                
+ 105 LAB W 4:30-6PM TBA             KOTHMANN/YIM
+     MAX: 12                
+ 

@@ -1,0 +1,4 @@
+ENGR-250  ENERGY SYS, RES & TECH            1 CU
+ 001 LEC TR 9-10:30AM TOWN 303         JACKSON A
+     MAX: 40                
+ 

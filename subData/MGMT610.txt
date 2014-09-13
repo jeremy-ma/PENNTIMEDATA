@@ -1,0 +1,50 @@
+MGMT-610  FOUND OF TEAMWRK & LDRSH        0.5 CU
+     MBA COURSE
+ 001 LEC TBA                             GRANT A
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 002 LEC TBA                             GRANT A
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 003 LEC TBA                             GRANT A
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 004 LEC TBA                        NURMOHAMED S
+     DATES: 08/14/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 005 LEC TBA                        NURMOHAMED S
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 006 LEC TBA                        NURMOHAMED S
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 007 LEC TBA                           BARSADE S
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 008 LEC TBA                           BARSADE S
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 009 LEC TBA                           BARSADE S
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 010 LEC TBA                          ROTHBARD N
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 011 LEC TBA                          ROTHBARD N
+     DATES: 08/15/14 - 08/21/14
+     MBA COURSE
+     MAX: 72                
+ 012 LEC TBA                          ROTHBARD N
+     DATES: 08/15/14 - 08/21/14
+     MAX: 72                
+ 

@@ -1,0 +1,4 @@
+MATH-620  ALGEBRAIC NUMBER THEORY           1 CU
+ 001 LEC MW 12-1:30PM DRLB 3C8            CHAI C
+     MAX: 30                
+ 

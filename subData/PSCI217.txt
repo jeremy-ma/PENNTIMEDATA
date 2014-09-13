@@ -1,0 +1,25 @@
+PSCI-217  RUSSIAN POLITICS                  0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     CROSS CULTURAL ANALYSIS
+ 001 LEC MW 2-3PM STIT B26                 SIL R
+     MAX: 90                
+          RUSSIAN POLITICS                  1 CU
+     CROSS CULTURAL ANALYSIS
+ 201 REC W 3-4PM CAST A19                WELLS E
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 202 REC W 4-5PM WILL 201                WELLS E
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 203 REC R 12-1PM EDUC 114               WELLS E
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 204 REC W 3-4PM WILL 201               JAIRAM A
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 205 REC W 4-5PM WILL 741               JAIRAM A
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 206 REC R 9-10AM COLL 311F             JAIRAM A
+     MAX: 15                
+ 

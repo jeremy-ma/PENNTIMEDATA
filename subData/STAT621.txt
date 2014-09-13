@@ -1,0 +1,12 @@
+STAT-621  ACC REGRESSION ANALYSIS         0.5 CU
+     MBA COURSE
+ 001 LEC MW 9-10:30AM JMHH 265        WATERMAN R
+     DATES: 08/27/14 - 10/08/14
+     MAX: 78                
+ 003 LEC MW 10:30-12NOON JMHH 265     WATERMAN R
+     DATES: 08/27/14 - 10/08/14
+     MAX: 78                
+ 005 LEC MW 1:30-3PM JMHH 265         WATERMAN R
+     DATES: 08/27/14 - 10/08/14
+     MAX: 78                
+ 

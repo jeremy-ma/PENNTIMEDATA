@@ -1,0 +1,21 @@
+LGST-210  CORP RESP AND ETHICS              1 CU
+ 001 LEC MW 9-10:30AM JMHH F70        SARACHAN R
+     MAX: 45                
+ 002 LEC MW 10:30-12NOON JMHH F90       LISTER M
+     MAX: 50                
+ 003 LEC MW 3-4:30PM JMHH F60           LISTER M
+     MAX: 50                
+ 004 LEC W 3-6PM JMHH 265             RONGIONE N
+     MAX: 48                
+ 005 LEC TR 10:30-12NOON JMHH F50      CORNELL N
+     MAX: 50                
+ 006 LEC TR 12-1:30PM JMHH F50          NORMAN W
+     MAX: 50                
+ 007 LEC TR 3-4:30PM JMHH F55           NORMAN W
+     MAX: 50                
+ 301 LEC TR 3-4:30PM JMHH G55          CORNELL N
+     SECTION 301 IS FOR HONORS STUDENTS
+     ONLY. ALL OTHER SECTIONS ARE OPEN TO
+     ALL STUDENTS.
+     MAX: 25                
+ 

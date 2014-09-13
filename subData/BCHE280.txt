@@ -1,0 +1,5 @@
+BCHE-280  PHYS MODELS BIO SYSTEMS           1 CU
+ 401 LEC MWF 2-3PM DRLB A7              NELSON P
+     CROSS LISTED: PHYS-280
+     MAX W/CROSS LIST: 62              
+ 

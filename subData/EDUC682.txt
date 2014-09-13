@@ -1,0 +1,9 @@
+EDUC-682  QUAL MODES OF INQUIRY             1 CU
+ 001 LEC M 4:30-6:30PM EDUC 007        RAVITCH S
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 002 LEC T 4:30-6:30PM MCNB 395         COLKET L
+     PERMISSION NEEDED FROM DEPARTMENT
+     DATES: 08/27/14 - 12/19/14
+     MAX: 25                
+ 

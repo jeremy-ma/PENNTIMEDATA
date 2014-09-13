@@ -1,0 +1,16 @@
+MEAM-101  INTRO TO MECH DESIGN              1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC W 2-3PM TOWN 100                FIENE J
+     MAX: 90                
+          LABORATORY                        0 CU
+ 101 LAB R 10:30-12NOON TOWN 205         FIENE J
+     MAX: 18                
+ 102 LAB R 12-1:30PM TOWN 205            FIENE J
+     MAX: 18                
+ 103 LAB R 1:30-3PM TOWN 205             FIENE J
+     MAX: 18                
+ 104 LAB R 3-4:30PM TOWN 205             FIENE J
+     MAX: 18                
+ 105 LAB R 4:30-6PM TOWN 205             FIENE J
+     MAX: 18                
+ 

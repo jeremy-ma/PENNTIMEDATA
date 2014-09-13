@@ -1,0 +1,16 @@
+PSCI-211  POL IN CONTEMP MID EAST           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     CROSS CULTURAL ANALYSIS
+ 001 LEC MW 1-2PM STIT B21             VITALIS R
+     MAX: 51                
+          POL IN CONTEMP MID EAST           1 CU
+     CROSS CULTURAL ANALYSIS
+ 201 REC M 10-11AM CAST A17            GILBERT V
+     CROSS CULTURAL ANALYSIS
+     MAX: 17                
+ 202 REC M 11-12NOON CAST A19          GILBERT V
+     CROSS CULTURAL ANALYSIS
+     MAX: 17                
+ 203 REC W 10-11AM WILL 2              GILBERT V
+     MAX: 17                
+ 

@@ -1,0 +1,14 @@
+CHEM-221  PHYSICAL CHEMISTRY I              1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MWF 10-11AM STIT B21           LESTER M
+     MAX: 72                
+          RECITATION                        0 CU
+ 201 REC T 12-1PM CHEM 109              WEXLER R
+     MAX: 18                
+ 202 REC W 1-2PM CHEM 109               WEXLER R
+     MAX: 18                
+ 203 REC W 2-3PM CHEM 514                 FANG Y
+     MAX: 18                
+ 204 REC W 5-6PM CHEM 109                 FANG Y
+     MAX: 18                
+ 

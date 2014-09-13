@@ -1,0 +1,10 @@
+LARP-701  STUDIO V                          2 CU
+ 001 STU MR 12-6PM TBA               M'CLOSKEY K
+     MAX: 48                
+ 002 STU MR 12-6PM TBA             MARCINKOSKI C
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 12                
+ 003 STU MR 12-6PM TBA                MORABITO V
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 12                
+ 

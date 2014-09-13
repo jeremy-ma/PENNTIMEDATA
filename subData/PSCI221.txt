@@ -1,0 +1,10 @@
+PSCI-221  COMPARATIVE HEALTH POL.           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MW 2-3PM VAGL 2000              LYNCH J
+     MAX: 42                
+          COMPARATIVE HEALTH POL.           1 CU
+ 201 REC R 10:30-11:30AM MUSE 329       PERERA I
+     MAX: 17                
+ 203 REC R 1:30-2:30PM STIT B30         PERERA I
+     MAX: 0                 
+ 

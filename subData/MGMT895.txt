@@ -1,0 +1,14 @@
+MGMT-895  GLOBAL BUSINESS                 0.5 CU
+     MBA COURSE
+ 701 LEC TBA                            KOBRIN S
+     DATES: 09/07/14 - 09/13/14
+     MBA COURSE
+     MAX: 70                
+ 702 LEC TBA                              AMIT R
+     DATES: 09/07/14 - 09/13/14
+     MBA COURSE
+     MAX: 70                
+ 752 LEC TBA                           GUILLEN M
+     DATES: 09/07/14 - 09/13/14
+     MAX: 70                
+ 

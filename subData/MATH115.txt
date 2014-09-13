@@ -1,0 +1,13 @@
+MATH-115  CALCULUS II PROB&MATRIC           0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 001 LEC TR 3-4:30PM DRLB A2             CROKE C
+     MAX: 80                
+          CALCULUS II PROB&MATRIC           1 CU
+ 201 REC W 8-9AM DRLB 2C2                 DONG S
+     MAX: 20                
+ 202 REC W 9-10AM DRLB 2C2                DONG S
+     MAX: 20                
+ 

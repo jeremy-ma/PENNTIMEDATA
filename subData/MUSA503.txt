@@ -1,0 +1,8 @@
+MUSA-503  MODELING GEOG OBJECTS             1 CU
+ 401 LEC T 2-5PM STIT B26               TOMLIN C
+     CROSS LISTED: CPLN-503
+     MAX W/CROSS LIST: 55              
+ 402 LEC R 2-5PM MEYH B13              HILLIER A
+     CROSS LISTED: CPLN-503
+     MAX W/CROSS LIST: 32              
+ 

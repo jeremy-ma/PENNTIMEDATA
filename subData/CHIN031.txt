@@ -1,0 +1,14 @@
+CHIN-031  BEG RDG/WRTG CHINESE I            1 CU
+ 001 LEC MTWR 11-12NOON WILL 5              LI Y
+     MAX: 15                
+ 002 LEC MTWR 12-1PM WILL 2                 WU G
+     MAX: 15                
+ 003 LEC MW 12-1PM WILL 25                  LI Y
+     LEC TR 12-1PM MEYH B5
+     MAX: 15                
+ 004 LEC MW 1-2PM WILL 215                  WU G
+     LEC TR 1:30-2:30PM WILL 316
+     MAX: 15                
+ 005 LEC MTWR 2-3PM MCNB 582                MA Y
+     MAX: 15                
+ 

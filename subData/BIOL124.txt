@@ -1,0 +1,16 @@
+BIOL-124  INTRO ORGANISM BIOL. LAB        0.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC M 4-5PM LLAB 10              ROBINSON L
+     MAX: 140               
+          LABORATORY                        0 CU
+ 101 LAB T 9-12NOON LLAB 101          ROBINSON L
+     MAX: 20                
+ 102 LAB T 1-4PM LLAB 101                BERRY A
+     MAX: 20                
+ 103 LAB W 2-5PM LLAB 101                  LEE U
+     MAX: 20                
+ 105 LAB R 1-4PM LLAB 101                BERRY A
+     MAX: 20                
+ 106 LAB F 2-5PM LLAB 101                  LEE U
+     MAX: 20                
+ 

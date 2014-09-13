@@ -1,0 +1,5 @@
+CRIM-150  EVD. BSD CRIME & JUST PO          1 CU
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC MW 9-10:30AM MCNB 309            BERK R
+     MAX: 30                
+ 

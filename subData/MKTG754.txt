@@ -1,0 +1,17 @@
+MKTG-754  PRICING POLICY                  0.5 CU
+     MBA COURSE
+ 004 LEC TR 12-1:30PM JMHH 265           ZHANG Z
+     DATES: 10/18/14 - 12/09/14
+     MAX: 70                
+ 050 LEC TBA                             ZHANG Z
+     MBA COURSE
+     LOCATION: SAN FRANCISCO
+     DATES: 09/22/14 - 11/03/14
+     MBA COURSE
+     MAX: 65                
+ 402 LEC TR 10:30-12NOON JMHH 265        ZHANG Z
+     CROSS LISTED: MKTG-254
+     SECTION MAX: 60        
+     MAX W/CROSS LIST: 70              
+     DATES: 10/18/14 - 12/09/14
+ 

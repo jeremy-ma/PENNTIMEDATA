@@ -1,0 +1,35 @@
+MATH-170  IDEAS IN MATHEMATICS              1 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+     NATURAL SCIENCE & MATH SECTOR
+ 001 LEC TR 10:30-12NOON DRLB A2           POP C
+     MAX: 90                
+          RECITATION                        0 CU
+ 201 REC M 8-9AM DRLB 3C4                  POP C
+     MAX: 21                
+ 202 REC M 9-10AM DRLB 3C4                 POP C
+     MAX: 21                
+ 203 REC W 8-9AM BENN 323                  POP C
+     MAX: 21                
+ 204 REC W 9-10AM BENN 323                 POP C
+     MAX: 21                
+          IDEAS IN MATHEMATICS              1 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+     NATURAL SCIENCE & MATH SECTOR
+ 002 LEC MWF 9-10AM DRLB A5       BHATTACHARYA S
+     MAX: 66                
+          RECITATION                        0 CU
+ 211 REC T 8:30-9:30AM DRLB 3C8            TAI M
+     MAX: 16                
+ 212 REC T 9:30-10:30AM DRLB 3C8           TAI M
+     MAX: 17                
+ 213 REC R 8:30-9:30AM DRLB 3C8            TAI M
+     MAX: 16                
+ 214 REC R 9:30-10:30AM DRLB 3C8           TAI M
+     MAX: 17                
+ 

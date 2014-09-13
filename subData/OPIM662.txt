@@ -1,0 +1,11 @@
+OPIM-662  ENABLING TECHNOLOGIES             1 CU
+ 001 LEC TBA                         HOSANAGAR K
+     PERMISSION NEEDED FROM DEPARTMENT
+     LOCATION: SAN FRANCISCO
+     DATES: 05/27/14 - 07/31/15
+     MAX: 60                
+ 401 LEC W 3-6PM JMHH F85            HOSANAGAR K
+     CROSS LISTED: OPIM-314
+     SECTION MAX: 66        
+     MAX W/CROSS LIST: 96              
+ 

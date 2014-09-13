@@ -1,0 +1,10 @@
+LING-071  AMERICAN SIGN LANGUAGE I          1 CU
+ 680 LEC TR 1:30-3PM WILL 321           FISHER J
+     MAX: 16                
+ 681 LEC TR 6-7:30PM WILL 25         HENNESSEY C
+     MAX: 16                
+ 682 LEC TR 3-4:30PM WILL 304       DROLSBAUGH M
+     MAX: 16                
+ 683 LEC MW 6:30-8PM WILL 23          HARTMANN J
+     MAX: 16                
+ 

@@ -1,0 +1,29 @@
+ACCT-102  MANAGERIAL ACCOUNTING             1 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 001 LEC TR 1:30-3PM SHDH 1201         GONEDES N
+     MAX: 45                
+ 002 LEC TR 3-4:30PM SHDH 1201         GONEDES N
+     MAX: 44                
+          RECITATION                        0 CU
+ 201 REC F 10-11AM JMHH F45              GOINS J
+     MAX: 44                
+ 202 REC F 11-12NOON JMHH F45            GOINS J
+     MAX: 44                
+          MANAGERIAL ACCOUNTING             1 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 003 LEC TR 10:30-12NOON SHDH 350        DEFEO V
+     MAX: 100               
+          RECITATION                        0 CU
+ 203 REC F 10-11AM JMHH G92                LOU S
+     MAX: 25                
+ 204 REC F 11-12NOON JMHH G92              LOU S
+     MAX: 25                
+ 205 REC F 10-11AM JMHH F65               FUNK J
+     MAX: 25                
+ 206 REC F 11-12NOON JMHH F65             FUNK J
+     MAX: 25                
+ 

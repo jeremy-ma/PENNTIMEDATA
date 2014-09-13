@@ -1,0 +1,4 @@
+MATH-504  GRAD PROSEMINAR IN MATH           1 CU
+ 001 LEC WF 1:30-3PM DRLB 4C8              POP F
+     MAX: 30                
+ 

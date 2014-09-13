@@ -1,0 +1,9 @@
+MGMT-811  ENTREP THROUGH ACQUIS.          0.5 CU
+     MBA COURSE
+ 001 LEC M 3-6PM JMHH 345              CHALFIN R
+     DATES: 09/01/14 - 10/13/14
+     MAX: 60                
+ 002 LEC M 3-6PM JMHH 345              CHALFIN R
+     DATES: 10/20/14 - 12/08/14
+     MAX: 60                
+ 

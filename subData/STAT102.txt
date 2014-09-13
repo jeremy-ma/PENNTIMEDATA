@@ -1,0 +1,9 @@
+STAT-102  INTRO BUSINESS STAT               1 CU
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC TR 10:30-12NOON JMHH F85      KRIEGER A
+     MAX: 120               
+ 002 LEC TR 1:30-3PM JMHH G60          KRIEGER A
+     MAX: 100               
+ 003 LEC TR 3-4:30PM JMHH G60          KRIEGER A
+     MAX: 100               
+ 

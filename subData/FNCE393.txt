@@ -1,0 +1,5 @@
+FNCE-393  ASP-GLOBAL MONETARY FIN         0.5 CU
+ 001 LEC TR 9-10:30AM JMHH F92        ECKSTEIN Z
+     DATES: 08/27/14 - 10/17/14
+     MAX: 40                
+ 

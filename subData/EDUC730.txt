@@ -1,0 +1,6 @@
+EDUC-730  MEDICAL EDUCATION                 1 CU
+ 014 LEC TBA                       WORTHAM/BOYER
+     MAX: 33                
+ 015 LEC TBA                       WORTHAM/BOYER
+     MAX: 33                
+ 

@@ -1,0 +1,33 @@
+NURS-380  NURSING IN THE COMMUNITY          2 CU
+     REGISTRATION REQUIRED FOR LEC, CLN, LAB
+ 001 LEC W 9-12NOON FAGN 116            BREWER C
+     MAX: 88                
+          CLINIC                            0 CU
+ 101 CLN TR 8-4:30PM TBA                 KELLY K
+     MAX: 8                 
+ 102 CLN TR 8-4:30PM TBA          MULLEN-KRIMM J
+     MAX: 8                 
+ 103 CLN TR 8-4:30PM TBA          SLAYTON-ATKINS
+     MAX: 6                 
+ 104 CLN TR 8-4:30PM TBA          ROULEAU-DISE C
+     MAX: 6                 
+ 105 CLN TR 8-4:30PM TBA                  LECH G
+     MAX: 8                 
+ 106 CLN TR 8-4:30PM TBA          JONES SHAKUR S
+     MAX: 8                 
+ 107 CLN TR 8-5:30PM TBA               HAUGHEY C
+     MAX: 6                 
+ 108 CLN TR 8-5:30PM TBA               RALSTON B
+     MAX: 6                 
+ 109 CLN TR 8-4:30PM TBA            MCLAUGHLIN C
+     MAX: 6                 
+ 110 CLN TR 8-4:30PM TBA             DICKINSON L
+     MAX: 6                 
+ 111 CLN TR 8-4:30PM TBA                CULLEN M
+     MAX: 6                 
+          LABORATORY                        0 CU
+ 201 LAB TBA                               STAFF
+     MAX: 38                
+ 206 LAB TBA                               STAFF
+     MAX: 36                
+ 

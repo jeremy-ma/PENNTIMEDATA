@@ -1,0 +1,8 @@
+ECON-793  ECONOMICS OF LABOR II           0.5 CU
+ 001 LEC R 5:30-8:30PM MCNB 410        BURDETT K
+     DATES: 08/27/14 - 10/17/14
+     MAX: 30                
+ 002 LEC R 5:30-8:30PM MCNB 410         MENZIO G
+     DATES: 10/18/14 - 12/09/14
+     MAX: 30                
+ 

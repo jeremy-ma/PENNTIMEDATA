@@ -1,0 +1,6 @@
+HCMG-855  MGMT HLTH CRE FOR ELDRLY   0.5 TO 1 CU
+ 002 LEC W 6-9PM JMHH 370              WHITMAN J
+     MBA COURSE
+     DATES: 08/27/14 - 10/17/14
+     MAX: 50                
+ 

@@ -1,0 +1,8 @@
+FNCE-738  CAPITAL MARKETS                   1 CU
+     MBA COURSE
+ 001 LEC MW 12-1:30PM JMHH 240           MUSTO D
+     MBA COURSE
+     MAX: 78                
+ 002 LEC MW 1:30-3PM JMHH 240            MUSTO D
+     MAX: 78                
+ 

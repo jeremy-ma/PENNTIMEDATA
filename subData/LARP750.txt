@@ -1,0 +1,4 @@
+LARP-750  TPC HORT PLNT DSGN                1 CU
+ 001 LEC F 1-4PM MEYH B5               OSTRICH D
+     MAX: 25                
+ 

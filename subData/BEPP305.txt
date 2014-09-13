@@ -1,0 +1,15 @@
+BEPP-305  RISK MANAGEMENT                   1 CU
+ 401                             MITCHELL/GOTTLI
+     LEC MW 10:30-12NOON JMHH 240
+     CROSS LISTED: BEPP-805
+     SECTION MAX: 45        
+     MAX W/CROSS LIST: 60              
+ 402 LEC MW 1:30-3PM JMHH F50    MITCHELL/GOTTLI
+     CROSS LISTED: BEPP-805
+     SECTION MAX: 45        
+     MAX W/CROSS LIST: 60              
+ 403 LEC MW 3-4:30PM JMHH F50    MITCHELL/GOTTLI
+     CROSS LISTED: BEPP-805
+     SECTION MAX: 48        
+     MAX W/CROSS LIST: 60              
+ 

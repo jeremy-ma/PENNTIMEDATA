@@ -1,0 +1,17 @@
+MEAM-247  LECTURE                           0 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC M 2-3PM TOWN 100             KOTHMANN B
+     MAX: 60                
+          MEAM LAB I                      0.5 CU
+ 101 LAB R 9-10:30AM TBA              KOTHMANN B
+     CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
+     MAX: 12                
+ 102 LAB R 10:30-12NOON TBA           KOTHMANN B
+     MAX: 12                
+ 103 LAB R 3-4:30PM TBA               KOTHMANN B
+     MAX: 12                
+ 104 LAB F 11-12:30PM TBA             KOTHMANN B
+     MAX: 12                
+ 105 LAB F 1-2:30PM TBA               KOTHMANN B
+     MAX: 12                
+ 

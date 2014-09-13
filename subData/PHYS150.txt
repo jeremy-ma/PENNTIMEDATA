@@ -1,0 +1,77 @@
+PHYS-150  PRINCIPLES I                    1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 10-11AM DRLB A2             LANDE K
+     LEC M 2-3PM DRLB A2, LEC T 5-6PM DRLB A1
+     REQUIRES MATH 104 AS A PRE-REQUISITE
+     OR A CO-REQUISITE.
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+     MAX: 65                
+ 002 LEC TR 12-1:30PM DRLB A2          LIPELES E
+     LEC W 1-2PM DRLB A2, LEC T 5-6PM DRLB A1
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+     MAX: 65                
+ 003 LEC TR 10:30-12NOON DRLB A8       THOMSON E
+     LEC W 2-3PM DRLB A1, LEC T 5-6PM DRLB A4
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+     MAX: 85                
+ 004 LEC MF 12-1PM DRLB 3N1H         HOLLEBEEK R
+     LEC M 3-4PM DRLB 3N1H
+     LEC W 12-1PM DRLB A8, LEC T 5-6PM DRLB A1
+     PHYSICAL WORLD SECTOR
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     Req PHYS LAB included in PHYS150 REG
+     MAX: 60                
+ 005 LEC TR 12-2PM DRLB 3N1H              SAKO M
+     LEC W 11-1PM DRLB 3N1H
+     LEC T 5-6PM DRLB A1
+     MAX: 60                
+          LABORATORY                        0 CU
+ 121 LAB M 1-3PM DRLB LAB              PFEIFER C
+     MAX: 15                
+ 122 LAB M 1-3PM DRLB LAB                 TRAN L
+     MAX: 15                
+ 123 LAB M 3-5PM DRLB LAB                 TRAN L
+     MAX: 15                
+ 124 LAB M 3-5PM DRLB LAB            MASIH DAS P
+     MAX: 15                
+ 125 LAB T 1-3PM DRLB LAB                 LYNN C
+     MAX: 15                
+ 126 LAB T 1-3PM DRLB LAB                 KOHN S
+     MAX: 15                
+ 127 LAB T 3-5PM DRLB LAB                 LYNN C
+     MAX: 15                
+ 128 LAB W 1-3PM DRLB LAB              ADDISON Z
+     MAX: 15                
+ 129 LAB W 1-3PM DRLB LAB                 KOHN S
+     MAX: 15                
+ 131 LAB W 6-8PM DRLB LAB                RADJA A
+     MAX: 15                
+ 132 LAB W 6-8PM DRLB LAB              PANETTA J
+     MAX: 15                
+ 133 LAB R 1-3PM DRLB LAB             KEHAYIAS C
+     MAX: 13                
+ 134 LAB R 3-5PM DRLB LAB             KEHAYIAS C
+     MAX: 15                
+ 135 LAB R 3-5PM DRLB LAB              PFEIFER C
+     MAX: 15                
+ 136 LAB R 6-8PM DRLB LAB               SALEEM Z
+     MAX: 15                
+ 137 LAB F 1-3PM DRLB LAB         PAPADOPOULOS E
+     MAX: 15                
+ 138 LAB F 3-5PM DRLB LAB         PAPADOPOULOS E
+     MAX: 15                
+ 139 LAB F 1-3PM DRLB LAB            RESSEGUIE E
+     MAX: 15                
+ 140 LAB T 3-5PM DRLB LAB              IVANCIC R
+     MAX: 15                
+ 141 LAB M 6-8PM DRLB LAB              IVANCIC R
+     MAX: 15                
+ 142 LAB F 3-5PM DRLB LAB            RESSEGUIE E
+     MAX: 15                
+ 

@@ -1,0 +1,27 @@
+ECON-712  SEARCH IN MACROECONOMICS        0.5 CU
+ 001 LEC T 5:30-8:30PM MCNB 309        BURDETT K
+     DATES: 10/18/14 - 12/09/14
+     MAX: 25                
+          TOPICS IN APPLIED MICRO           1 CU
+ 003 LEC MW 1:30-3PM MCNB 167-8           FANG H
+     MAX: 25                
+          TOPICS IN GAME THEORY           0.5 CU
+ 004 LEC W 5:30-8:30PM MCNB 286-7     YAMAMOTO Y
+     DATES: 08/27/14 - 10/17/14
+     MAX: 25                
+          TOPICS EMPIRICAL MICRO            1 CU
+ 005 LEC TR 1:30-3PM MCNB 169             SIEG H
+     MAX: 25                
+          DISS PROJ IN ECON THEORY          0 CU
+ 008 LEC TR 1-2:30PM GLAB 100         SANDRONI A
+     DATES: 10/18/14 - 12/09/14
+     MAX: 25                
+          INFO ACQUISITION COMMUNI        0.5 CU
+ 010 LEC TR 9-10:30AM MCNB 167-8      MATTHEWS S
+     DATES: 10/18/14 - 12/09/14
+     MAX: 25                
+          SEARCH IN MACROECONOMICS        0.5 CU
+ 011 LEC T 5:30-8:30PM MCNB 309         MENZIO G
+     DATES: 08/27/14 - 10/17/14
+     MAX: 25                
+ 

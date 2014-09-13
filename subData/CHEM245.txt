@@ -1,0 +1,15 @@
+CHEM-245  ORGANIC CHEMISTRY I               0 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC T 12-1PM CHEM 102             MALLORY C
+     MAX: 150               
+          EXPERIMTL ORGAN CHEM I            1 CU
+ 101 LAB MW 1-5PM TBA                  MALLORY C
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 50                
+ 102 LAB TR 8-12NOON TBA               MALLORY C
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 50                
+ 103 LAB TR 1-5PM TBA                  MALLORY C
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 50                
+ 

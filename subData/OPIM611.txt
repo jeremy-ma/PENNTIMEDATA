@@ -1,0 +1,38 @@
+OPIM-611  QUALITY AND PRODUCTIVITY        0.5 CU
+ 002 LEC MW 9-10:30AM JMHH 270        MARINESI S
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 004 LEC MW 10:30-12NOON JMHH 270     MARINESI S
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 006 LEC MW 1:30-3PM JMHH 270         MARINESI S
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 008 LEC MW 9-10:30AM JMHH 245       TERWIESCH C
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 010 LEC MW 10:30-12NOON JMHH 245    TERWIESCH C
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 012 LEC MW 1:30-3PM JMHH 245        TERWIESCH C
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 014 LEC MW 9-10:30AM JMHH 255          STAATS B
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 016 LEC MW 10:30-12NOON JMHH 255       STAATS B
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 018 LEC MW 1:30-3PM JMHH 255           STAATS B
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 020 LEC MW 9-10:30AM JMHH 265        REINECKE N
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 022 LEC MW 10:30-12NOON JMHH 265     REINECKE N
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 024 LEC MW 1:30-3PM JMHH 265         REINECKE N
+     DATES: 10/18/14 - 12/09/14
+     MAX: 65                
+ 

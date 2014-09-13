@@ -1,0 +1,5 @@
+EDUC-624  GENDER IN COLLEGE                 1 CU
+ 001 SEM M 12-2PM EDUC 120              HARPER V
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 

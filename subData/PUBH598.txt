@@ -1,0 +1,6 @@
+PUBH-598  IMERS EXPRC IN GLBL PUBH          1 CU
+ 001 LEC TBA                            NGUYEN G
+     MAJORS ONLY
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 2                 
+ 

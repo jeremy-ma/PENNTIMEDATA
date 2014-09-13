@@ -1,0 +1,30 @@
+PSYC-001  RECITATION                        0 CU
+ 201 REC M 1-2PM PSYL C41               DEPOLO L
+     MAX: 40                
+ 202 REC M 1-2PM PSYL A30              CASARES J
+     MAX: 40                
+ 203 REC M 2-3PM STIT B30               DEPOLO L
+     MAX: 40                
+ 204 REC M 1-2PM MCNB 110                RYDER C
+     MAX: 40                
+ 205 REC M 12-1PM PSYL C41             CASARES J
+     MAX: 40                
+ 206 REC F 12-1PM PSYL C41              MORRIS S
+     MAX: 40                
+ 207 REC M 12-1PM MCNB 110         PEHLIVANOVA M
+     MAX: 40                
+ 208 REC W 2-3PM MCNB 395          PEHLIVANOVA M
+     MAX: 40                
+ 209 REC W 1-2PM PSYL C41               DEPOLO L
+     MAX: 40                
+ 210 REC W 1-2PM STIT B30                RYDER C
+     MAX: 40                
+ 211 REC W 2-3PM WILL 304               DEPOLO L
+     MAX: 40                
+ 212 REC F 10-11AM MCNB 410             MORTON H
+     MAX: 40                
+ 215 REC F 1-2PM PSYL C41               MORRIS S
+     MAX: 40                
+ 217 REC F 11-12NOON MCNB 410           MORTON H
+     MAX: 40                
+ 

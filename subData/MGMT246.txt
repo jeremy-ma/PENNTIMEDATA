@@ -1,0 +1,4 @@
+MGMT-246  SOC INNOV & SOC ENTRPRSE          1 CU
+ 001 LEC M 3-6PM SHDH 105             KIMBERLY J
+     MAX: 32                
+ 

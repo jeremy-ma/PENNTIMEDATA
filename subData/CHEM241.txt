@@ -1,0 +1,50 @@
+CHEM-241  ORGANIC CHEMISTRY I               1 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 002 LEC TR 9-10:30AM CHEM 102          DAILEY W
+     MAX: 110               
+          RECITATION                        0 CU
+ 202 REC M 11-12NOON CHEM 109             TRAN M
+     MAX: 27                
+ 203 REC M 4-5PM CHEM 109                 TRAN M
+     MAX: 27                
+ 204 REC W 3-4PM CHEM 514                ZHANG Y
+     MAX: 28                
+ 205 REC W 5-6PM CHEM 119                ZHANG Y
+     MAX: 28                
+          ORGANIC CHEMISTRY I               1 CU
+ GROUP 3 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 003 LEC MWF 11-12NOON CHEM 102        WINKLER J
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 120               
+          RECITATION                        0 CU
+ 206 REC M 3-4PM CHEM 514                  STAFF
+     MAX: 29                
+ 207 REC T 12-1PM CHEM 119                 STAFF
+     MAX: 29                
+ 208 REC W 2-3PM CHEM 119                  STAFF
+     MAX: 29                
+ 209 REC W 4-5PM CHEM 109                  STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+          ORGANIC CHEMISTRY I               1 CU
+ GROUP 4 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 004 LEC MWF 2-3PM DRLB A8           KOZLOWSKI M
+     MAX: 110               
+          RECITATION                        0 CU
+ 210 REC M 3-4PM CHEM 119                  STAFF
+     MAX: 27                
+ 211 REC M 4-5PM CHEM 119                  STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 26                
+ 212 REC W 3-4PM CHEM 119                ZHANG Y
+     MAX: 26                
+ 213 REC W 4-5PM CHEM 119                  STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 26                
+ 

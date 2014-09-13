@@ -1,0 +1,10 @@
+MATH-370  ALGEBRA                           1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MWF 12-1PM DRLB 2C4            SCHERR Z
+     MAX: 36                
+          LABORATORY                        0 CU
+ 101 LAB T 6:30-8:30PM DRLB 3C6          MOORE S
+     MAX: 18                
+ 102 LAB R 6:30-8:30PM DRLB 3C6          MOORE S
+     MAX: 18                
+ 

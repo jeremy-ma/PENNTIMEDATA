@@ -1,0 +1,31 @@
+ECON-002  INTRO ECON MACRO                  0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     SOCIETY SECTOR
+ 001 LEC MW 10-11AM BENN 419             BOSSI L
+     MAX: 95                
+          INTRO TO MACRO                    0 CU
+     SOCIETY SECTOR
+ 002 LEC MW 11-12NOON BENN 419           BOSSI L
+     MAX: 95                
+          INTRO ECON MACRO                  1 CU
+ 201 REC F 10-11AM WILL 316       CAMILO VINCENT
+     MAX: 21                
+ 202 REC F 11-12NOON MCNB 110        VALENTINY T
+     MAX: 21                
+ 203 REC F 1-2PM WILL 315            VALENTINY T
+     MAX: 21                
+ 204 REC F 11-12NOON BENN 322             PENG Q
+     MAX: 21                
+ 205 REC F 12-1PM WILL 316           BRACAGLIA T
+     MAX: 21                
+ 206 REC F 2-3PM WILL 315            BRACAGLIA T
+     MAX: 21                
+ 207 REC F 2-3PM STIT B30                 CHEN Y
+     MAX: 21                
+ 208 REC F 11-12NOON TOWN 305     CAMILO VINCENT
+     MAX: 21                
+ 209 REC F 9-10AM WILL 305                PENG Q
+     MAX: 21                
+ 210 REC F 12-1PM STIT B30                CHEN Y
+     MAX: 21                
+ 

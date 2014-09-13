@@ -1,0 +1,14 @@
+BSTA-920  TUTORIAL: RESEARCH         0.5 TO 3 CU
+ 018 LEC TBA                            TROXEL A
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+ 024 LEC TBA                              CHEN J
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+ 031 LEC TBA                             SMALL D
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+ 032 LEC TBA                         SHINOHARA R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+ 

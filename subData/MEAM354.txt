@@ -1,0 +1,10 @@
+MEAM-354  MECHANICS OF SOLIDS               1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 9-10:30AM LEVH 101          ARAVAS N
+     MAX: 70                
+          RECITATION                        0 CU
+ 201 REC F 1-2PM TOWN 315               ARAVAS N
+     MAX: 35                
+ 202 REC F 2-3PM TOWN 315               ARAVAS N
+     MAX: 35                
+ 

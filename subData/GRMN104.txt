@@ -1,0 +1,6 @@
+GRMN-104  INTERMEDIATE GERMAN II            1 CU
+ 001 LEC MTWR 11-12NOON WILL 28           LYNN C
+     MAX: 18                
+ 002 LEC MTWR 12-1PM WILL 303             LYNN C
+     MAX: 18                
+ 

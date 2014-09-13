@@ -1,0 +1,94 @@
+MGMT-653  FIELD APPLICATION PROJ            1 CU
+     MBA COURSE
+ 001 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 002 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 003 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 004 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 005 LEC TBA                           WEIGELT K
+     MAX: 6                 
+ 009 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 011 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 012 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 013 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 014 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 015 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 016 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 017 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 018 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 019 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 020 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 021 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 022 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 023 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 024 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 025 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 15                
+ 026 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 027 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 028 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 029 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 030 LEC TBA                           WEIGELT K
+     LOCATION: SAN FRANCISCO
+     MBA COURSE
+     MAX: 6                 
+ 031 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 0                 
+ 032 LEC TBA                           WEIGELT K
+     MAX: 6                 
+ 033 LEC T 10:30-12NOON JMHH 657        ROSNER S
+     MBA COURSE
+     MAX: 6                 
+ 034 LEC T 12-1PM JMHH 657          SHROPSHIRE K
+     MAX: 6                 
+ 035 LEC TBA                           WEIGELT K
+     MBA COURSE
+     MAX: 6                 
+ 

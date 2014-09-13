@@ -1,0 +1,13 @@
+MGMT-801  ENTREPRENEURSHIP                0.5 CU
+ 002 LEC MW 10:30-12NOON JMHH 370      MOLLICK E
+     DATES: 10/20/14 - 12/08/14
+     MBA COURSE
+     MAX: 70                
+ 004 LEC MW 1:30-3PM SHDH 211          MOLLICK E
+     DATES: 10/20/14 - 12/08/14
+     MBA COURSE
+     MAX: 70                
+ 006 LEC MW 3-4:30PM SHDH 211          MOLLICK E
+     DATES: 10/20/14 - 12/08/14
+     MAX: 70                
+ 

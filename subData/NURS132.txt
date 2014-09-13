@@ -1,0 +1,14 @@
+NURS-132  LABORATORY                        0 CU
+ 101 LAB T 1:30-3PM FAGN 221            SCANGA C
+     MAX: 2                 
+ 102 LAB T 3-4:30PM FAGN 221            SCANGA C
+     MAX: 1                 
+ 103 LAB W 11-12:30PM FAGN 221          SCANGA C
+     MAX: 3                 
+ 104 LAB W 2-3:30PM FAGN 221            SCANGA C
+     MAX: 6                 
+ 105 LAB R 1:30-3PM FAGN 221            SCANGA C
+     MAX: 6                 
+ 106 LAB R 3-4:30PM FAGN 221            SCANGA C
+     MAX: 3                 
+ 

@@ -1,0 +1,31 @@
+BIOL-123  INTRO. MOLEC. BIOL. LAB         0.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC F 9-10AM LLAB 10                HOGAN K
+     MAX: 264               
+          LABORATORY                        0 CU
+ 101 LAB M 1-4PM GLAB 400                 JANG C
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     MAX: 22                
+ 102 LAB M 1-4PM GLAB 402                SINGH T
+     MAX: 22                
+ 103 LAB M 4:30-7:30PM GLAB 400           JANG C
+     MAX: 22                
+ 104 LAB M 4:30-7:30PM GLAB 402         SWIDER C
+     MAX: 22                
+ 105 LAB T 1-4PM GLAB 400                 ZHOU Y
+     MAX: 22                
+ 106 LAB T 4:30-7:30PM GLAB 400           ZHOU Y
+     MAX: 22                
+ 107 LAB W 1-4PM GLAB 400                 JANG C
+     MAX: 22                
+ 108 LAB W 1-4PM GLAB 402               SWIDER C
+     MAX: 22                
+ 109 LAB W 4:30-7:30PM GLAB 400           JANG C
+     MAX: 22                
+ 110 LAB W 4:30-7:30PM GLAB 402           JANG C
+     MAX: 22                
+ 111 LAB R 1-4PM GLAB 400                 JANG C
+     MAX: 22                
+ 112 LAB R 4:30-7:30PM GLAB 400           JANG C
+     MAX: 22                
+ 

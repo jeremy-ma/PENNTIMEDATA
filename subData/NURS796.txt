@@ -1,0 +1,5 @@
+NURS-796  DIAG & MGMT AGAC PTS I            1 CU
+ 001 LEC TBA                            ELGART H
+     LOCATION: ON LINE
+     MAX: 75                
+ 

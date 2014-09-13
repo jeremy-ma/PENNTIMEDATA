@@ -1,0 +1,10 @@
+FNCE-207  CORPORATE VALUATION               1 CU
+ 001                                HOLTHAUSEN R
+     LEC MW 10:30-12NOON JMHH 360
+     PRE-REQUISITE NEEDED:
+     FNCE100, FNCE101, STAT101, STAT102
+     (ACCT 201 SUGGESTED)
+     MAX: 78                
+ 002 LEC MW 12-1:30PM JMHH 360      HOLTHAUSEN R
+     MAX: 78                
+ 

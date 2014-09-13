@@ -1,0 +1,48 @@
+PHRM-899  PRE-DISSERT LAB ROTATION     1 TO 4 CU
+ 004 LAB TBA                             BLAIR I
+     MAX: 30                
+ 010 LAB TBA                              CHOU M
+     MAX: 30                
+ 016 LAB TBA                            BLENDY J
+     MAX: 30                
+ 041 LAB TBA                         HOGENESCH J
+     MAX: 30                
+ 042 LAB TBA                         ECKENHOFF R
+     MAX: 30                
+ 048 LAB TBA                             KLEIN P
+     MAX: 30                
+ 055 LAB TBA                               STAFF
+     MAX: 30                
+ 058 LAB TBA                             LYNCH D
+     MAX: 30                
+ 062 LAB TBA                             BROWN E
+     MAX: 30                
+ 066 LAB TBA                            WELJIE A
+     MAX: 30                
+ 067 LAB TBA                             PONCZ M
+     MAX: 30                
+ 068 LAB TBA                             RADER D
+     MAX: 30                
+ 069 LAB TBA                            REILLY M
+     MAX: 30                
+ 080 LAB TBA                             WELLS R
+     MAX: 30                
+ 085 LAB TBA                              HAHN C
+     MAX: 30                
+ 086 LAB TBA                         ECKENHOFF R
+     MAX: 30                
+ 091 LAB TBA                            CAMIRE R
+     MAX: 30                
+ 100 LAB TBA                              PURE E
+     MAX: 30                
+ 102 LAB TBA                          KOUMENIS C
+     MAX: 30                
+ 105 LAB TBA                            CAMIRE R
+     MAX: 30                
+ 905 LAB TBA                        PANETTIERI R
+     MAX: 30                
+ 906 LAB TBA                           DANIELL H
+     MAX: 30                
+ 908 LAB TBA                              JUNE C
+     MAX: 30                
+ 

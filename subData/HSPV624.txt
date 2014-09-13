@@ -1,0 +1,8 @@
+HSPV-624  DIGITAL MEDIA FOR HSPV            1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC M 9-12NOON MEYH B13          HINCHMAN J
+     MAX: 32                
+          LABORATORY                        0 CU
+ 101 LAB R 5-8PM MEYH B13             HINCHMAN J
+     MAX: 32                
+ 

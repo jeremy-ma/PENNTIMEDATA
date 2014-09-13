@@ -1,0 +1,12 @@
+OPIM-659  ADVANCED TOPICS                 0.5 CU
+ 001 LEC TBA                               LEE T
+     PERMISSION NEEDED FROM DEPARTMENT
+     LOCATION: SAN FRANCISCO
+     DATES: 09/04/14 - 12/04/14
+     MAX: 0                 
+ 002 LEC TBA                            MASSEY C
+     PERMISSION NEEDED FROM DEPARTMENT
+     LOCATION: SAN FRANCISCO
+     DATES: 08/27/14 - 10/17/14
+     MAX: 0                 
+ 

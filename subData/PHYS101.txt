@@ -1,0 +1,53 @@
+PHYS-101  GEN.PHYS:MECH,HEAT,SOUND        1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB, REC
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 11-12NOON DRLB A8          DRNDIC M
+     LEC R 5-6PM DRLB A1
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+     MAX: 88                
+ 002 LEC MWF 10-11AM DRLB A4           SWEENEY A
+     LEC R 5-6PM DRLB A2
+     MAX: 88                
+          LABORATORY                        0 CU
+ 101 LAB M 1-3PM DRLB LAB                BAKER A
+     MAX: 15                
+ 102 LAB M 1-3PM DRLB LAB              CREAGER R
+     MAX: 15                
+ 103 LAB T 1-3PM DRLB LAB                BAKER A
+     MAX: 15                
+ 104 LAB T 1-3PM DRLB LAB         GAVRILCHENKO T
+     MAX: 15                
+ 105 LAB T 3-5PM DRLB LAB         GAVRILCHENKO T
+     MAX: 15                
+ 106 LAB T 3-5PM DRLB LAB               GLAVIN S
+     MAX: 15                
+ 107 LAB R 1-3PM TBA                    GLAVIN S
+     MAX: 15                
+ 108 LAB F 1-3PM DRLB LAB               HERWIG T
+     MAX: 15                
+ 109 LAB F 3-5PM DRLB LAB               HERWIG T
+     MAX: 15                
+ 110 LAB R 3-5PM DRLB LAB             THOMPSON A
+     MAX: 15                
+ 111 LAB T 6-8PM DRLB LAB             THOMPSON A
+     MAX: 15                
+ 112 LAB M 3-5PM DRLB LAB                CREAGER
+     MAX: 15                
+          RECITATION                        0 CU
+ 201 REC M 3-4PM DRLB A5             ROSENTHAL E
+     MAX: 40                
+ 202 REC M 4-5PM DRLB A5             ROSENTHAL E
+     MAX: 40                
+ 203 REC M 5-6PM DRLB A5             ROSENTHAL E
+     MAX: 40                
+ 204 REC T 3-4PM DRLB 2C2               PURVES A
+     MAX: 28                
+ 205 REC T 4-5PM DRLB 2C2               PURVES A
+     MAX: 28                
+ 206 REC T 5-6PM DRLB 2C2               PURVES A
+     MAX: 28                
+ 

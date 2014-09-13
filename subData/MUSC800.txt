@@ -1,0 +1,4 @@
+MUSC-800  TEACHING MUSIC HISTORY            1 CU
+ 001 LEC MWF 1-2PM MUSB CONF          CALCAGNO M
+     MAX: 10                
+ 

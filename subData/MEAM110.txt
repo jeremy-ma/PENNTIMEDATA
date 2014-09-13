@@ -1,0 +1,15 @@
+MEAM-110  INTRO TO MECHANICS                1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MWF 11-12NOON SKIR AUD        CARPICK R
+     MAX: 80                
+          RECITATION                        0 CU
+ 201 REC M 3-4PM LRSM 112B             CARPICK R
+     MAX: 20                
+ 202 REC M 4:30-5:30PM TBA             CARPICK R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 20                
+ 203 REC T 12-1PM HAYD 360             CARPICK R
+     MAX: 20                
+ 204 REC T 1:30-2:30PM TOWN 307        CARPICK R
+     MAX: 20                
+ 

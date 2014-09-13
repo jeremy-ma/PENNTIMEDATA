@@ -1,0 +1,29 @@
+MGMT-353  WHARTON FIELD CHALLENGE           1 CU
+     PERMISSION NEEDED FROM INSTRUCTOR
+ 001 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 20                
+ 002 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 20                
+ 003 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 6                 
+ 004 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 6                 
+ 005 LEC TBA                               STAFF
+     MAX: 6                 
+ 006 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 6                 
+ 007 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 6                 
+ 008 LEC TBA                               STAFF
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 6                 
+ 009 LEC TBA                               STAFF
+     MAX: 6                 
+ 

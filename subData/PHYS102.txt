@@ -1,0 +1,23 @@
+PHYS-102  GEN.PHYS.:EM,OPTICS,MODP        1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB, REC
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     ATTENDANCE AT FIRST LAB MEETING REQUIRED
+     PHYSICAL WORLD SECTOR
+ 001 LEC TR 9-10:30AM DRLB 3N1H         HEINEY P
+     LEC T 5-6PM DRLB A8
+     MAX: 60                
+          LABORATORY                        0 CU
+ 111 LAB M 1-3PM DRLB LAB                FAGER M
+     MAX: 15                
+ 112 LAB M 3-5PM DRLB LAB                 AZIZ M
+     MAX: 15                
+ 113 LAB T 1-3PM DRLB LAB                 HILL A
+     MAX: 15                
+ 114 LAB T 3-5PM DRLB LAB                 HILL A
+     MAX: 15                
+          RECITATION                        0 CU
+ 201 REC W 1-2PM DRLB 3N1H              HEINEY P
+     MAX: 30                
+ 202 REC W 2-3PM DRLB 3N1H              HEINEY P
+     MAX: 30                
+ 

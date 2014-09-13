@@ -1,0 +1,4 @@
+MATH-618  ALGEBRC TOPOLOGY, PART I          1 CU
+ 001 LEC TR 12-1:30PM DRLB 4C2           BLOCK J
+     MAX: 30                
+ 

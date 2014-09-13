@@ -1,0 +1,17 @@
+EDCE-656  TEACHING COMPOSITION              1 CU
+ 001 LEC MTWRF 9-3:30PM TBA         RIVERA/BROWN
+     DATES: 08/04/14 - 08/22/14
+     MAX: 15                
+ 002 LEC MTWRF 9-2:30PM TBA            MYKYSEY N
+     DATES: 08/04/14 - 08/22/14
+     MAX: 30                
+ 003 LEC TBA                     WAFF/RIVERA/GHI
+     DATES: 07/28/14 - 12/19/14
+     MAX: 25                
+ 004 LEC MTWRF 9-3:30PM TBA          SILVA/BROWN
+     DATES: 08/04/14 - 08/08/14
+     MAX: 15                
+ 005 LEC TBA                              WAFF D
+     DATES: 07/21/14 - 12/19/14
+     MAX: 20                
+ 

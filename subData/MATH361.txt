@@ -1,0 +1,10 @@
+MATH-361  ADVANCED CALCULUS                 1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MWF 12-1PM DRLB 4C2           PIMSNER M
+     MAX: 30                
+          LABORATORY                        0 CU
+ 101 LAB T 6:30-8:30PM DRLB 4C2       LEVINSON H
+     MAX: 15                
+ 102 LAB R 6:30-8:30PM DRLB 4C2       LEVINSON H
+     MAX: 15                
+ 

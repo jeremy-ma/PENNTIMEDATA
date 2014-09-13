@@ -1,0 +1,14 @@
+MGMT-612  MANAGING EMERG ENTRPRSE           1 CU
+     MBA COURSE
+ 001 LEC TR 9-10:30AM VANC B10        CAPPELLI P
+     DATES: 08/28/14 - 12/04/14
+     MBA COURSE
+     MAX: 65                
+ 002 LEC TR 10:30-12NOON VANC B10     CAPPELLI P
+     DATES: 08/28/14 - 12/04/14
+     MBA COURSE
+     MAX: 65                
+ 003 LEC TR 1:30-3PM VANC B10         CAPPELLI P
+     DATES: 08/28/14 - 12/04/14
+     MAX: 65                
+ 

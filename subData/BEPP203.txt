@@ -1,0 +1,8 @@
+BEPP-203  BUS IN GLOBAL POL ENVIR           1 CU
+ 001 LEC TR 10:30-12NOON SHDH 213    WANG/ANAGOL
+     MAX: 60                
+ 002 LEC TR 12-1:30PM SHDH 213       WANG/ANAGOL
+     MAX: 60                
+ 003 LEC TR 1:30-3PM SHDH 213        WANG/ANAGOL
+     MAX: 60                
+ 

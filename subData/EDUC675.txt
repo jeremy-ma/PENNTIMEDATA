@@ -1,0 +1,5 @@
+EDUC-675  STRUCTURE OF ENGLISH              1 CU
+ 001 LEC T 7-9PM EDUC 120               BABSON A
+     DATES: 08/27/14 - 12/19/14
+     MAX: 25                
+ 

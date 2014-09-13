@@ -1,0 +1,10 @@
+ENVS-204  GLOBAL CLIMATE CHANGE             1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     PHYSICAL WORLD SECTOR
+ 001 LEC M 2-5PM BENN 201              MARINOV I
+     MAX: 40                
+          LABORATORY                        0 CU
+ 101 LAB W 3-5PM BENN 201                MARINOV
+     MAX: 40                
+ 

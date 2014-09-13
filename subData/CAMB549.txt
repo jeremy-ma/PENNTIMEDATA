@@ -1,0 +1,6 @@
+CAMB-549  PARASITOLOGY                    0.5 CU
+ 001 LEC MWF 1-2PM VETS 392EB           HUNTER C
+     PERMISSION NEEDED FROM DEPARTMENT
+     DATES: 09/03/14 - 10/22/14
+     MAX: 10                
+ 

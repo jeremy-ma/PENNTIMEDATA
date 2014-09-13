@@ -1,0 +1,8 @@
+EDUC-701  PENNCLO                           1 CU
+ 012 LEC TBA                     RAVITCH/KAMINST
+     MAX: 30                
+ 013 LEC TBA                     RAVITCH/KAMINST
+     MAX: 30                
+ 014 LEC TBA                     RAVITCH/KAMINST
+     MAX: 30                
+ 

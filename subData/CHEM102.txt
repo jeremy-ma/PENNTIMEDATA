@@ -1,0 +1,14 @@
+CHEM-102  GENERAL CHEMISTRY II              1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     CO-REQUISITE: CHEM-054
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 2-3PM CHEM 102            SNEDDON L
+     MAX: 100               
+          RECITATION                        0 CU
+ 201 REC R 12-1PM CHEM 109                 STAFF
+     MAX: 33                
+ 202 REC R 3-4PM CHEM 119                  STAFF
+     MAX: 33                
+ 203 REC F 1-2PM CHEM 109                  STAFF
+     MAX: 34                
+ 

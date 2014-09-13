@@ -1,0 +1,9 @@
+MKTG-212  MARKETING RESEARCH                1 CU
+ 001                                ELIASHBERG J
+     LEC MW 10:30-12NOON SHDH 105
+     MAX: 50                
+ 002 LEC TR 10:30-12NOON JMHH G65     YILDIRIM T
+     MAX: 70                
+ 003 LEC TR 1:30-3PM JMHH 255           PIROUZ D
+     MAX: 60                
+ 

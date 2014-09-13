@@ -1,0 +1,5 @@
+EDUC-578  TEACHING, READING &STUDY          1 CU
+ 001 LEC M 7-9PM EDUC 300                COHEN M
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 

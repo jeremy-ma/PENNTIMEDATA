@@ -1,0 +1,8 @@
+JPAN-211  INTERMEDIATE JAPANESE I           1 CU
+ 001 LEC MW 11-12NOON WILL 217            ENDO K
+     LEC TR 10:30-12NOON WILL 6
+     MAX: 15                
+ 002 LEC MW 12-1PM WILL 438               ENDO K
+     LEC TR 12-1:30PM WILL 723
+     MAX: 15                
+ 

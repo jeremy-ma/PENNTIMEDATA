@@ -1,0 +1,5 @@
+SWRK-736  BLDG.COMMUNITY CAPACITY           1 CU
+     Fulfills MSW Macro Practice Elective
+ 001 LEC R 4-6:30PM CAST A14          KOPPISCH D
+     MAX: 25                
+ 

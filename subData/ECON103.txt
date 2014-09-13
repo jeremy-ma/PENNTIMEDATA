@@ -1,0 +1,15 @@
+ECON-103  STAT FOR ECONOMISTS               1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MW 2-3:30PM COHN G17        DITRAGLIA F
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 110               
+          RECITATION                        0 CU
+ 201 REC F 9-10AM MCNB 169         AZUERO MELO R
+     MAX: 28                
+ 202 REC R 10-11AM WILL 321      O'KEEFFE-O-DONO
+     MAX: 28                
+ 203 REC F 10-11AM MCNB 169        AZUERO MELO R
+     MAX: 28                
+ 204 REC R 12-1PM MCNB 167-8     O'KEEFFE-O-DONO
+     MAX: 28                
+ 

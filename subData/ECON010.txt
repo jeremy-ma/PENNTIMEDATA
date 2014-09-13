@@ -1,0 +1,44 @@
+ECON-010  INTRO TO ECON FOR BUS             0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MW 11-12NOON JMHH G06            SAKA G
+     MAX: 242               
+ 002 LEC MW 12-1PM JMHH G06               SAKA G
+     MAX: 242               
+          INTRO TO ECON FOR BUS             1 CU
+ 201 REC F 10-11AM MCNB 103              WILLS D
+     MAX: 26                
+ 202 REC F 11-12NOON MCNB 103            WILLS D
+     MAX: 26                
+ 203 REC F 12-1PM CAST A8         DE ALBUQUERQUE
+     MAX: 26                
+ 204 REC F 1-2PM MCNB 395         DE ALBUQUERQUE
+     MAX: 26                
+ 205 REC R 12-1PM MCNB 309       IGLESIAS DIAZ A
+     MAX: 26                
+ 206 REC R 9-10AM MCNB 169                  LI M
+     MAX: 26                
+ 207 REC F 1-2PM MCNB 103            MOHAMMADI Z
+     MAX: 26                
+ 208 REC F 11-12NOON MCNB 169       GJORGJEVIK K
+     MAX: 26                
+ 209 REC F 12-1PM MCNB 410           MOHAMMADI Z
+     MAX: 26                
+ 210 REC R 11-12NOON WILL 214       GJORGJEVIK K
+     MAX: 25                
+ 211 REC R 12-1PM MCNB 410           BHATNAGAR M
+     MAX: 26                
+ 212 REC F 10-11AM MCNB 167-8         DA SILVA F
+     MAX: 26                
+ 213 REC F 11-12NOON MCNB 395    IGLESIAS DIAZ A
+     MAX: 26                
+ 214 REC F 12-1PM WILL 301                FANG X
+     MAX: 26                
+ 215 REC F 1-2PM MCNB 410                 FANG X
+     MAX: 26                
+ 216 REC F 11-12NOON MCNB 309         DA SILVA F
+     MAX: 26                
+ 217 REC R 11-12NOON MCNB 169        BHATNAGAR M
+     MAX: 26                
+ 218 REC R 2-3PM MCNB 309                   LI M
+     MAX: 26                
+ 

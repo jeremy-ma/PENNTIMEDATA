@@ -1,0 +1,5 @@
+GAFL-589  POLICY DEVELOPMENT                1 CU
+ 001 LEC R 1-4PM FELS SEM             MARTINEZ D
+     UNDERGRADUATES NEED PERMISSION
+     MAX: 33                
+ 

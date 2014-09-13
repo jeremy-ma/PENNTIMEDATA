@@ -1,0 +1,38 @@
+PSCI-150  INTRO TO INTL RELATIONS           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     SOCIETY SECTOR
+ 001 LEC MW 10-11AM STIT B6            STANTON J
+     PERMISSION NEEDED FROM INSTRUCTOR
+     MAX: 246               
+          INTRO TO INTL RELATIONS           1 CU
+ 201 REC W 3-4PM WILL 320            SPRINGMAN J
+     MAX: 17                
+ 202 REC W 3-4PM WILL 741           O'HALLORAN P
+     MAX: 17                
+ 203 REC R 4:30-5:30PM GLAB 102         CRAMER J
+     MAX: 17                
+ 204 REC R 4:30-5:30PM PSYL B50             SU R
+     MAX: 17                
+ 205 REC T 2-3PM WILL 215        REVELO REBOLLED
+     MAX: 17                
+ 206 REC R 3-4PM EDUC 008            SPRINGMAN J
+     MAX: 17                
+ 207 REC T 2-3PM PSYL B50                   SU R
+     MAX: 17                
+ 208 REC W 9-10AM STIT B30           SPRINGMAN J
+     MAX: 17                
+ 209 REC R 3-4PM WILL 205               CRAMER J
+     MAX: 17                
+ 210 REC F 2-3PM WILL 6          REVELO REBOLLED
+     MAX: 17                
+ 211 REC T 4:30-5:30PM WILL 843     O'HALLORAN P
+     MAX: 17                
+ 212 REC T 3-4PM PSYL B50        REVELO REBOLLED
+     MAX: 13                
+ 213 REC R 3-4PM CAST A8                    SU R
+     MAX: 17                
+ 214 REC W 4-5PM WILL 843               CRAMER J
+     MAX: 17                
+ 215 REC W 4-5PM WILL 320           O'HALLORAN P
+     MAX: 17                
+ 

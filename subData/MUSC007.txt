@@ -1,0 +1,49 @@
+MUSC-007  ARAB ENSEMBLE                   0.5 CU
+ 009 STU R 6-9PM BENN 407               KETNER M
+     STU R 6-9PM BENN 406
+     MAX: 30                
+          SAMBA ENSEMBLE                  0.5 CU
+ 010 STU M 7-9PM TBA                   STEVENS M
+     AUDITION REQUIRED
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 199               
+ 011 STU M 7-9PM TBA                   STEVENS M
+     PERMISSION NEEDED FROM DEPARTMENT
+     AUDITION REQUIRED
+     MAX: 30                
+ 012 STU M 7-9PM TBA                   STEVENS M
+     AUDITION REQUIRED
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+          PENN FLUTES                     0.5 CU
+ 013 STU S 1-4PM TBA                    KETNER M
+     AUDITION REQUIRED
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+ 
+          ANCIENT VOICES                  0.5 CU
+ 005 STU M 6-8PM BENN 419             PARBERRY W
+     AUDITION REQUIRED
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+          PENN CHAMBER MUSIC SOC          0.5 CU
+ 006 STU W 3:30-10PM BENN 419             YANG D
+     STU W 5-10PM BENN 406
+     STU W 5-10PM BENN 407
+     STU T 5-10PM MUSB 101
+     STU R 3-5PM BENN 406
+     STU T 5-10PM MUSB 210
+     AUDITION REQUIRED
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 60                
+          UNIV. CHOIR                     0.5 CU
+ 007 STU T 6-8PM BENN 419             PARBERRY W
+     STU R 5:30-7:30PM BENN 419
+     AUDITION REQUIRED
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+          UNIV. CHORAL  SOCIETY           0.5 CU
+ 008 STU M 8-10PM BENN 419            PARBERRY W
+     AUDITION REQUIRED
+     MAX: 30                
+ 

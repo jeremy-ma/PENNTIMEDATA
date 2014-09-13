@@ -1,0 +1,12 @@
+CHEM-242  ORGANIC CHEMISTRY II              1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC MWF 1-2PM DRLB A8       GUTIERREZ SANTA
+     MAX: 95                
+          RECITATION                        0 CU
+ 201 REC M 5-6PM CHEM 109                  SUH S
+     MAX: 31                
+ 202 REC T 5-6PM CHEM 109                HEITZ D
+     MAX: 32                
+ 203 REC W 5-6PM CHEM 514                HEITZ D
+     MAX: 32                
+ 

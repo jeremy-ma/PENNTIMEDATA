@@ -1,0 +1,18 @@
+BIOL-215  VERTEBRATE PHYSIOLOGY             1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 1:30-3PM LLAB 10            REN/ROME
+     MAX: 132               
+          RECITATION                        0 CU
+ 201 REC T 3-4PM LLAB 109           CARNEMOLLA R
+     MAX: 22                
+ 202 REC T 4-5PM TBA                       STAFF
+     MAX: 0                 
+ 203 REC W 2-3PM WILL 421              RIBLETT A
+     MAX: 22                
+ 204 REC W 3-4PM WILL 306              RIBLETT A
+     MAX: 22                
+ 207 REC R 12-1PM GLAB 100          CARNEMOLLA R
+     MAX: 22                
+ 208 REC F 1-2PM GLAB 100           CARNEMOLLA R
+     MAX: 22                
+ 

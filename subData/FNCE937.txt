@@ -1,0 +1,4 @@
+FNCE-937  APPLIED QUANTITATIVE MET          1 CU
+ 001 LEC F 9-12NOON SHDH 2004            GOMES J
+     MAX: 20                
+ 

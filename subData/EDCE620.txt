@@ -1,0 +1,8 @@
+EDCE-620  PLN6:RSRCH NFIC RWTECH          1.5 CU
+ 001 LEC TBA                           NEIBURG S
+     DATES: 09/01/14 - 12/01/14
+     MAX: 40                
+ 002 LEC TBA                     NEIBURG/CHAVENS
+     DATES: 09/18/14 - 12/08/14
+     MAX: 40                
+ 

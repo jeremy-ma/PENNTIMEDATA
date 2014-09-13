@@ -1,0 +1,4 @@
+PUBH-558  PUBLIC HEALTH BIOLOGY             1 CU
+ 001 LEC W 1-4PM ACHM 104         NELSON/SCHMITZ
+     MAX: 20                
+ 

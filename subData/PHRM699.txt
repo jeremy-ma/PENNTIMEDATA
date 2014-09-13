@@ -1,0 +1,54 @@
+PHRM-699  LABORATORY ROTATION          1 TO 3 CU
+ 012 LAB TBA                             LUCKI I
+     MAX: 30                
+ 018 LAB TBA                         BOETTIGER D
+     MAX: 30                
+ 024 LAB TBA                              KAHN M
+     MAX: 30                
+ 026 LAB TBA                            DAVIES P
+     MAX: 30                
+ 042 LAB TBA                     ISCHIROPOULOS H
+     MAX: 30                
+ 050 LAB TBA                             LAZAR M
+     MAX: 30                
+ 055 LAB TBA                              LEVY R
+     MAX: 30                
+ 061 LAB TBA                             MARKS M
+     MAX: 30                
+ 062 LAB TBA                             BROWN E
+     MAX: 30                
+ 066 LAB TBA                           PITTMAN R
+     MAX: 30                
+ 076 LAB TBA                            THOMAS S
+     MAX: 30                
+ 085 LAB TBA                              HAHN C
+     MAX: 30                
+ 090 LAB TBA                              TONG W
+     MAX: 30                
+ 091 LAB TBA                            CAMIRE R
+     MAX: 30                
+ 093 LAB TBA                           SIMMONS R
+     MAX: 30                
+ 095 LAB TBA                      JORDAN-SCIUTTO
+     MAX: 30                
+ 096 LAB TBA                              ABEL E
+     MAX: 30                
+ 097 LAB TBA                            BERTON O
+     MAX: 30                
+ 098 LAB TBA                           DISCHER D
+     MAX: 30                
+ 101 LAB TBA                               HUA X
+     MAX: 30                
+ 103 LAB TBA                               KIM S
+     MAX: 30                
+ 104 LAB TBA                          GLICKSON J
+     MAX: 30                
+ 903 LAB TBA                             KOHLI R
+     MAX: 30                
+ 904 LAB TBA                               LEE E
+     MAX: 30                
+ 905 LAB TBA                        PANETTIERI R
+     MAX: 30                
+ 909 LAB TBA                          TSOURKAS A
+     MAX: 30                
+ 

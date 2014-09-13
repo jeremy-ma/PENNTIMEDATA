@@ -1,0 +1,13 @@
+ECON-102  INTERMED MACROECONOMICS           1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 1:30-3PM STIT B21          ORDONEZ G
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 90                
+          RECITATION                        0 CU
+ 201 REC M 9-10AM MCNB 110                 HAN P
+     MAX: 22                
+ 202 REC F 10-11AM MCNB 395                 WU C
+     MAX: 22                
+ 203 REC M 2-3PM WILL 304                  HAN P
+     MAX: 22                
+ 

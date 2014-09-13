@@ -1,0 +1,11 @@
+GAFL-703  STAT FOR PUBLIC LDRSHP            1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC W 3-5PM HAYD 358              TREGLIA D
+     MAX: 40                
+          STATS LAB                         0 CU
+ 402 LAB R 9-10:30AM TBA               TREGLIA D
+     MAX: 18                
+          STAT LAB                          0 CU
+ 403 LAB R 10:30-12NOON DRLB PC-L1     TREGLIA D
+     MAX: 18                
+ 

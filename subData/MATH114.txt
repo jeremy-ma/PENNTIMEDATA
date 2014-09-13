@@ -1,0 +1,101 @@
+MATH-114  CALCULUS II                       0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 001 LEC MWF 9-10AM DRLB A1            PIMSNER M
+     MAX: 160               
+          CALCULUS II                       1 CU
+ 201 REC T 8:30-9:30AM DRLB 4E9       SUBBARAO P
+     MAX: 23                
+ 202 REC T 9:30-10:30AM DRLB 4E9      SUBBARAO P
+     MAX: 23                
+ 203 REC R 8:30-9:30AM DRLB 4E9       SUBBARAO P
+     MAX: 23                
+ 204 REC R 9:30-10:30AM DRLB 4E9      SUBBARAO P
+     MAX: 23                
+ 205 REC T 8:30-9:30AM DRLB 2C4           PHAM P
+     MAX: 20                
+ 206 REC T 9:30-10:30AM DRLB 2C4          PHAM P
+     MAX: 20                
+ 207 REC R 8:30-9:30AM DRLB 2C4           PHAM P
+     MAX: 20                
+ 208 REC R 9:30-10:30AM DRLB 2C4          PHAM P
+     MAX: 20                
+          CALCULUS II                       0 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 002 LEC TR 9-10:30AM MEYH B1          HAGLUND J
+     MAX: 160               
+          CALCULUS II                       1 CU
+ 211 REC M 8-9AM DRLB 4E9                  STAFF
+     MAX: 20                
+ 212 REC M 9-10AM DRLB 4E9                 STAFF
+     MAX: 20                
+ 213 REC W 8-9AM DRLB 4E9                  STAFF
+     MAX: 20                
+ 214 REC W 9-10AM DRLB 4E9                 STAFF
+     MAX: 20                
+ 215 REC M 8-9AM DRLB 3C8                KUNIN V
+     MAX: 20                
+ 216 REC M 9-10AM DRLB 3C8               KUNIN V
+     MAX: 20                
+ 217 REC W 8-9AM DRLB 3C8                KUNIN V
+     MAX: 20                
+ 218 REC W 9-10AM DRLB 3C8               KUNIN V
+     MAX: 20                
+          CALCULUS II                       0 CU
+ GROUP 3 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 003 LEC TR 3-4:30PM DRLB A8            POWERS R
+     MAX: 94                
+          CALCULUS II                       1 CU
+ 221 REC W 8-9AM DRLB 3C2                 DEAN S
+     MAX: 21                
+ 222 REC W 9-10AM DRLB 3C2                DEAN S
+     MAX: 12                
+ 223 REC F 8-9AM DRLB 3C2                 DEAN S
+     MAX: 21                
+ 224 REC F 9-10AM DRLB 3C2                DEAN S
+     MAX: 12                
+ 226 REC W 9-10AM DRLB 2C4                 TAI M
+     FORMAL REASONING COURSE
+     MAX: 13                
+ 227 REC F 8-9AM TBA                       STAFF
+     MAX: 0                 
+ 228 REC F 9-10AM DRLB 2C4                 TAI M
+     MAX: 13                
+          CALCULUS II                       0 CU
+ GROUP 4 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 004 LEC MWF 11-12NOON TOWN 100           XIAO L
+     MAX: 160               
+          CALCULUS II                       1 CU
+     FORMAL REASONING COURSE
+ 231 REC T 8:30-9:30AM DRLB 4E19           CAO C
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 232 REC T 9:30-10:30AM DRLB 4E19          CAO C
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 233 REC R 8:30-9:30AM DRLB 4E19           CAO C
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 234 REC R 9:30-10:30AM DRLB 4E19          CAO C
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 235 REC T 8:30-9:30AM DRLB 4N30            XU J
+     MAX: 20                
+     FORMAL REASONING COURSE
+ 236 REC T 9:30-10:30AM DRLB 4N30           XU J
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 237 REC R 8:30-9:30AM DRLB 4N30            XU J
+     FORMAL REASONING COURSE
+     MAX: 20                
+ 238 REC R 9:30-10:30AM DRLB 4N30           XU J
+     MAX: 20                
+ 

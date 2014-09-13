@@ -1,0 +1,7 @@
+NURS-764  ADV TECH & CLN DEC ACUTE          1 CU
+ 001 LEC T 9-1PM FAGN 118             GRIFFITH P
+     MAX: 85                
+          RECITATION                        0 CU
+ 201 REC M 8-12NOON FAGN 112             PRINT K
+     MAX: 24                
+ 

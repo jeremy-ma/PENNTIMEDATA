@@ -1,0 +1,5 @@
+EDUC-573  REFRM HED: LRN OTHR COUN          1 CU
+ 001 SEM R 10-12NOON EDUC 322            EYNON D
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 

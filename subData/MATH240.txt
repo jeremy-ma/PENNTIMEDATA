@@ -1,0 +1,54 @@
+MATH-240  CALCULUS III                      0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 001 LEC TR 9-10:30AM DRLB A1         SHANESON J
+     MAX: 160               
+          CALCULUS III                      1 CU
+ 201 REC W 8-9AM DRLB 4E19          HOISINGTON J
+     MAX: 20                
+ 202 REC W 9-10AM DRLB 3C6          HOISINGTON J
+     MAX: 24                
+ 203 REC F 8-9AM DRLB 4E9           HOISINGTON J
+     MAX: 20                
+ 204 REC F 9-10AM DRLB 4E9          HOISINGTON J
+     MAX: 20                
+          CALCULUS III                      0 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 002 LEC TR 3-4:30PM DRLB A1          GRESSMAN P
+     MAX: 160               
+          CALCULUS III                      1 CU
+ 211 REC M 8-9AM DRLB 3C2                COHEN R
+     MAX: 20                
+ 212 REC M 9-10AM DRLB 3C2               COHEN R
+     MAX: 20                
+ 213 REC W 8-9AM DRLB 4C8                COHEN R
+     MAX: 20                
+ 214 REC W 9-10AM DRLB 4C8               COHEN R
+     MAX: 20                
+ 215 REC M 8-9AM DRLB 4C8                SAVVA C
+     MAX: 20                
+ 216 REC M 9-10AM DRLB 4C8               SAVVA C
+     MAX: 20                
+ 217 REC W 8-9AM DRLB 3W2                SAVVA C
+     MAX: 20                
+ 218 REC W 9-10AM DRLB 3W2               SAVVA C
+     MAX: 20                
+          CALCULUS III                      0 CU
+ GROUP 3 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 003 LEC MWF 10-11AM DRLB A1             WEBER B
+     MAX: 160               
+          CALCULUS III                      1 CU
+ 221 REC T 8:30-9:30AM DRLB 3C6             LI T
+     MAX: 20                
+ 222 REC T 9:30-10:30AM DRLB 3C6            LI T
+     MAX: 27                
+ 223 REC R 8:30-9:30AM DRLB 3C6             LI T
+     MAX: 20                
+ 224 REC R 9:30-10:30AM DRLB 3C6            LI T
+     MAX: 35                
+ 

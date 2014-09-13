@@ -1,0 +1,4 @@
+MATH-624  ALGEBRAIC GEOMETRY                1 CU
+ 001 LEC MW 1:30-3PM DRLB 4N30        HARBATER D
+     MAX: 30                
+ 

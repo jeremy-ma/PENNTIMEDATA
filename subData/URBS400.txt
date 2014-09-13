@@ -1,0 +1,11 @@
+URBS-400  SENIOR SEMINAR                    1 CU
+ 301 SEM M 5-8PM MCNB 130                SIMON E
+     MAJORS ONLY
+     MAX: 25                
+ 302 SEM M 5-8PM MCNB 103            SCHNEIDER E
+     MAJORS ONLY
+     MAX: 20                
+ 304 SEM M 5-8PM MCNB 169              MCGLONE M
+     MAJORS ONLY
+     MAX: 20                
+ 

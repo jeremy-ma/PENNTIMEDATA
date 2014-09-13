@@ -1,0 +1,9 @@
+MGMT-932  PROSEM IN MGMT                  0.5 CU
+ 001 SEM T 1:30-4:30PM SHDH 2039      ROTHBARD N
+     WHARTON DOCTORAL COURSE
+     DATES: 10/18/14 - 12/09/14
+     MAX: 15                
+ 002 SEM M 12-3PM SHDH 2039                HSU D
+     DATES: 10/18/14 - 12/09/14
+     MAX: 15                
+ 

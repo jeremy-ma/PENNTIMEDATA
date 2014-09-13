@@ -1,0 +1,15 @@
+NURS-721  PHY ASSESS&CLIN DEC MKNG          1 CU
+     REGISTRATION REQUIRED FOR LEC, CLN, LAB
+ 001 LEC T 1-4PM FAGN 114               LIPMAN T
+     MAX: 45                
+          CLINIC                            0 CU
+ 101 CLN W 9-12NOON FAGN 214     RLY/ARS-OL/SCHM
+     MAX: 12                
+ 102 CLN R 9-12NOON FAGN 214     CMPSNO/HALB/A-O
+     MAX: 15                
+ 103 CLN R 9-12NOON FAGN 214     REILLY/SCHUCKER
+     MAX: 15                
+          LABORATORY                        0 CU
+ 201 LAB T 5-7PM FAGN 114               REILLY L
+     MAX: 45                
+ 

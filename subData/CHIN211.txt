@@ -1,0 +1,11 @@
+CHIN-211  INTERMED MOD CHINESE I            1 CU
+ 001 LEC MTWR 11-12NOON WILL 23             OU N
+     MAX: 15                
+ 002 LEC MTWR 12-1PM WILL 204              LEE C
+     MAX: 15                
+ 003 LEC TR 12-1PM WILL 216                 OU N
+     LEC MW 12-1PM WILL 201
+     MAX: 15                
+ 004 LEC MTWR 2-3PM WILL 28                 LI Y
+     MAX: 15                
+ 

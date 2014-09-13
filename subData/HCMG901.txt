@@ -1,0 +1,5 @@
+HCMG-901  SEM:HLTH CARE COST BEN            1 CU
+ 301 SEM R 3-6PM CPCR CHRM             SWANSON A
+     WHARTON DOCTORAL COURSE
+     MAX: 30                
+ 

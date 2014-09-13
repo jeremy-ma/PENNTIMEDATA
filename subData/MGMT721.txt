@@ -1,0 +1,8 @@
+MGMT-721  CORP DEV: MERG & ACQUIS           1 CU
+     MBA COURSE
+ 001 LEC MW 9-10:30AM SHDH 211         FELDMAN E
+     MBA COURSE
+     MAX: 70                
+ 002 LEC MW 12-1:30PM SHDH 1206        FELDMAN E
+     MAX: 70                
+ 

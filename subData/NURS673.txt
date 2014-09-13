@@ -1,0 +1,18 @@
+NURS-673  CLINIC                            0 CU
+     REGISTRATION REQUIRED FOR CLN, SEM
+ 101 CLN TBA                          GRIFFITH P
+     MAX: 56                
+ 102 CLN TBA                             CLARK M
+     MAX: 0                 
+ 103 CLN TBA                           QUIAOIT Y
+     MAX: 0                 
+ 104 CLN TBA                             FLECK D
+     MAX: 0                 
+ 105 CLN TBA                              TOTH S
+     MAX: 0                 
+ 106 CLN TBA                     BUCKLEY-BLASKOV
+     MAX: 0                 
+          ADV CLIN DEC-AD/GR AC CR          1 CU
+ 301 SEM M 9-4PM FAGN 213             GRIFFITH P
+     MAX: 56                
+ 

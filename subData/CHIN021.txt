@@ -1,0 +1,8 @@
+CHIN-021  INTEN BEG MOD CHIN I&II           2 CU
+ 001 LEC MWF 10-12NOON WILL 303            WEN C
+     LEC TR 10:30-12NOON WILL 303
+     MAX: 15                
+ 002 LEC MWF 3-5PM WILL 4                 WANG L
+     LEC TR 3-4:30PM WILL 4
+     MAX: 15                
+ 

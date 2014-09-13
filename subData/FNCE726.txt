@@ -1,0 +1,11 @@
+FNCE-726  ADVANCED CORP FINANCE             1 CU
+     MBA COURSE
+ 001 LEC MW 9-10:30AM JMHH F55        GULTEKIN B
+     MBA COURSE
+     MAX: 60                
+ 002 LEC MW 10:30-12NOON JMHH F55     GULTEKIN B
+     MBA COURSE
+     MAX: 60                
+ 003 LEC MW 1:30-3PM JMHH F90         GULTEKIN B
+     MAX: 60                
+ 

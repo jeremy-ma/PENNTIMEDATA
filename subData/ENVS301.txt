@@ -1,0 +1,4 @@
+ENVS-301  ENVIR CASE STDS                   1 CU
+ 001 LEC MW 2-3:30PM WILL 302       DMOCHOWSKI J
+     MAX: 30                
+ 

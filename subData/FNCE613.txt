@@ -1,0 +1,8 @@
+FNCE-613  MACROECN & GLOBAL ECONOM          1 CU
+     MBA COURSE
+ 001 LEC TR 10:30-12NOON JMHH 240        GOMES J
+     MBA COURSE
+     MAX: 78                
+ 002 LEC TR 1:30-3PM JMHH 240            GOMES J
+     MAX: 78                
+ 

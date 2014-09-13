@@ -1,0 +1,22 @@
+SWRK-603  AMERICAN RACISM                   1 CU
+ 001 LEC T 9-11:30AM CAST A17             WONG C
+     MAX: 20                
+ 002 LEC T 12-2:30PM CAST A19           CARTER R
+     MAX: 20                
+ 003 LEC T 4-6:30PM CAST A17          SESSOMES D
+     MAX: 20                
+ 004 LEC W 9-11:30AM CAST A19           GRIMES E
+     MAX: 20                
+ 005 LEC W 12-2:30PM CAST A8            PALMER W
+     MAX: 20                
+ 006 LEC W 4-6:30PM CAST A19           JOHNSON C
+     MAX: 20                
+ 007 LEC W 6:45-9:15PM CAST A14       STARLING P
+     MAX: 20                
+ 008 LEC T 9-11:30AM CAST A8           JOHNSON C
+     MAX: 20                
+ 009 LEC T 4-6:30PM DRLB 3C6             SMITH M
+     MAX: 20                
+ 010 LEC T 6:45-9:15PM CAST A19        PATRICK V
+     MAX: 20                
+ 

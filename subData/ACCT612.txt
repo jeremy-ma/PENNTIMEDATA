@@ -1,0 +1,15 @@
+ACCT-612  ACCELERATED FIN ACCT            0.5 CU
+     MBA COURSE
+ 001 LEC MW 9-10:30AM JMHH 245      VERRECCHIA R
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 70                
+ 003                                VERRECCHIA R
+     LEC MW 10:30-12NOON JMHH 245
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 70                
+ 005 LEC MW 12-1:30PM JMHH 245      VERRECCHIA R
+     DATES: 08/27/14 - 10/08/14
+     MAX: 70                
+ 

@@ -1,0 +1,4 @@
+MATH-512  ADVANCED LINEAR ALGEBRA           1 CU
+ 001 LEC WF 10:30-12NOON DRLB 3C4          POP F
+     MAX: 30                
+ 

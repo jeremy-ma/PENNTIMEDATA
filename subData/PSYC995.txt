@@ -1,0 +1,10 @@
+PSYC-995  DISSERTATION                      1 CU
+ 009 DIS TBA                          SELIGMAN M
+ 010 DIS TBA                     THOMPSON-SCHILL
+ 020 DIS TBA                          DERUBEIS R
+ 021 DIS TBA                         CHAMBLESS D
+ 023 DIS TBA                             KABLE J
+ 024 DIS TBA                          SELIGMAN M
+ 025 DIS TBA                             FARAH M
+ 026 DIS TBA                             GRILL H
+ 

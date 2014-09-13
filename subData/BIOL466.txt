@@ -1,0 +1,4 @@
+BIOL-466  MOL GEN OF NEURO DISEASE          1 CU
+ 001 LEC MW 2-3:30PM GLAB 100           BONINI N
+     MAX: 20                
+ 

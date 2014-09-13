@@ -1,0 +1,10 @@
+MATH-360  ADVANCED CALCULUS                 1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC TR 12-1:30PM DRLB A5              POP C
+     MAX: 50                
+          LABORATORY                        0 CU
+ 101 LAB M 6:30-8:30PM DRLB 4C6             LU Y
+     MAX: 25                
+ 102 LAB W 6:30-8:30PM DRLB 4C6             LU Y
+     MAX: 25                
+ 

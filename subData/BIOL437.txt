@@ -1,0 +1,6 @@
+BIOL-437  INTRO COMP BIO&BIO MODEL          1 CU
+ 401 LEC MW 2-3:30PM LLAB 109              KIM J
+     CROSS LISTED: GCB -536
+     SECTION MAX: 20        
+     MAX W/CROSS LIST: 25              
+ 

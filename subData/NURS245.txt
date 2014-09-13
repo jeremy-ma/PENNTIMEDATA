@@ -1,0 +1,84 @@
+NURS-245  NURS OF YOUNG & MID AGED        1.5 CU
+     REGISTRATION REQUIRED FOR LEC, CLN, LAB
+ 001 LEC MW 9-12NOON FAGN AUD    WALSH-BRENNAN A
+     LEC F 1-4PM FAGN AUD
+     DATES: 10/06/14 - 11/11/14
+     MAX: 104               
+          CLINIC                            0 CU
+ 101 CLN TR 7-3:30PM TBA              CIPOLONE J
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 102 CLN TR 7-3:30PM TBA             SHOEMAKER A
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 103 CLN TR 7-3:30PM TBA               SIGAFUS K
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 104 CLN TR 7-3:30PM TBA            BRZEZINSKI C
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 105 CLN TR 7-3:30PM TBA               LINETTE E
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 106 CLN TR 7-3:30PM TBA           CHMIELINSKI A
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 107 CLN TR 7-3:30PM TBA              PETRELLA L
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 108 CLN TR 7-3:30PM TBA             DICKINSON L
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 109 CLN TR 7-3:30PM TBA                  LUIS S
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 110 CLN TR 7-3:30PM TBA               PETTINE C
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 111 CLN TR 2:30-11PM TBA              REILAND K
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 112 CLN TR 3-11:30PM TBA             WILLIAMS N
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 113 CLN TR 3-11:30PM TBA               LUPICA L
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+          LABORATORY                        0 CU
+ 201 LAB M 12:30-3:30PM FAGN 100      STARODUB R
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 202 LAB M 12:30-3:30PM FAGN 104      INGLETON L
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 203 LAB M 5-8PM FAGN 100             PAMILOZA J
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 204 LAB M 5-8PM FAGN 104                 LYNN J
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 205 LAB T 5-8PM FAGN 100               MCSHEA G
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 206 LAB T 5-8PM FAGN 104             PAMILOZA J
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 207 LAB W 1-4PM FAGN 104               COOPER M
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 208 LAB W 1-4PM FAGN 100                WHITE M
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 209 LAB W 5-8PM FAGN 104                 LYNN J
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 210 LAB W 5-8PM FAGN 100               COOPER M
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 213 LAB F 9-12NOON FAGN 100          INGLETON L
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 214 LAB F 9-12NOON FAGN 104           PEOPLES A
+     DATES: 10/06/14 - 11/11/14
+     MAX: 8                 
+ 

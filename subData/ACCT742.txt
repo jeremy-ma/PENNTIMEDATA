@@ -1,0 +1,11 @@
+ACCT-742  PROBLEMS IN FIN REPORTIN          1 CU
+     MBA COURSE
+ 001 LEC MW 10:30-12NOON JMHH F65      FISCHER P
+     MAX: 60                
+ 002 LEC MW 12-1:30PM JMHH F65         FISCHER P
+     MBA COURSE
+     MAX: 60                
+ 003 LEC MW 1:30-3PM JMHH F65          FISCHER P
+     MBA COURSE
+     MAX: 60                
+ 

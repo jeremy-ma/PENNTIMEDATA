@@ -1,0 +1,4 @@
+STAT-541  STATISTICAL METHODOLOGY           1 CU
+ 001 LEC MW 3-4:30PM JMHH F94             BUJA A
+     MAX: 40                
+ 

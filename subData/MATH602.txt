@@ -1,0 +1,4 @@
+MATH-602  ALGEBRA                           1 CU
+ 001 LEC MW 10:30-12NOON DRLB 3C2     HARTMANN J
+     MAX: 30                
+ 

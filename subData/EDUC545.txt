@@ -1,0 +1,38 @@
+EDUC-545  EXPERIMENTAL COURSE               1 CU
+ 001 SEM T 2-4PM MEYH B7              MAOULIDI M
+     DATES: 08/27/14 - 12/19/14
+     MAX: 25                
+ 002 SEM F 12-2PM EDUC 400              NEUMAN M
+     DATES: 08/27/14 - 12/19/14
+     MAX: 25                
+ 003 SEM W 10-12NOON EDUC 124           FELDER P
+     DATES: 08/27/14 - 12/19/14
+     MAX: 15                
+          EXPERIMENTAL COURSE          1 TO 1 CU
+ 004 SEM R 10-12NOON EDUC 300          PUCKETT J
+     DATES: 08/27/14 - 12/19/14
+     MAX: 10                
+ 010 SEM W 2-4:30PM EDUC 400           WORTHAM S
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+ 012 SEM M 11:30-1:30PM EDUC 121           STAFF
+     MAJORS ONLY
+     DATES: 08/27/14 - 12/19/14
+     MAX: 25                
+          EXPERIMENTAL COURSE               1 CU
+ 013 SEM W 4:30-6:30PM SILV 240B     PRITCHETT W
+     CROSS LISTED: LAW -970
+     SECTION MAX: 20        
+     MAX W/CROSS LIST: 34              
+          EXPERIMENTAL COURSE          1 TO 1 CU
+ 014 SEM R 4:30-6:30PM EDUC 427         WARREN N
+     MAJORS ONLY
+     DATES: 08/27/14 - 12/19/14
+     MAX: 20                
+          EXPERIMENTAL COURSE               1 CU
+ 401 SEM T 12-2PM EDUC 203          BEN-PORATH S
+     CROSS LISTED: PSCI-545
+     SECTION MAX: 25        
+     MAX W/CROSS LIST: 30              
+     DATES: 08/27/14 - 12/19/14
+ 

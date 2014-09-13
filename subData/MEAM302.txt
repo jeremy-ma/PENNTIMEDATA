@@ -1,0 +1,12 @@
+MEAM-302  FLUID MECHANICS                   1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001                              CAMPOS ARRATIA
+     LEC MWF 11-12NOON MOOR 216
+     MAX: 70                
+          RECITATION                        0 CU
+ 201 REC T 11-12NOON TOWN 309     CAMPOS ARRATIA
+     MAX: 35                
+ 202                              CAMPOS ARRATIA
+     REC R 1:30-2:30PM TOWN 315
+     MAX: 35                
+ 

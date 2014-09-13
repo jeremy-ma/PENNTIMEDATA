@@ -1,0 +1,11 @@
+FNAR-235  3-D COMPUTER MODELING             1 CU
+ 401 STU MW 2-5PM ADDM 106               WHITE S
+     CROSS LISTED: FNAR-635
+     MAX W/CROSS LIST: 15              
+ 402 STU MW 5-8PM ADDM 106               WHITE S
+     CROSS LISTED: FNAR-635
+     MAX W/CROSS LIST: 16              
+ 403 STU TR 9-12NOON ADDM 106            WHITE S
+     CROSS LISTED: FNAR-635
+     MAX W/CROSS LIST: 16              
+ 

@@ -1,0 +1,6 @@
+PHRM-623  FNDLS OF PHARM                    1 CU
+     PERMISSION NEEDED FROM INSTRUCTOR
+ 001 LEC MTWR 4-5PM TBA                  FIELD J
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 20                
+ 

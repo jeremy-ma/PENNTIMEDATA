@@ -1,0 +1,8 @@
+GAFL-602  PUBLIC SPEAKING                   1 CU
+ 001 SEM M 6-9PM FELS SEM             BENEDICT A
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 002 SEM T 6-9PM FELS SEM             BENEDICT A
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 

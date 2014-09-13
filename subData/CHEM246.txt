@@ -1,0 +1,10 @@
+CHEM-246  LECTURE                           0 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC W 5:30-7:30PM CHEM B13            LEE J
+     MAX: 24                
+          EXPERIMNTL ORGAN CHEM II          1 CU
+ 101 LAB MW 1-5PM TBA                      LEE J
+     MAX: 10                
+ 102 LAB TR 1-5PM TBA                      LEE J
+     MAX: 14                
+ 

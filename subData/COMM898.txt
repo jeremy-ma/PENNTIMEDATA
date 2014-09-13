@@ -1,0 +1,4 @@
+COMM-898  SOC INFL, MED EFF &BRAIN          1 CU
+ 301 SEM F 10-12NOON ANNS 225             FALK E
+     MAX: 15                
+ 

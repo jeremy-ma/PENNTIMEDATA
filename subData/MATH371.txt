@@ -1,0 +1,10 @@
+MATH-371  ALGEBRA                           1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MWF 10-11AM TOWN 303         CHINBURG T
+     MAX: 36                
+          LABORATORY                        0 CU
+ 101 LAB T 6:30-8:30PM DRLB 3C8      SUNDSTROM J
+     MAX: 18                
+ 102 LAB R 6:30-8:30PM DRLB 3C8      SUNDSTROM J
+     MAX: 18                
+ 

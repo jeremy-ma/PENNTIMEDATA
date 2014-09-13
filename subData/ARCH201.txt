@@ -1,0 +1,12 @@
+ARCH-201  VISUALIZATION II                  1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC R 10:30-12NOON MEYH B2    BOUCHEHRIAN H
+     MAX: 22                
+          RECITATION                        0 CU
+ 201 REC TR 1:30-3PM ADDM 101      BOUCHEHRIAN H
+     MAX: 7                 
+ 202 REC TR 3-4:30PM ADDM 101      BOUCHEHRIAN H
+     MAX: 8                 
+ 203 REC TR 4:30-6PM ADDM 101      BOUCHEHRIAN H
+     MAX: 8                 
+ 

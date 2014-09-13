@@ -1,0 +1,5 @@
+EDUC-592  PROF DEV IN HIGHER EDUC         0.5 CU
+ 001 LEC R 1-3PM EDUC 203               AIKINS R
+     DATES: 08/27/14 - 10/24/14
+     MAX: 40                
+ 

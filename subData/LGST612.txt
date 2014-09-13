@@ -1,0 +1,12 @@
+LGST-612  RESP IN PROF'L SERVICES         0.5 CU
+     MBA COURSE
+ 001 LEC T 3-6PM JMHH F50                SHELL G
+     DATES: 08/27/14 - 10/08/14
+     MAX: 50                
+ 003 LEC MW 10:30-12NOON JMHH G55       ZARING D
+     DATES: 08/27/14 - 10/08/14
+     MAX: 45                
+ 004 LEC MW 10:30-12NOON JMHH G55       ZARING D
+     DATES: 10/20/14 - 12/04/14
+     MAX: 50                
+ 

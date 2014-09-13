@@ -1,0 +1,4 @@
+BEPP-220  BEHAVIORAL ECONOMICS              1 CU
+ 001 LEC TR 12-1:30PM SHDH 1201       TOBACMAN J
+     MAX: 50                
+ 

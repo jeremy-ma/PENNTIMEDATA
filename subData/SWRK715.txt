@@ -1,0 +1,10 @@
+SWRK-715  INTRO SOC WRK RESEARCH            1 CU
+ 001 LEC W 9-11:30AM CAST A17         SCHEPENS A
+     MAX: 20                
+ 002 LEC W 4-6:30PM DRLB 3C6            PETROS R
+     MAX: 20                
+ 003 LEC R 9-11:30AM CAST A19            CNAAN R
+     MAX: 20                
+ 004 LEC R 4-6:30PM CAST A19             CNAAN R
+     MAX: 20                
+ 

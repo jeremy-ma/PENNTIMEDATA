@@ -1,0 +1,16 @@
+ARCH-511  HISTORY AND THEORY I              1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC T 10:30-12NOON MEYH B3         OCKMAN J
+     MAX: 80                
+          RECITATION                        0 CU
+ 201 REC F 9-10:30AM MEYH B7            WATSON J
+     MAX: 20                
+ 202 REC F 10:30-12NOON MEYH B7         WATSON J
+     MAX: 20                
+ 203 REC F 9-10:30AM JAFF 104          PUTALIK E
+     MAX: 20                
+ 204 REC F 10:30-12NOON JAFF 104       PUTALIK E
+     MAX: 20                
+ 205 REC R 7-8:30PM MEYH B2               AKER S
+     MAX: 20                
+ 

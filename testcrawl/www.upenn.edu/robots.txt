@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+<title>Penn: Directories</title>
+<link rel="stylesheet" type="text/css" href="/assets/global.css" />
+<script language="javascript" src="/assets/global.js"></script>
+</head>
+<body bgcolor="#FFFFFF" background="/assets/images/bg.gif" 
+   text="#000000" link="#011F5B" vlink="#6E88B9" alink="#990000" 
+   topmargin=0 leftmargin=0 marginheight=0 marginwidth=0>
+
+<table cellpadding=17 cellspacing=0 border=0 width=700 height="100%">
+<tr valign=middle height="100%">
+   <td bgcolor="#011F5B" width=209 align=center>
+   <a href="/"><img src="/assets/images/logo.gif" 
+      width=175 height=55 border=0 
+      alt="University of Pennsylvania Home Page"></a>
+   </td>
+
+   <td width="100%">
+
+   <img src="/assets/images/banners/404.gif" width=280 height=24 
+      border=0 alt="Page Not Found" />
+   <!-- begin 404 message -->
+
+
+
+<p class="bigger">The page you requested could not be found on the Penn Web.</p>
+
+<p>Possible reasons for not finding this document:
+<ul>
+<li>You typed in the URL and made a typo. Please check the spelling and try again.
+<li>You typed in an outdated URL. Please try one of the options on our 
+   <a href="http://www.upenn.edu/search/advanced-search.html">Search page</a> to locate 
+   current information.
+<li>A link from one of our pages may be broken. Please  
+   <a href="mailto: webmaster@upenn.edu">send the webmaster</a> 
+   a note and include the URL of the page you were viewing and the link 
+   that was broken.
+</ul>
+</p>
+
+
+   <!-- end 404 message -->
+   </td>
+</tr>
+</table>
+</body>
+</html>
+
+
+

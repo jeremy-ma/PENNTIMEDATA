@@ -1,0 +1,6 @@
+MKTG-265   PRINCIPLES OF ADVERTISN          1 CU
+ 001 LEC TR 1:30-3PM SHDH 107        ARMSTRONG J
+     MAX: 70                
+ 002 LEC MW 12-1:30PM JMHH 255           ADAMS A
+     MAX: 70                
+ 

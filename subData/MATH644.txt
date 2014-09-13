@@ -1,0 +1,4 @@
+MATH-644  PARTIAL DIFFER EQUATIONS          1 CU
+ 001 LEC MW 12-1:30PM DRLB 4C8            HYND R
+     MAX: 30                
+ 

@@ -1,0 +1,12 @@
+MKTG-227  MKTG AND ELECTRONIC COMM        0.5 CU
+ 401 LEC TR 10:30-12NOON JMHH 255         BELL D
+     CROSS LISTED: MKTG-727
+     SECTION MAX: 25        
+     MAX W/CROSS LIST: 70              
+     DATES: 08/27/14 - 10/17/14
+ 403 LEC TR 1:30-3PM JMHH 260             BELL D
+     CROSS LISTED: MKTG-727
+     SECTION MAX: 25        
+     MAX W/CROSS LIST: 70              
+     DATES: 08/27/14 - 10/17/14
+ 

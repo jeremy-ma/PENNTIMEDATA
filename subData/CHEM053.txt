@@ -1,0 +1,126 @@
+CHEM-053  LECTURE                           0 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC M 3-3:50PM CHEM 102            MAEYER J
+     MAX: 330               
+ 002 LEC M 4-4:50PM CHEM 102            MAEYER J
+     MAX: 330               
+          GEN CHEM LAB I                  0.5 CU
+ 101 LAB T 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 15                
+ 102 LAB T 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 103 LAB T 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 104 LAB T 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 105 LAB T 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 106 LAB T 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 15                
+ 107 LAB T 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 108 LAB T 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 109 LAB T 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 110 LAB T 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 111 LAB T 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 112 LAB T 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 116 LAB W 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 117 LAB W 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 118 LAB W 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 119 LAB W 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 120 LAB W 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 121 LAB W 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 122 LAB R 9-12NOON TBA                    STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 123 LAB R 9-12NOON TBA                    STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 124 LAB R 9-12NOON TBA                    STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 16                
+ 125 LAB R 9-12NOON TBA                    STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 16                
+ 126 LAB R 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 127 LAB R 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 128 LAB R 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 129 LAB R 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 130 LAB R 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 131 LAB R 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 132 LAB R 3-6PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 133 LAB F 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 134 LAB F 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 135 LAB F 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 136 LAB F 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 137 LAB F 2-5PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 16                
+ 138 LAB R 6-9PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 16                
+ 139 LAB R 6-9PM TBA                       STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 140 LAB R 12-3PM TBA                      STAFF
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 16                
+ 141 LAB R 3-6PM TBA                       STAFF
+     MAX: 16                
+ 

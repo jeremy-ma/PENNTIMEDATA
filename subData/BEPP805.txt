@@ -1,0 +1,18 @@
+BEPP-805  RISK MANAGEMENT                   1 CU
+ 401                             MITCHELL/GOTTLI
+     LEC MW 10:30-12NOON JMHH 240
+     MBA COURSE
+     CROSS LISTED: BEPP-305
+     SECTION MAX: 15        
+     MAX W/CROSS LIST: 60              
+ 402 LEC MW 1:30-3PM JMHH F50    MITCHELL/GOTTLI
+     MBA COURSE
+     CROSS LISTED: BEPP-305
+     SECTION MAX: 15        
+     MAX W/CROSS LIST: 60              
+ 403 LEC MW 3-4:30PM JMHH F50    MITCHELL/GOTTLI
+     MBA COURSE
+     CROSS LISTED: BEPP-305
+     SECTION MAX: 12        
+     MAX W/CROSS LIST: 60              
+ 

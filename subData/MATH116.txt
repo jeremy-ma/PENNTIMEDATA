@@ -1,0 +1,13 @@
+MATH-116  HONORS CALCULUS                   0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 001 LEC TR 12-1:30PM DRLB A7         SHANESON J
+     MAX: 50                
+          HONORS CALCULUS                   1 CU
+ 201 REC M 6-7:30PM DRLB 4C4             CROOK D
+     MAX: 25                
+ 202 REC M 7:30-9PM DRLB 4C4             ANAVI A
+     MAX: 25                
+ 

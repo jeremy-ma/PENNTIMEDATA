@@ -1,0 +1,15 @@
+PSCI-230  PUBLIC OPIN & AMER DEMOC          0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 3-4PM MCNB 285              MARGOLIS
+     MAX: 25                
+          PUBLIC OPIN & AMER DEMOC          1 CU
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 201 REC R 4-5PM PSYL A30               REGINA C
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 15                
+ 202 REC TBA                               STAFF
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     MAX: 0                 
+ 203 REC M 12-1PM MCNB 409              REGINA C
+     MAX: 10                
+ 

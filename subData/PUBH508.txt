@@ -1,0 +1,14 @@
+PUBH-508  CAPSTONE SEMINAR                  1 CU
+ 001 LEC M 1-4PM ACHM 104               FRASSO R
+     MAJORS ONLY
+     MAX: 10                
+ 002 LEC R 5-8PM ACHM 104                 LEVY S
+     MAJORS ONLY
+     MAX: 10                
+ 003 LEC T 5-8PM ACHM 149             ANDERSON E
+     MAJORS ONLY
+     MAX: 10                
+ 004 LEC W 5-8PM ACHM 104               GRISSO J
+     MAJORS ONLY
+     MAX: 8                 
+ 

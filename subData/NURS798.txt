@@ -1,0 +1,12 @@
+NURS-798  AGACNP:PRF ROLE CLN PRAC          1 CU
+     REGISTRATION REQUIRED FOR SEM, CLN
+ 001 SEM TBA                          VOTODIAN A
+     PERMISSION NEEDED FROM DEPARTMENT
+     LOCATION: ON LINE
+     MAX: 9                 
+          CLINIC                            0 CU
+ 101 CLN TBA                           MORELLI C
+     MAX: 9                 
+ 102 CLN TBA                     BUCKLEY-BLASKOV
+     MAX: 0                 
+ 

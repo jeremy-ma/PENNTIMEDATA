@@ -1,0 +1,25 @@
+GEOL-103  NAT DISTURB & DISASTERS           1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 9-10AM ANNS 110            PHIPPS S
+     MAX: 200               
+          RECITATION                        0 CU
+ 201 REC T 9-10AM HAYD 358              PHIPPS S
+     PHYSICAL WORLD SECTOR
+     MAX: 33                
+ 202 REC T 12-1PM HAYD 358              PHIPPS S
+     MAX: 40                
+     PHYSICAL WORLD SECTOR
+ 203 REC T 1-2PM HAYD 358               PHIPPS S
+     PHYSICAL WORLD SECTOR
+     MAX: 34                
+ 204 REC R 9-10AM HAYD 358              PHIPPS S
+     PHYSICAL WORLD SECTOR
+     MAX: 0                 
+ 205 REC R 12-1PM HAYD 358              PHIPPS S
+     PHYSICAL WORLD SECTOR
+     MAX: 0                 
+ 206 REC R 3-4PM HAYD 358               PHIPPS S
+     MAX: 33                
+ 

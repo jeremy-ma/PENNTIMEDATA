@@ -1,0 +1,7 @@
+CHIN-311  ADVANCED MOD CHINESE I            1 CU
+ 001 LEC MTWR 12-1PM BENN 139             JIAO L
+     MAX: 15                
+ 002 LEC MW 2-3PM WILL 705                JIAO L
+     LEC TR 2-3PM WILL 741
+     MAX: 15                
+ 

@@ -1,0 +1,4 @@
+MUSC-801  TEACHING MUSIC THEORY             1 CU
+ 001 LEC TBA                            MORENO J
+     MAX: 10                
+ 

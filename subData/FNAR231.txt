@@ -1,0 +1,11 @@
+FNAR-231  PAINTING PRACTICES                1 CU
+ 201 STU MW 10-1PM ADDM 104               AMIN N
+     PRE-REQUISITE NEEDED: FNAR 123
+     MAX: 12                
+ 401 STU TR 1:30-4:30PM ADDM 104        MURPHY D
+     CROSS LISTED: FNAR-531
+     MAX W/CROSS LIST: 12              
+ 402 STU TR 9-12NOON ADDM 104           HUDSON P
+     CROSS LISTED: FNAR-531
+     MAX W/CROSS LIST: 12              
+ 

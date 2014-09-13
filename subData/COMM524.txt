@@ -1,0 +1,4 @@
+COMM-524  INTRO STAT ANALYSIS               1 CU
+ 001 LEC R 3:30-6:30PM ANNS 222       HENNESSY M
+     MAX: 15                
+ 

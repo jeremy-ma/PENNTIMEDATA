@@ -1,0 +1,6 @@
+MGMT-231  ENTREPR VENTR INITIATION          1 CU
+ 001                                FITZGERALD P
+     LEC TR 10:30-12NOON SHDH 105
+     COMPLETION OF MGMT 230 OR MGMT 235
+     MAX: 45                
+ 

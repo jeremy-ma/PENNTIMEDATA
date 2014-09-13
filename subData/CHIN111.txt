@@ -1,0 +1,15 @@
+CHIN-111  BEGINNING CHINESE III             1 CU
+ 001 LEC MW 10-11AM WILL 301              JIAO L
+     LEC TR 9:30-10:30AM WILL 301
+     MAX: 15                
+ 002 LEC MTWR 11-12NOON WILL 307           LEE C
+     MAX: 15                
+ 003 LEC MTWR 12-1PM MCNB 582               MA Y
+     MAX: 15                
+ 004 LEC MTWR 12-1PM WILL 215             CHEN S
+     MAX: 15                
+ 005 LEC MTWR 2-3PM WILL 320             LIANG F
+     MAX: 15                
+ 006 LEC MTWR 3-4PM MCNB 582              CHEN S
+     MAX: 15                
+ 

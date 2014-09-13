@@ -1,0 +1,6 @@
+REAL-321  REAL ESTATE DEVELOPMENT           1 CU
+ 402 LEC M 3-6PM JMHH G90              FELDMAN A
+     CROSS LISTED: ARCH-768 REAL-821
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 27              
+ 

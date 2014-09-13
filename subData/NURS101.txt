@@ -1,0 +1,10 @@
+NURS-101  NATURE OF NURS PRACTICE         0.5 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC T 3-4:30PM FAGN AUD     KTNY-LEE/BRKS-C
+     MAX: 125               
+          RECITATION                        0 CU
+ 201 REC TBA                        KUTNEY LEE A
+     MAX: 125               
+ 207 REC TBA                             SHAID E
+     MAX: 0                 
+ 

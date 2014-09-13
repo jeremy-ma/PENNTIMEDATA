@@ -1,0 +1,11 @@
+CHEM-601  ADV CHEMISTRY SEM BIO           0.5 CU
+ 001 LEC TR 12-1:30PM TBA              CURRANO J
+     PERMISSION NEEDED FROM DEPARTMENT
+     CONTACT DEPT or INSTRUCTOR FOR CLASSRM INFO
+     DATES: 08/27/14 - 10/17/14
+     MAX: 30                
+          ADV CHEMISTRY SEM               0.5 CU
+ 002 LEC TR 9-10:30AM TBA              CURRANO J
+     DATES: 08/27/14 - 10/17/14
+     MAX: 30                
+ 

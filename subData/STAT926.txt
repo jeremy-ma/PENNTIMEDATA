@@ -1,0 +1,4 @@
+STAT-926  MULTIVARIATE ANALY: METH          1 CU
+ 001 LEC MW 12-1:30PM JMHH G86            BUJA A
+     MAX: 30                
+ 

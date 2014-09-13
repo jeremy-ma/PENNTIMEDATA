@@ -1,0 +1,4 @@
+PHYS-601  INTRO TO FIELD THEORY             1 CU
+ 001 LEC TR 9-10:30AM DRLB 2C6          CVETIC M
+     MAX: 30                
+ 

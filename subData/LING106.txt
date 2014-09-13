@@ -1,0 +1,11 @@
+LING-106  INTRO TO FORMAL LING              1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     FORMAL REASONING COURSE
+ 001 LEC MW 1-2PM DRLB A5              SCHWARZ F
+     MAX: 50                
+          RECITATION                        0 CU
+ 201 REC F 1-2PM WILL 215               WILDER R
+     MAX: 25                
+ 202 REC F 2-3PM WILL 215               WILDER R
+     MAX: 25                
+ 

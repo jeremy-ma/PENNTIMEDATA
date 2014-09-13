@@ -1,0 +1,4 @@
+HIST-137  INTERNAT'L SOCIETY 20C            1 CU
+ 001 LEC TR 12-1:30PM COLL 314            OGLE V
+     MAX: 45                
+ 

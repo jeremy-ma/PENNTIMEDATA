@@ -1,0 +1,6 @@
+KORN-111  INTERMEDIATE KOREAN I             1 CU
+ 001 LEC MTWR 11-12NOON COLL 311F        CHUNG E
+     MAX: 15                
+ 002 LEC MTWR 12-1PM COLL 311F           CHUNG E
+     MAX: 15                
+ 

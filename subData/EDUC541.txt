@@ -1,0 +1,6 @@
+EDUC-541  ACCESS & CHOICE AMER ED           1 CU
+ 001 LEC M 2-4PM EDUC 121                PERNA L
+     AN ACADEMICALLY BASED COMMUNITY SERV COURSE
+     DATES: 08/27/14 - 12/19/14
+     MAX: 30                
+ 

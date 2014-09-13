@@ -1,0 +1,18 @@
+SWRK-604  FNDTN SWRK PRACTICE I             1 CU
+ 001 LEC T 9-11:30AM CAST D28         ENGSTROM M
+     MAX: 20                
+ 002 LEC T 9-11:30AM CAST A14          FUSSNER A
+     MAX: 20                
+ 003 LEC T 9-11:30AM CAST A19          CONSTON E
+     MAX: 20                
+ 004 LEC T 4-6:30PM CAST A19           FUSSNER A
+     MAX: 20                
+ 005 LEC W 12-2:30PM CAST D28          FUSSNER A
+     MAX: 20                
+ 006 LEC W 12-2:30PM CAST A14           HUDSON K
+     MAX: 20                
+ 007 LEC T 6:45-9:15PM CAST A8           LEWIS J
+     MAX: 20                
+ 008 LEC W 12-2:30PM MCNB 169     TRACHTENBERG S
+     MAX: 20                
+ 

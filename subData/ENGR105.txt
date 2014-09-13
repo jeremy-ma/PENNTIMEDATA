@@ -1,0 +1,10 @@
+ENGR-105  INTRO SCIENTIFIC COMP             1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 001 LEC MWF 12-1PM MOOR 216       WABISZEWSKI G
+     MAX: 70                
+          LABORATORY                        0 CU
+ 101 LAB W 1-2PM TBA                       STAFF
+     MAX: 35                
+ 102 LAB W 3-4PM TBA                       STAFF
+     MAX: 35                
+ 

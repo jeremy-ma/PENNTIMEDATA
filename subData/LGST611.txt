@@ -1,0 +1,9 @@
+LGST-611  RESP IN GLOBAL MGMT             0.5 CU
+     MBA COURSE
+ 001 LEC M 3-6PM JMHH 245             PETKOSKI D
+     DATES: 08/27/14 - 10/08/14
+     MAX: 50                
+ 002 LEC M 3-6PM JMHH 245             PETKOSKI D
+     DATES: 10/20/14 - 12/04/14
+     MAX: 50                
+ 

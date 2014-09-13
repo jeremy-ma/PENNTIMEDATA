@@ -1,0 +1,12 @@
+ARCH-535  STRUCTURES I                    0.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+ 401 LEC W 10:30-12NOON MEYH B3         FARLEY R
+     CROSS LISTED: ARCH-435
+     SECTION MAX: 80        
+     MAX W/CROSS LIST: 92              
+          LABORATORY                        0 CU
+ 402 LAB F 1-5PM MEYH B3                FARLEY R
+     CROSS LISTED: ARCH-435
+     SECTION MAX: 80        
+     MAX W/CROSS LIST: 92              
+ 

@@ -1,0 +1,57 @@
+NURS-215  LABORATORY                        0 CU
+ 202 LAB T 8-11AM TBA                      STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 203 LAB T 12-3PM TBA                      STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 204 LAB T 12-3PM TBA                      STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 205 LAB T 4-7PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 206 LAB T 4-7PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 207 LAB W 1-4PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 208 LAB W 1-4PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 209 LAB W 5-8PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 210 LAB W 5-8PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 211 LAB R 12-3PM TBA                      STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 212 LAB R 12-3PM TBA                      STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 213 LAB R 4-7PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 214 LAB R 4-7PM TBA                       STAFF
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 
+1AM TBA
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 111 CLN R 7-1PM TBA             PEGRAM/GLDF-WRD
+     CLN F 7-11AM TBA
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 112 CLN T 7-1PM TBA             GROGAN/PFROMMER
+     CLN R 7-11AM TBA
+     DATES: 08/25/14 - 10/05/14
+     MAX: 6                 
+ 113 CLN T 7-1PM TBA             KETLER/WILLIAMS
+     CLN R 7-11AM TBA
+     DATES: 08/25/14 - 10/05/14
+     MAX: 8                 
+ 

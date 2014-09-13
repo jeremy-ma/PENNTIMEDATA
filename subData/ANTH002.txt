@@ -1,0 +1,17 @@
+ANTH-002  ANTHRO STUDY OF CULTURE           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     SOCIETY SECTOR
+     CROSS CULTURAL ANALYSIS
+ 001 LEC MW 3-4PM MUSE B17             BRUCHAC M
+     MAX: 100               
+          ANTHRO STUDY OF CULTURE           1 CU
+     CROSS CULTURAL ANALYSIS
+ 201 REC M 11-12NOON MUSE 328            HENRY A
+     CROSS CULTURAL ANALYSIS
+     MAX: 25                
+ 202 REC M 2-3PM MUSE 328                HENRY A
+     CROSS CULTURAL ANALYSIS
+     MAX: 25                
+ 203 REC W 12-1PM MUSE 328               HENRY A
+     MAX: 25                
+ 

@@ -1,0 +1,6 @@
+ARCH-601  DESIGN STUDIO III                 2 CU
+ 201 STU MR 12-6PM TBA                 JAMELLE H
+     STU W 2-6PM TBA
+     CO-REQUISITE: ARCH-621
+     MAX: 96                
+ 

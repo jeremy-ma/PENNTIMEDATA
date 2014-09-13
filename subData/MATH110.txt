@@ -1,0 +1,21 @@
+MATH-110  RECITATION                        0 CU
+ 201 REC TR 8-9AM WILL 202             BARBOSA R
+     MAX: 30                
+ 202 REC T 9-10AM WILL 29              BARBOSA R
+     REC R 9-10AM WILL 29
+     MAX: 30                
+          CALCULUS FOR WHARTON STU          1 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     FORMAL REASONING COURSE
+ 002 LEC MWF 10-11AM ARCH 208         PEMANTLE R
+     MAX: 50                
+          RECITATION                        0 CU
+ 211 REC T 9:30-10:30AM DRLB 4C2        BROOKS T
+     REC R 9:30-10:30AM DRLB 4C2
+     MAX: 30                
+ 212 REC T 10:30-11:30AM DRLB 3C2       BROOKS T
+     REC R 10:30-11:30AM EDUC 203
+     MAX: 30                
+ 

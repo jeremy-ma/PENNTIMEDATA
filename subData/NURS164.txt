@@ -1,0 +1,44 @@
+NURS-164  ANAT&PHYS/PHYS ASSESS II          2 CU
+     REGISTRATION REQUIRED FOR LEC, CLN, LAB
+ 001                              QUIGLEY/SCANGA
+     LEC TR 10:30-12NOON FAGN AUD
+     MAX: 100               
+          CLINIC                            0 CU
+ 101 CLN W 8:30-11AM FAGN 102          VOLOSIN R
+     MAX: 8                 
+ 102 CLN W 8:30-11AM FAGN 102    BRATSCHI-BRADLE
+     MAX: 8                 
+ 103 CLN W 8:30-11AM FAGN 102         STARODUB R
+     MAX: 8                 
+ 104 CLN W 8:30-11AM FAGN 102        DICKINSON L
+     MAX: 8                 
+ 105 CLN W 11:30-2PM FAGN 102          VOLOSIN R
+     MAX: 8                 
+ 106 CLN W 11:30-2PM FAGN 102         STARODUB R
+     MAX: 8                 
+ 107 CLN W 11:30-2PM FAGN 102        DICKINSON L
+     MAX: 8                 
+ 108 CLN W 11:30-2PM FAGN 102    GOLDFINE-WARD S
+     MAX: 8                 
+ 110 CLN W 2-4:30PM FAGN 102         DICKINSON L
+     MAX: 8                 
+ 111 CLN W 2-4:30PM FAGN 102     GOLDFINE-WARD S
+     MAX: 8                 
+ 112 CLN W 2-4:30PM FAGN 102            JACOBY S
+     MAX: 8                 
+ 113 CLN W 2-4:30PM FAGN 102            HILLEL L
+     MAX: 8                 
+          LABORATORY                        0 CU
+ 201 LAB T 1:30-3PM FAGN 221            SCANGA C
+     MAX: 18                
+ 202 LAB T 3-4:30PM FAGN 221            SCANGA C
+     MAX: 19                
+ 203 LAB W 11-12:30PM FAGN 221          SCANGA C
+     MAX: 17                
+ 204 LAB W 2-3:30PM FAGN 221            SCANGA C
+     MAX: 14                
+ 205 LAB R 1:30-3PM FAGN 221            SCANGA C
+     MAX: 14                
+ 206 LAB R 3-4:30PM FAGN 221            SCANGA C
+     MAX: 17                
+ 

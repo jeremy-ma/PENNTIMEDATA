@@ -1,0 +1,11 @@
+MATH-202  LABORATORY                        0 CU
+     REGISTRATION REQUIRED FOR LAB, SEM
+ 101 LAB M 6:30-8:30PM DRLB 3C6            CHO S
+     MAX: 30                
+ 102 LAB W 6:30-8:30PM DRLB 3C6            CHO S
+     MAX: 30                
+          PROVING THINGS: ANALYSIS          1 CU
+     FRESHMAN SEMINAR
+ 301 SEM TR 12-1:30PM DRLB 4C4           GLUCK H
+     MAX: 36                
+ 

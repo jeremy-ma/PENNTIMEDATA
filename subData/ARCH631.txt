@@ -1,0 +1,4 @@
+ARCH-631  TECH CASE STUDIES I               1 CU
+ 001 LEC T 3-6PM MEYH B3                 FALCK D
+     MAX: 100               
+ 

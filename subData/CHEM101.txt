@@ -1,0 +1,100 @@
+CHEM-101  GENERAL CHEMISTRY I               1 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 10-11AM CHEM 102             TOPP M
+     MAX: 130               
+          RECITATION                        0 CU
+ 220 REC R 11-12NOON LRSM 112B            CHEN Y
+     MAX: 25                
+ 221 REC R 12-1PM DRLB 3C4              MEEHAN E
+     MAX: 25                
+ 222 REC R 12-1PM DRLB 3C6            BELLZONI N
+     MAX: 25                
+ 223 REC F 12-1PM CHEM 119            BELLZONI N
+     MAX: 25                
+ 224 REC F 1-2PM CHEM 119             BELLZONI N
+     MAX: 25                
+          GENERAL CHEMISTRY I               1 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     PHYSICAL WORLD SECTOR
+ 002 LEC MWF 12-1PM CHEM 102              TOPP M
+     MAX: 130               
+          RECITATION                        0 CU
+ 230 REC R 12-1PM DRLB 3C8                CHEN Y
+     MAX: 25                
+ 231 REC R 12-1PM CHEM 119                 STAFF
+     MAX: 25                
+ 232 REC F 1-2PM DRLB 2C2                 CHEN Y
+     MAX: 25                
+ 233 REC F 1-2PM CHEM 514               MEEHAN E
+     MAX: 25                
+ 234 REC F 2-3PM CHEM 119               MEEHAN E
+     MAX: 25                
+          GENERAL CHEMISTRY I               1 CU
+ GROUP 3 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     PHYSICAL WORLD SECTOR
+ 003 LEC MWF 2-3PM LRSM AUD         PIETROVITO A
+     MAX: 110               
+          RECITATION                        0 CU
+ 240 REC R 11-12NOON DRLB 3N6           PORTER N
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 22                
+ 241 REC R 12-1PM CHEM 514                CHEN Z
+     MAX: 22                
+ 242 REC F 12-1PM CHEM 109              PORTER N
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 30                
+ 243 REC R 2-3PM CHEM 119               PORTER N
+     MAX: 30                
+ 244 REC F 12-1PM DRLB 2C2                CHEN Z
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 28                
+          GENERAL CHEMISTRY I               1 CU
+ GROUP 4 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     PHYSICAL WORLD SECTOR
+ 004 LEC MWF 12-1PM LRSM AUD            DAVIES P
+     ENGINEERING STUDENTS ONLY
+     MAX: 100               
+          RECITATION                        0 CU
+ 250 REC R 12-1PM DRLB 3W2                 LIN Y
+     MAX: 25                
+ 251 REC R 3-4PM CHEM 514                  LIN Y
+     MAX: 25                
+ 252 REC F 2-3PM CHEM 514                  LIN Y
+     MAX: 25                
+ 253 REC F 3-4PM CHEM 119                 BLUM J
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 25                
+          GENERAL CHEMISTRY I               1 CU
+ GROUP 5 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+     PHYSICAL WORLD SECTOR
+ 005 LEC MWF 1-2PM LRSM AUD        DAVIES/PIETRO
+     ENGINEERING STUDENTS ONLY
+     MAX: 100               
+          RECITATION                        0 CU
+ 260 REC R 12-1PM DRLB 4N30                LIN Y
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 25                
+ 261 REC R 3-4PM CHEM 109                 BLUM J
+     MAX: 25                
+ 262 REC F 2-3PM CHEM B13                 BLUM J
+     MAX: 25                
+ 263 REC F 3-4PM CHEM 109                 BLUM J
+     MAX: 25                
+          GENERAL CHEMISTRY I               1 CU
+ GROUP 6 SECTIONS
+     PHYSICAL WORLD SECTOR
+ 006 LEC MW 1-3PM ARCH 208            PHILLIPS S
+     Structured, In-class, Active Learning Cours
+     MAX: 80                
+ 

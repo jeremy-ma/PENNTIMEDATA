@@ -1,0 +1,5 @@
+EDUC-719  RSRCH TCHR ED & LRN TCH           1 CU
+ 001 LEC T 7-9PM EDUC 121                 RUST F
+     DATES: 08/27/14 - 12/19/14
+     MAX: 30                
+ 

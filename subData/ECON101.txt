@@ -1,0 +1,23 @@
+ECON-101  INTERMED MICROECONOMICS           1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 9-10:30AM COHN G17           VOHRA R
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 200               
+          RECITATION                        0 CU
+ 201 REC M 2-3PM PSYL A30                 CHEN Y
+     MAX: 26                
+ 202 REC M 12-1PM MCNB 169                CHEN Y
+     MAX: 26                
+ 203 REC F 11-12NOON WILL 321              STAFF
+     MAX: 26                
+ 204 REC F 2-3PM WILL 306                  STAFF
+     MAX: 26                
+ 205 REC M 9-10AM WILL 306             CIANCIO A
+     MAX: 26                
+ 206 REC F 1-2PM WILL 321        ORRACA CORONA M
+     MAX: 26                
+ 207 REC M 3-4PM WILL 201              CIANCIO A
+     MAX: 26                
+ 208 REC F 3-4PM WILL 216        ORRACA CORONA M
+     MAX: 26                
+ 

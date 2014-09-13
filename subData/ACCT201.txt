@@ -1,0 +1,8 @@
+ACCT-201  FINANCIAL ACCOUNTING I            1 CU
+ 001 LEC MW 10:30-12NOON SHDH 213      SCHRAND C
+     MAX: 50                
+ 002 LEC MW 1:30-3PM SHDH 213          SCHRAND C
+     MAX: 50                
+ 003 LEC MW 3-4:30PM SHDH 213          SCHRAND C
+     MAX: 50                
+ 

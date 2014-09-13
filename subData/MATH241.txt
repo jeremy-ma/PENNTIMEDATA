@@ -1,0 +1,27 @@
+MATH-241  CALCULUS IV                       0 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 001 LEC MWF 11-12NOON DRLB 2C6          SHATZ S
+     MAX: 66                
+          CALCULUS IV                       1 CU
+ 202 REC T 9:30-10:30AM DRLB 3N6          HAYS C
+     MAX: 17                
+ 204 REC R 9:30-10:30AM DRLB 3N6          HAYS C
+     MAX: 17                
+          CALCULUS IV                       0 CU
+ GROUP 2 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 002 LEC TR 12-1:30PM DRLB A6             WONG T
+     MAX: 80                
+          CALCULUS IV                       1 CU
+ 211 REC W 8-9AM DRLB 3N6                 HAYS C
+     MAX: 20                
+ 212 REC W 9-10AM DRLB 3N6                HAYS C
+     MAX: 20                
+ 213 REC F 8-9AM DRLB 4C8                 HAYS C
+     MAX: 20                
+ 214 REC F 9-10AM DRLB 4C8                HAYS C
+     MAX: 20                
+ 

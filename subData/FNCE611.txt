@@ -1,0 +1,29 @@
+FNCE-611  CORPORATE FINANCE                 1 CU
+     MBA COURSE
+ 001 LEC TR 9-10:30AM JMHH G55    VAN BINSBERGEN
+     UNDERGRADUATES NEED PERMISSION
+     AUDITORS NEED PERMISSION
+     DATES: 08/27/14 - 12/04/14
+     MBA COURSE
+     MAX: 78                
+ 002                              VAN BINSBERGEN
+     LEC TR 10:30-12NOON JMHH G55
+     DATES: 08/27/14 - 12/04/14
+     MBA COURSE
+     MAX: 78                
+ 003 LEC TR 1:30-3PM JMHH G55     VAN BINSBERGEN
+     MBA COURSE
+     MAX: 78                
+ 004 LEC MW 10:30-12NOON JMHH F50      ROBERTS M
+     UNDERGRADUATES NEED PERMISSION
+     DATES: 08/27/14 - 12/04/14
+     MBA COURSE
+     MAX: 60                
+ 005 LEC MW 12-1:30PM JMHH F50         ROBERTS M
+     DATES: 08/27/14 - 12/04/14
+     MBA COURSE
+     MAX: 60                
+ 006 LEC MW 3-4:30PM JMHH 355          ROBERTS M
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 

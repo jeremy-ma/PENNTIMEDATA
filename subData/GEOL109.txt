@@ -1,0 +1,10 @@
+GEOL-109  INTRO TO GEOTECH SCIENCE        1.5 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+     PHYSICAL WORLD SECTOR
+ 001 LEC MWF 11-12NOON MEYH B1            OMAR G
+     MAX: 10                
+          LABORATORY                        0 CU
+ 101 LAB M 2:30-5:30PM HAYD 360           OMAR G
+     MAX: 10                
+ 

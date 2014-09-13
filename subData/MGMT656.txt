@@ -1,0 +1,14 @@
+MGMT-656  GLOBAL IMMERSION PROGRAM  0.5 TO .5 CU
+     MBA COURSE
+ 003 LEC M 4:30-6:30PM SHDH 1201      TSCHOEGL A
+     DATES: 10/18/14 - 12/09/14
+     MBA COURSE
+     MAX: 35                
+ 004 LEC T 4:30-6:30PM SHDH 1201      TSCHOEGL A
+     DATES: 10/18/14 - 12/09/14
+     MBA COURSE
+     MAX: 35                
+ 005 LEC M 4:30-6:30PM SHDH 1203      TSCHOEGL A
+     DATES: 10/18/14 - 12/09/14
+     MAX: 35                
+ 

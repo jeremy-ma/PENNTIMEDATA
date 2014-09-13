@@ -1,0 +1,43 @@
+MGMT-101  LECTURE                           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC M 10:30-12NOON SHDH 351        CARTON A
+     MAX: 133               
+ 002 LEC M 12-1:30PM SHDH 351           CARTON A
+     MAX: 133               
+ 003 LEC M 1:30-3PM SHDH 351            CARTON A
+     MAX: 134               
+          INTRO TO MANAGEMENT               1 CU
+ 201 REC T 9-10:30AM JMHH F36             ADDO A
+     MAX: 25                
+ 202 REC T 10:30-12NOON JMHH F36       TUSSING D
+     MAX: 25                
+ 203 REC T 12-1:30PM JMHH F36            NEVES C
+     MAX: 25                
+ 204 REC T 12-1:30PM JMHH F38              LUU L
+     MAX: 25                
+ 205 REC T 12-1:30PM JMHH G86          TUSSING D
+     MAX: 25                
+ 206 REC T 1:30-3PM JMHH F36             ZAIDI S
+     MAX: 25                
+ 207 REC W 10:30-12NOON SHDH 209        TEWFIK B
+     MAX: 25                
+ 208 REC W 12-1:30PM SHDH 209           SOLERA K
+     MAX: 25                
+ 209 REC W 12-1:30PM JMHH F94           PETERS E
+     MAX: 25                
+ 210 REC W 12-1:30PM JMHH F36            SINGH S
+     MAX: 25                
+ 211 REC W 1:30-3PM SHDH 209            SOLERA K
+     MAX: 25                
+ 212 REC R 9-10:30AM JMHH F36             ADDO A
+     MAX: 25                
+ 213 REC R 10:30-12NOON JMHH F36           WIJ I
+     THIS COURSE IS MGMT 101 HONOR'S SECTION.
+     PERMISSION NEEDED FROM DEPARTMENT
+     SECTION FOR HONORS STUDENTS
+     MAX: 25                
+ 214 REC R 12-1:30PM JMHH F36           TEWFIK B
+     MAX: 25                
+ 215 REC R 12-1:30PM JMHH F38            MEHTA R
+     MAX: 25                
+ 

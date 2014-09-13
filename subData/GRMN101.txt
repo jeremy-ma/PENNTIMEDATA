@@ -1,0 +1,10 @@
+GRMN-101  ELEMENTARY GERMAN I               1 CU
+ 001                               KONTULAINEN E
+     LEC MTWRF 11-12NOON BENN 201
+     MAX: 20                
+ 002 LEC MTWRF 12-1PM WILL 1         BREITKOPF F
+     MAX: 20                
+ 003 LEC MWF 1-2PM WILL 705            JOHNSON L
+     LEC TR 1:30-2:30PM WILL 705
+     MAX: 16                
+ 

@@ -1,0 +1,17 @@
+ARCH-611  HISTORY AND THEORY III            1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC M 10:30-12NOON MEYH B3         BARBER D
+     MAX: 95                
+          RECITATION                        0 CU
+ 201 REC T 9-10:30AM MEYH B7          WEICHSEL A
+     MAX: 19                
+ 202 REC T 10:30-12NOON MEYH B7       WEICHSEL A
+     MAX: 19                
+ 203 REC T 9-10:30AM MEYH B6        HERSHENZON M
+     MAX: 16                
+ 204 REC T 10:30-12NOON MEYH B4     HERSHENZON M
+     MAX: 16                
+ 205                             ROMAN ANDRINO A
+     REC T 10:30-12NOON BENN 16
+     MAX: 16                
+ 

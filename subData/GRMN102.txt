@@ -1,0 +1,7 @@
+GRMN-102  ELEMENTARY GERMAN II              1 CU
+ 001 LEC MWF 11-12NOON WILL 219          JAMES D
+     LEC TR 11-12NOON WILL 843
+     MAX: 18                
+ 002 LEC MTWRF 12-1PM WILL 23    SAYILI-HURLEY S
+     MAX: 18                
+ 

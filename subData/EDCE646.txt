@@ -1,0 +1,29 @@
+EDCE-646  PLN1:PIIC CRIT RD/WR K12        1.5 CU
+ 001 LEC TBA                      GINOTTI/CICONI
+     DATES: 10/08/14 - 03/18/15
+     MAX: 60                
+ 002 LEC TBA                     GINOTTI/CICIONI
+     DATES: 10/14/14 - 04/08/15
+     MAX: 60                
+ 003 LEC TBA                     HUBONA/HARTSOCK
+     DATES: 10/28/14 - 03/24/15
+     MAX: 60                
+ 004 LEC TBA                      TROTTA/GENZANO
+     DATES: 11/11/14 - 04/30/15
+     MAX: 60                
+ 005 LEC TBA                       HINES/CICIONI
+     DATES: 10/23/14 - 03/19/15
+     MAX: 60                
+ 006 LEC TBA                      JACOBS/CICIONI
+     DATES: 10/21/14 - 03/30/15
+     MAX: 60                
+ 007 LEC TBA                      JACOBS/CICIONI
+     DATES: 10/22/14 - 03/09/15
+     MAX: 60                
+ 008 LEC TBA                     GINOTTI/GENZANO
+     DATES: 10/30/14 - 03/10/15
+     MAX: 60                
+ 009 LEC TBA                      GINOTTI/ROMANO
+     DATES: 10/15/14 - 04/01/15
+     MAX: 60                
+ 

@@ -1,0 +1,12 @@
+MEAM-210  STATICS & STRENTH OF MAT          1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 12-1:30PM SKIR AUD          TURNER K
+     MAX: 75                
+          RECITATION                        0 CU
+ 201 REC M 10-11AM TOWN 307             TURNER K
+     MAX: 25                
+ 202 REC M 12-1PM TOWN 315              TURNER K
+     MAX: 25                
+ 203 REC M 3-4PM DRLB 3C8               TURNER K
+     MAX: 25                
+ 

@@ -1,0 +1,8 @@
+MGMT-701  STRAT & COMPET ADVANTAGE          1 CU
+     MBA COURSE
+ 001 LEC TR 9-10:30AM JMHH F55       SIGGELKOW N
+     MBA COURSE
+     MAX: 60                
+ 002 LEC TR 10:30-12NOON JMHH F55    SIGGELKOW N
+     MAX: 60                
+ 

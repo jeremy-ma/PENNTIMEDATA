@@ -1,0 +1,14 @@
+SWRK-704  ADV CLINICAL PRACTICE I           1 CU
+ 001 LEC W 12-2:30PM CAST A17          LEDWITH K
+     MAX: 20                
+ 002 LEC W 12-2:30PM EDUC 007         KRAWCHUK L
+     MAX: 20                
+ 003 LEC R 12-2:30PM CAST A17       WERNER-LIN A
+     MAX: 20                
+ 004 LEC R 12-2:30PM CAST A14          LEDWITH K
+     MAX: 20                
+ 005 LEC R 12-2:30PM CAST A8            WILMOT S
+     MAX: 20                
+ 006 LEC R 6:45-9:15PM CAST A8          WILMOT S
+     MAX: 20                
+ 

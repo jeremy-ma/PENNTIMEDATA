@@ -1,0 +1,15 @@
+SOCI-005  AMERICAN SOCIETY                  1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     HUMANITIES & SOCIAL SCIENCE SECTOR
+ 001 LEC MW 10-11AM STIT B26              BOSK C
+     MAX: 80                
+          RECITATION                        0 CU
+ 201 REC R 9:30-10:30AM FAGN 112          MODI R
+     MAX: 20                
+ 202 REC R 10:30-11:30AM FAGN 116         MODI R
+     MAX: 20                
+ 203 REC F 10-11AM WILL 320            SACKETT B
+     MAX: 20                
+ 204 REC F 11-12NOON WILL 5            SACKETT B
+     MAX: 20                
+ 

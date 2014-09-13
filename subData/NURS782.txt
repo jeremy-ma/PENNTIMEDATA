@@ -1,0 +1,10 @@
+NURS-782  WELL WOMEN HLTH CRE, CLN          1 CU
+     REGISTRATION REQUIRED FOR LEC, CLN
+ 001 LEC F 1-4PM FAGN 203               DURAIN D
+     MAX: 40                
+          CLINIC                            0 CU
+ 101 CLN TBA                             JONES T
+     MAX: 20                
+ 102 CLN TBA                            DURAIN D
+     MAX: 20                
+ 

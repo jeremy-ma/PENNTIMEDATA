@@ -1,0 +1,12 @@
+PSCI-252  WAR,STRATEGY & POLITICS           0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC TR 10:30-11:30AM ANNS 111    HOROWITZ M
+     MAX: 51                
+          WAR,STRATEGY & POLITICS           1 CU
+ 201 REC M 10-11AM WILL 6            MARGULIES M
+     MAX: 17                
+ 202 REC M 2-3PM WILL 2              MARGULIES M
+     MAX: 17                
+ 203 REC T 9:30-10:30AM COHN 203     MARGULIES M
+     MAX: 17                
+ 

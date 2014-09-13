@@ -1,0 +1,25 @@
+PSCI-219  CHINESE POLITICS                  0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     CROSS CULTURAL ANALYSIS
+ 001 LEC MW 11-12NOON STIT B26       GOLDSTEIN A
+     MAX: 90                
+          CHINESE POLITICS                  1 CU
+     CROSS CULTURAL ANALYSIS
+ 201 REC W 1-2PM COHN 237                  SUN M
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 202 REC W 3-4PM CAST A17                 ZENG Y
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 203 REC R 12-1PM STIT B30                 SUN M
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 204 REC F 10-11AM WILL 28                ZENG Y
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 205 REC R 3-4PM MCNB 110                  SUN M
+     CROSS CULTURAL ANALYSIS
+     MAX: 15                
+ 206 REC F 11-12NOON WILL 28              ZENG Y
+     MAX: 15                
+ 

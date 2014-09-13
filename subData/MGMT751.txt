@@ -1,0 +1,10 @@
+MGMT-751  STRAT MGMT OF HUM ASSETS        0.5 CU
+     MBA COURSE
+ 002 LEC TR 12-1:30PM JMHH 260       MACDUFFIE J
+     DATES: 10/21/14 - 12/09/14
+     MBA COURSE
+     MAX: 70                
+ 004 LEC TR 1:30-3PM JMHH 260        MACDUFFIE J
+     DATES: 10/21/14 - 12/09/14
+     MAX: 70                
+ 

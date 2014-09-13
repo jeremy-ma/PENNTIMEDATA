@@ -1,0 +1,4 @@
+ECON-244  MACRO-MODELING                    1 CU
+ 001 LEC TR 9-10:30AM MCNB 285         ORDONEZ G
+     MAX: 40                
+ 

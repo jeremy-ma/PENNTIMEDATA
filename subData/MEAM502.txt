@@ -1,0 +1,4 @@
+MEAM-502  ENERGY ENGINEERING                1 CU
+ 001 LEC TR 3-4:30PM TOWN 313             LIOR N
+     MAX: 50                
+ 

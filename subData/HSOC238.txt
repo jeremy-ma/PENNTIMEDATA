@@ -1,0 +1,26 @@
+HSOC-238  INTRO TO MED ANTHRO               1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     HUMANITIES & SOCIAL SCIENCE SECTOR
+ 401 LEC MW 1-2PM MUSE B17                BARG F
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 120             
+          RECITATION                        0 CU
+ 402 REC W 2-3PM MUSE 329               LARSON S
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 20              
+ 403 REC M 2-3PM MUSE 329             MUNYIKWA M
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 20              
+ 404 REC F 12-1PM MUSE 328             BILGREY M
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 20              
+ 405 REC F 1-2PM MUSE 328              BILGREY M
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 19              
+ 406 REC W 10-11AM MUSE 329           MUNYIKWA M
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 20              
+ 407 REC M 3-4PM MUSE 329               LARSON S
+     CROSS LISTED: ANTH-238
+     MAX W/CROSS LIST: 20              
+ 

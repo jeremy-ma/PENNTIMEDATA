@@ -1,0 +1,4 @@
+NELC-567  SEM EGYPT ARCHAEOL& HIST          1 CU
+ 001 SEM TBA                            WEGNER J
+     MAX: 10                
+ 

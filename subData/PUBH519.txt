@@ -1,0 +1,15 @@
+PUBH-519  ISSUES IN GLOBAL HEALTH           1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC T 5-7PM FAGN 214           MCLAUGHLIN C
+     UNDERGRADUATES NEED PERMISSION
+     MAX: 50                
+          RECITATION                        0 CU
+ 201 REC T 4-5PM FAGN 203           MCLAUGHLIN C
+     MAX: 14                
+ 202 REC T 7-8PM FAGN 207             MORSSINK C
+     MAX: 14                
+ 203 REC T 7-8PM FAGN 209                BREAM K
+     MAX: 14                
+ 204 REC T 4-5PM FAGN 210               MUECKE M
+     MAX: 10                
+ 

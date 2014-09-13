@@ -1,0 +1,13 @@
+FNCE-612  ACCELERATED CORP FINANCE        0.5 CU
+     MBA COURSE
+ 001 LEC TR 9-10:30AM JMHH G60         GERVAIS S
+     DATES: 08/27/14 - 10/08/14
+     MBA COURSE
+     MAX: 78                
+ 003 LEC TR 10:30-12NOON JMHH G60      GERVAIS S
+     DATES: 08/27/14 - 10/08/14
+     MAX: 78                
+ 005 LEC TR 12-1:30PM JMHH G60         GERVAIS S
+     DATES: 08/27/14 - 10/08/14
+     MAX: 78                
+ 

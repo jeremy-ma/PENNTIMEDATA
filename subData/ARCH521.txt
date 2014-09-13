@@ -1,0 +1,5 @@
+ARCH-521  VISUAL STUDIES I                0.5 CU
+ 101 LAB M 12-1:30PM MEYH B1           WILLEMS D
+     CO-REQUISITE: ARCH-501
+     MAX: 80                
+ 

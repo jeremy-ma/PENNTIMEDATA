@@ -1,0 +1,5 @@
+GAFL-761  LOBBYING                          1 CU
+ 001 LEC R 6-9PM FELS SWEEN           WEINBERG E
+     UNDERGRADUATES NEED PERMISSION
+     MAX: 20                
+ 

@@ -1,0 +1,21 @@
+ACCT-613  FIN AND MNGL ACCT                 1 CU
+     MBA COURSE
+ 001 LEC TR 9-10:30AM JMHH 245            GUAY W
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 003 LEC TR 10:30-12NOON JMHH 245         GUAY W
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 005 LEC TR 3-4:30PM JMHH 240             GUAY W
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 007 LEC MW 9-10:30AM JMHH 260            HAIL L
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 009 LEC MW 10:30-12NOON JMHH 260         HAIL L
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 011 LEC MW 1:30-3PM JMHH 260             HAIL L
+     DATES: 08/27/14 - 12/04/14
+     MAX: 78                
+ 

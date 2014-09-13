@@ -1,0 +1,15 @@
+MSSP-630  QUANTITATIVE REASONING            1 CU
+     REGISTRATION REQUIRED FOR LEC, LAB
+     MSSP Requirement
+ 001                               DIXON-ROMAN E
+     LEC T 11:30-1:30PM CAST A17
+     MAX: 15                
+ 002 LEC T 1:30-3:30PM CAST A17    DIXON-ROMAN E
+     MSSP Requirement
+     MAX: 15                
+          LABORATORY                        0 CU
+ 102 LAB R 2-3PM VANP 114                SPELL S
+     MAX: 15                
+ 103 LAB R 3:30-4:30PM VANP 114          SPELL S
+     MAX: 15                
+ 

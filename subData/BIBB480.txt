@@ -1,0 +1,4 @@
+BIBB-480  BIO BASIS PSYCHIA DISORD          1 CU
+ 301 SEM W 1-4PM PSYL A30                LEXOW N
+     MAX: 20                
+ 

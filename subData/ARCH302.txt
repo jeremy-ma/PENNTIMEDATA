@@ -1,0 +1,6 @@
+ARCH-302  DESIGN FUNDAMENTALS II            2 CU
+ 201 STU T 1:30-4:30PM ADDM 203         FREESE J
+     STU T 4:30-6PM ADDM 106
+     STU R 1:30-6PM ADDM 203
+     MAX: 18                
+ 

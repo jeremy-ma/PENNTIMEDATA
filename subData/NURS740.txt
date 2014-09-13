@@ -1,0 +1,8 @@
+NURS-740  ADV PRAC CONC-CHLD FAM            1 CU
+     REGISTRATION REQUIRED FOR LEC, CLN
+ 001 LEC T 9-12NOON FAGN 208      ARIAS-OLIVERAS
+     MAX: 15                
+          CLINIC                            0 CU
+ 101 CLN TBA                            MEEKER T
+     MAX: 15                
+ 

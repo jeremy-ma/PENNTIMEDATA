@@ -1,0 +1,4 @@
+NURS-361  CSE STDY: BRST FD/HM LAC          1 CU
+ 001 LEC W 2-4PM FAGN 214                SPATZ D
+     MAX: 20                
+ 

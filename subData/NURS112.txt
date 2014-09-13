@@ -1,0 +1,6 @@
+NURS-112  NUTRITION: SCI & APPLICA          1 CU
+ 001 LEC TR 3-4:30PM FAGN 118    DE JONGHE/HAYES
+     MAX: 45                
+ 002 LEC TR 4:30-6PM FAGN 118    HAYES/DE JONGHE
+     MAX: 45                
+ 

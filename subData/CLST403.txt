@@ -1,0 +1,11 @@
+CLST-403  POST BACC LATIN                   1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 601 LEC MW 10-11AM COHN 204             DAMON C
+     LEC F 10-11AM BENN 16
+     MAX: 30                
+          RECITATION                        0 CU
+ 602 REC F 12-1PM WILL 302                 STAFF
+     MAX: 15                
+ 603 REC F 1-2PM WILL 302                  STAFF
+     MAX: 15                
+ 

@@ -1,0 +1,11 @@
+ARCH-711  TOPICS IN ARCH THEORY I           1 CU
+ 003 SEM T 6-9PM MEYH B5               SALOMON D
+     MAX: 14                
+ 004 SEM R 9-12NOON FURN DSR               STAFF
+     MAX: 14                
+ 401 SEM T 2-5PM FURN RBR        LEATHERBARROW D
+     PERMISSION NEEDED FROM INSTRUCTOR
+     CROSS LISTED: ARCH-811
+     SECTION MAX: 7         
+     MAX W/CROSS LIST: 14              
+ 

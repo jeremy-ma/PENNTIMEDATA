@@ -1,0 +1,4 @@
+AMCS-601  ALGEBRAIC TECHNIQ                 1 CU
+ 001 LEC TR 12-1:30PM DRLB 4C6         HAGLUND J
+     MAX: 30                
+ 

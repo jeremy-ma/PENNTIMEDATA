@@ -1,0 +1,12 @@
+CHEM-261  INORGANIC CHEMISTRY I             1 CU
+ GROUP 1 SECTIONS
+     REGISTRATION REQUIRED FOR LEC, REC
+     FROM WITHIN THIS GROUP OF SECTIONS
+ 001 LEC TR 10:30-12NOON CHEM 109        WALSH P
+     MAX: 34                
+          RECITATION                        0 CU
+ 201 REC M 12-1PM CHEM 119                 STAFF
+     MAX: 17                
+ 202 REC M 11-12NOON CHEM 119              STAFF
+     MAX: 17                
+ 

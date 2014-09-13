@@ -1,0 +1,10 @@
+CHEM-700  MATERIALS CHEMISTRY             0.5 CU
+ 001 LEC TR 9-10:30AM CHEM 109         CARROLL P
+     PERMISSION NEEDED FROM DEPARTMENT
+     DATES: 10/18/14 - 12/09/14
+     MAX: 30                
+          SELECTED TOPICS IN CHEM         0.5 CU
+ 002 LEC TR 12-1:30PM CHEM B13        SCHELTER E
+     DATES: 08/27/14 - 10/08/14
+     MAX: 30                
+ 

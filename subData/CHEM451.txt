@@ -1,0 +1,5 @@
+CHEM-451  BIOLOGICAL CHEMISTRY I            1 CU
+ 001                              CHRISTIANSON D
+     LEC MWF 8:30-10AM CHEM B13
+     MAX: 48                
+ 

@@ -1,0 +1,6 @@
+CHIN-231  INTER RDG/WRTG CHINESE I          1 CU
+ 001 LEC MW 10-12NOON WILL 24               WU G
+     MAX: 15                
+ 002 LEC MW 3-5PM WILL 2                  SHIH L
+     MAX: 15                
+ 

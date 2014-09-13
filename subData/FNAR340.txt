@@ -1,0 +1,39 @@
+FNAR-340  DIGITAL PHOTOGRAPHY               1 CU
+ 201 STU F 10-1PM ADDM 20                   OH J
+     CROSS LISTED: VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 401 STU M 10-1PM ADDM 20             MARTINEZ G
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 402 STU M 5-8PM ADDM 20              RODEWALD K
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 403 STU M 2-5PM ADDM 20              MARTINEZ G
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 404 STU W 10-1PM ADDM 20             NEIGHBOR A
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 405 STU W 1:30-4:30PM ADDM 20        RODEWALD K
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 11        
+     MAX W/CROSS LIST: 11              
+ 406 STU W 5-8PM ADDM 20               DIAMOND J
+     PERMISSION NEEDED FROM DEPARTMENT
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 407 STU R 5:30-8:30PM ADDM 20         DIAMOND J
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 408 STU W 8-11PM ADDM 20               STOLFA S
+     CROSS LISTED: FNAR-640 VLST-265
+     SECTION MAX: 10        
+     MAX W/CROSS LIST: 11              
+ 

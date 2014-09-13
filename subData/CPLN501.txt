@@ -1,0 +1,6 @@
+CPLN-501  QUANT PLNG ANALYSIS METH          1 CU
+ 001 LEC MW 2-3:30PM DRLB 3W2              HSU Y
+     MAX: 35                
+ 002 LEC MW 2-3:30PM DRLB 2C8           GUERRA E
+     MAX: 35                
+ 

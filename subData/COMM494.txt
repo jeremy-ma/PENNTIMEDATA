@@ -1,0 +1,8 @@
+COMM-494  HONORS & CAPSTONE THESIS          1 CU
+ 001 LEC W 12-1PM ANNS 225               WOOLF K
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 10                
+ 002 LEC M 12-1PM ANNS 225               HARDY B
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 10                
+ 

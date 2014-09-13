@@ -1,0 +1,5 @@
+EDUC-695  PROSEM INTRNATION ED DEV        0.5 CU
+ 001 SEM R 2-3PM EDUC 200               WAGNER D
+     DATES: 08/27/14 - 12/19/14
+     MAX: 30                
+ 

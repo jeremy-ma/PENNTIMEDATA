@@ -1,0 +1,10 @@
+SWRK-760  MENTAL HEALTH DIAGNOSTIC          1 CU
+     Fulfills MSW Clinical Practice Elective
+ 001 LEC MTWRF 9-5PM TBA               LEDWITH K
+     PERMISSION NEEDED FROM INSTRUCTOR
+     DATES: 08/18/14 - 08/22/14
+     MAX: 25                
+ 002 LEC R 9-11:30AM CAST D28          LEDWITH K
+     Fulfills MSW Clinical Practice Elective
+     MAX: 25                
+ 

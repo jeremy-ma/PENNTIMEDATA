@@ -1,0 +1,4 @@
+MATH-320  COMPUTER METHODS I                1 CU
+ 001 LEC MWF 2-3PM DRLB A5                HYND R
+     MAX: 50                
+ 

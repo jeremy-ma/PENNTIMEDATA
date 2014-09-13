@@ -1,0 +1,4 @@
+COMM-644  COMMUNICATION AND SPACE           1 CU
+ 301 SEM F 10-12NOON ANNS 224           MARVIN C
+     MAX: 15                
+ 

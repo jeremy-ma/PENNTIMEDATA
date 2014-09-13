@@ -1,0 +1,19 @@
+PSCI-183  AMER POLIT THOUGHT                0 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     HUMANITIES & SOCIAL SCIENCE SECTOR
+ 001 LEC TR 10:30-11:30AM COHN G17      NORTON A
+     MAX: 102               
+          AMERICAN POLIT THOUGHT            1 CU
+ 201 REC M 1-2PM CAST A19              KOUTNIK G
+     MAX: 17                
+ 202 REC M 3-4PM CAST A14              KOUTNIK G
+     MAX: 17                
+ 203 REC F 2-3PM CAST A17              KOUTNIK G
+     MAX: 17                
+ 204 REC T 1:30-2:30PM ANNS 111         GORHAM A
+     MAX: 17                
+ 205 REC T 3-4PM WILL 723               GORHAM A
+     MAX: 17                
+ 206 REC R 3-4PM STIT B30               GORHAM A
+     MAX: 17                
+ 

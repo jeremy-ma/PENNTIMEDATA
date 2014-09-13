@@ -1,0 +1,9 @@
+NURS-791  CLINIC                            0 CU
+     REGISTRATION REQUIRED FOR CLN, SEM
+ 101 CLN WR 6-6PM TBA                     BENT D
+     MAX: 30                
+          CLN FLD-NUR ANES PRC I            1 CU
+ 301 SEM T 1-5PM FAGN 110               WINNER L
+     MAJORS ONLY
+     MAX: 30                
+ 

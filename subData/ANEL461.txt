@@ -1,0 +1,4 @@
+ANEL-461  MIDDLE EGYPTIAN TEXTS             1 CU
+ 001 LEC W 2-5PM BENN 20             SILVERMAN D
+     MAX: 10                
+ 

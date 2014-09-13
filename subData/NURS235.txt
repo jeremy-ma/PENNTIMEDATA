@@ -1,0 +1,80 @@
+NURS-235  PSYCHIATRIC NURSING             1.5 CU
+     REGISTRATION REQUIRED FOR LEC, CLN, LAB
+ 001 LEC MW 9-12NOON FAGN 114          COLEMAN C
+     DATES: 08/27/14 - 10/17/14
+     MAX: 90                
+          CLINIC                            0 CU
+ 101 CLN TR 7-1:30PM TBA                BROACH K
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 102 CLN TR 7-1:30PM TBA               GODBOUT M
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 103 CLN TR 7-1:30PM TBA                  FUHS M
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 104 CLN TR 3-9:30PM TBA                LEHIGH M
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 105 CLN TR 7-1:30PM TBA                CONRAD N
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 106 CLN TR 3-9:30PM TBA               CRAWLEY B
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 107 CLN TR 8-2:30PM TBA                  KENT G
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 108 CLN TR 3-9:30PM TBA                  PENN J
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 109 CLN TR 7-1:30PM TBA                 GREEN R
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+ 110 CLN TR 7-1:30PM TBA                  KIRK R
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 111 CLN TR 7-1:30PM TBA                 ROMAN J
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 112 CLN TR 7-1:30PM TBA                 SACKS S
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 113 CLN TR 7-1:30PM TBA                  VANN J
+     DATES: 08/27/14 - 10/17/14
+     MAX: 6                 
+          LABORATORY                        0 CU
+ 201 LAB T 12-2PM TBA                      STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 202 LAB T 12-2PM TBA                      STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 203 LAB T 2:30-4:30PM TBA                 STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 204 LAB T 2:30-4:30PM TBA                 STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 205 LAB T 5-7PM TBA                       STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 206 LAB T 5-7PM TBA                       STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 207 LAB R 12-2PM TBA                      STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 209 LAB R 2:30-4:30PM TBA                 STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 210 LAB R 2:30-4:30PM TBA                 STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 211 LAB R 5-7PM TBA                       STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 212 LAB R 5-7PM TBA                       STAFF
+     DATES: 08/27/14 - 10/17/14
+     MAX: 8                 
+ 

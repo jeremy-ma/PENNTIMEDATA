@@ -1,0 +1,15 @@
+CPLN-510  URB & PLANNING THEORY             1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+ 001 LEC M 10:30-12NOON FAGN 218        LANDIS J
+     LEC W 10:30-12NOON FAGN 216
+     MAX: 68                
+          RECITATION                        0 CU
+ 101 REC W 12-1PM MEYH B5                  LIM T
+     MAX: 17                
+ 102 REC W 12-1PM MEYH B6              FLEMING W
+     MAX: 17                
+ 103 REC W 1-2PM MEYH B5                   LIM T
+     MAX: 17                
+ 104 REC W 1-2PM MEYH B6               FLEMING W
+     MAX: 17                
+ 

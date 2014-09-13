@@ -1,0 +1,561 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+A:link  {
+	text-decoration:none;
+	
+}
+
+A:visited  {
+	text-decoration:none;
+	
+}
+	
+A:hover  {
+	text-decoration:none;
+	
+}
+
+h1 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#990000;
+	font-size:18pt;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 14pt;
+	
+}
+
+h2 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#990000;
+	font-size:14pt;
+	font-weight: bold;
+	line-height: 12px;
+}
+.askbenBox {
+	background-image:url(/registrar/registrar-images/askbenBG3.jpg);
+	text-align: center;
+	color: #041B51;
+	background-repeat: no-repeat;
+}
+
+.submit {
+	background-color:#990000;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding: 3px;
+	margin: 0px;
+}
+
+.submit:hover {
+	background-color:#CC0000;
+}
+
+.BOLDHEAD {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bolder;
+	color: #039;
+}
+.BOLDERHEAD {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	font-weight: bolder;
+	color: #039;
+	font-style: normal;
+	font-variant: normal;
+}
+
+.smallmenu {		
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#ffcc00;
+	font-size:10px;
+	text-decoration:none;	
+}
+
+A.smallmenu:link {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#ffcc00;
+	font-size:10px;
+	text-decoration:none;	
+}
+A.smallmenu:visited {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#ffcc00;
+	font-size:10px;
+	text-decoration:none;	
+}
+A.smallmenu:hover {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#fff;
+	font-size:10px;
+	text-decoration:underline;	
+}
+A.smallmenu:active {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#fff;
+	font-size:10px;
+	text-decoration:underline;	
+}
+
+
+.redTitleBar {
+	background-color:#990000;
+	filter: alpha(opacity=90);
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #FFF;
+	padding: 20px;
+	height: 50px;
+	width: auto;
+	margin: 0px;
+	font-style: italic;
+	font-weight: bolder;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.footer {		
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;	
+}
+
+A.footer:link {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size:12px;
+	text-decoration:none;	
+}
+A.footer:visited {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size:12px;
+	text-decoration:none;	
+}
+A.footer:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffcc00;
+	font-size:12px;
+	text-decoration:underline;	
+}
+A.footer:active {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffcc00;
+	font-size:12px;
+	text-decoration:underline;	
+}
+
+
+.footerText{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+
+}
+
+A.footerText:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#ffcc00;
+	text-decoration:underline;
+}
+
+A.footerText:link {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+A.footerText:visited {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.FooterHeader {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#ffcc00;
+}
+
+
+.FooterBlue {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#819cd2;
+}
+
+
+.condensed {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+	line-height:9pt;
+	color:#000;	
+	
+}
+
+A.condensed:active {
+	color:#0033CC;
+	font-size:9pt;
+	line-height:9pt;
+	text-decoration:none;
+	
+}
+
+A.condensed:link {
+	color:#0033CC;
+	font-size:9pt;
+	line-height:9pt;
+	text-decoration:none;
+}
+
+A.condensed:hover {
+	color:#990000;
+	font-size:9pt;
+	line-height:9pt;
+	text-decoration:underline;
+}
+
+A.condensed:visited {
+	color:#0033CC;
+	font-size:9pt;
+	line-height:9pt;
+
+}
+	
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: normal;
+	color: #000000;
+}
+
+A.body:active {
+	color:#0033CC;
+	text-decoration:none;
+}
+
+
+A.body:link {
+	color:#0033CC;
+	text-decoration:none;
+}
+
+A.body:hover {
+	color:#990000;
+	text-decoration:underline;
+}
+
+A.body:visited {
+	text-decoration:none;
+	color: #0033CC;
+}
+
+A.chart:visited {
+	color:#0033CC;
+}
+
+A.chart:link {
+	color:#0033CC;
+	text-decoration:none;
+}
+
+A.chart:hover {
+	color:#990000;
+	text-decoration:underline;
+}
+
+A.chart:visited {
+	color:#0033CC;
+}
+/* start red menu on left hand side */
+
+.RedMenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #900;
+	margin: 0px;
+	padding: 7px;
+	height: 25px;
+	width: 225px;
+	color:#FFFFFF;
+	font-weight: bold;
+	border-bottom-color: #C00;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+	text-decoration: none;
+	line-height: 24px;
+
+}
+A.RedMenu:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.RedMenu:hover {
+	background-color:#CC0000;
+	text-decoration: none;
+}
+
+.BlueMenu {
+	font-family: Georgia;
+	font-size: 14px;
+	background-color: #041b51;
+	margin: 0px;
+	padding: 7px;
+	height: 25px;
+	width: 225px;
+	color:#FFFFFF;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+	text-decoration: none;
+	line-height: 24px;
+
+}
+A.BlueMenu:link {
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+.BlueMenu:hover {
+	background-color:#0000FF;
+	text-decoration: none;
+}
+/* END - red on left hand side */
+
+
+
+/* START - sfs, registrar, seo links across top */
+
+.smallmenu {		
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#ffcc00;
+	font-size:10px;
+	text-decoration:none;	
+}
+
+A.smallmenu:link {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#ffcc00;
+	font-size:10px;
+	text-decoration:none;	
+}
+A.smallmenu:visited {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#ffcc00;
+	font-size:10px;
+	text-decoration:none;	
+}
+A.smallmenu:hover {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#fff;
+	font-size:10px;
+	text-decoration:underline;	
+}
+
+A.smallmenu:active {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#fff;
+	font-size:10px;
+	text-decoration:underline;	
+	
+}
+
+/* END - sfs, registrar, seo */
+
+
+.bhead {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #990000;
+	line-height: normal;
+	font-style: italic;
+}
+.rhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: normal;
+	text-decoration: none;
+
+}
+.disclaimer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	line-height: normal
+
+}
+
+.cheads {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #990000;
+}
+
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+
+}
+
+.chart {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.chartHeader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+}
+
+A.chartHeader:link {
+	color:#0033CC;
+	text-decoration:none;
+}
+
+A.chartHeader:hover {
+	color:#990000;
+	text-decoration:underline;
+}
+
+
+A.chartHeader:visited {
+	color:#0033CC;
+}
+
+.chartheaderWhiteB {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.bheadWhiteB {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.menubold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+
+}
+
+.SideBarLink {
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+}
+.SideBarHead {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #990000;
+}
+.SideBarText {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #666666;
+}
+
+.BHeadBold {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 21px;
+	font-weight: bold;
+	color: #990000;
+	font-style: italic;
+}
+
+.footerHeader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFCC00;
+}
+
+.footerWhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	word-spacing: normal;
+}
+
+.fakeLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #0033CC;
+	text-decoration: underline;
+}
+
+.SubMenuBlack {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #333;
+}
+
+.SubMenuRed {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color:#990000
+}
+
+.SubMenuWhite {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FFF;
+}
+.imgWrapRight {
+	padding: 0px;
+	float: left;
+	clear: none;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+.whiteCondensed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #FFF;
+	line-height: 11pt;
+}
+
+
+.dash {
+	background-image: url(http://www.upenn.edu/registrar/registrar-images/horizontal_dotted_line20.gif);
+	background-repeat:repeat-x;	
+
+}

@@ -1,0 +1,9 @@
+GRMN-103  INTERMEDIATE GERMAN I             1 CU
+ 001 LEC MTWR 11-12NOON WILL 318       TEARNEY T
+     MAX: 18                
+ 002 LEC MTWR 12-1PM WILL 301           NELSON D
+     MAX: 18                
+ 003 LEC MW 1-2PM DRLB 3C4               LEWIS J
+     LEC TR 1:30-2:30PM DRLB 2C4
+     MAX: 18                
+ 

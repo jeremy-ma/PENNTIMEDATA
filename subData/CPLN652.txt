@@ -1,0 +1,4 @@
+CPLN-652  REGIONAL INFRASTRUCTURE           1 CU
+ 001 SEM W 2-5PM MEYH B13                 YARO R
+     MAX: 25                
+ 

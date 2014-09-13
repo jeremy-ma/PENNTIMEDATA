@@ -1,0 +1,27 @@
+VLST-253  DRAWING I                         1 CU
+ 401 STU MW 10-1PM ADDM 201C            MURPHY D
+     MAJORS ONLY
+     CROSS LISTED: FNAR-123 FNAR-523
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 18              
+ 402 STU MW 2-5PM ADDM 201C             CURRAN J
+     MAJORS ONLY
+     CROSS LISTED: FNAR-123 FNAR-523
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 18              
+ 403 STU TR 1:30-4:30PM ADDM 201C      HORNICK A
+     MAJORS ONLY
+     CROSS LISTED: FNAR-123 FNAR-523
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 18              
+ 404 STU TR 4:30-7:30PM ADDM 201C         NEFF M
+     MAJORS ONLY
+     CROSS LISTED: FNAR-123 FNAR-523
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 18              
+ 405 STU MW 5-8PM ADDM 201C           EDGERTON M
+     MAJORS ONLY
+     CROSS LISTED: FNAR-123 FNAR-523
+     SECTION MAX: 1         
+     MAX W/CROSS LIST: 18              
+ 

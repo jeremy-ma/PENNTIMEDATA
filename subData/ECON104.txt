@@ -1,0 +1,19 @@
+ECON-104  ECONOMETRICS                      1 CU
+     REGISTRATION REQUIRED FOR LEC, REC
+     COLLEGE QUANTITATIVE DATA ANALYSIS REQ.
+ 001 LEC TR 3-4:30PM STIT B6             CHENG X
+     MAX: 150               
+          RECITATION                        0 CU
+ 201 REC F 12-1PM MCNB 103             HOSSAIN E
+     MAX: 20                
+ 202 REC M 2-3PM MCNB 395                ZHANG W
+     MAX: 20                
+ 203 REC M 12-1PM MCNB 410               ZHANG W
+     MAX: 20                
+ 204 REC F 9-10AM MCNB 395             HOSSAIN E
+     MAX: 20                
+ 205 REC M 12-1PM CAST A19            PIMENOVA I
+     MAX: 20                
+ 206 REC F 12-1PM MCNB 110            PIMENOVA I
+     MAX: 20                
+ 

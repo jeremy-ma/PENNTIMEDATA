@@ -1,0 +1,15 @@
+LARP-601  STUDIO III                        2 CU
+ 001 STU M 10-6PM TBA, STU F 1-6PM TBA  NEISES E
+     MAX: 50                
+ 002 STU M 10-6PM TBA                  PEVZNER N
+     STU F 1-6PM TBA
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 12                
+ 003 STU M 10-6PM TBA                APPELHANS K
+     STU F 1-6PM TBA
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 12                
+ 004 STU M 10-6PM TBA, STU F 1-6PM TBA  NEISES E
+     PERMISSION NEEDED FROM DEPARTMENT
+     MAX: 12                
+ 
