@@ -2,16 +2,6 @@ var fs = require('fs');
 
 var filename = process.argv[2];
 
-
-function get_line(filename, callback) {
-    var data = fs.readFileSync(filename, 'utf8')
-    var lines = data.split("\n")
-    
-    lines.forEach(function(line){
-    	callback(line);
-    	
-    })
-}
 function Section(code, type, daysRunning,timeString ){
 	this.code = code;
 	this.type = type;
@@ -88,9 +78,9 @@ function Section(code, type, daysRunning,timeString ){
 		console.log("error in 2nd part of Section Constructor\n");
 	}
 
-	console.log(timeString);
-	console.log('startime' + this.startTime);
-	console.log('endtime' + this.endTime);
+	//console.log(timeString);
+	//console.log('startime' + this.startTime);
+	//console.log('endtime' + this.endTime);
 }
 
 Section.prototype.getStart = function(){
@@ -103,6 +93,10 @@ Section.prototype.getEnd = function() {
 
 Section.prototype.getType = function() {
 	return this.type;
+}
+
+Section.prototype.getDays = function() {
+	return this.days;
 }
 
 function Class(coursecode, courseInfoString){
@@ -172,51 +166,90 @@ function get_sub_data(crscodes,filename){
 				//console.log(courses[i]);
 
 				test = new Class(courses[i],matches[1]);
-				//console.log(test.getCode());
-				//console.log(typeof(test));
+
 				classArray.push(test);
-				//console.log(matches[1]);
+
 			}
 		}
 	})
-	/*
-	for (i=0;i < classArray.length;i++){
-		console.log("hi");
-		console.log(classArray[i].getCode());
-	}
-	*/
+
 	return classArray;	
 }
+
+
+function Schedule(section,courseCode){
+	
+	this.timeTable = new Array();
+	for (k=0; k<5;k++){
+		day = new Array();
+		for (l=0; l<48;l++){
+			day.push('');
+		}
+		this.timeTable.push(day);
+	}
+
+	days = section.getDays();
+	startTime = section.getStart();
+	endTime = section.getEnd();
+
+	for (b=0;b<days.length;b++){
+		for (v=startTime;v<endTime;v++){
+			section[b][v] = courseCode + '_' + section.getType;
+		}
+	}
+	
+}
+
+Schedule.prototype.getSchedule = function() {
+	return this.timeTable;
+}
+
+Schedule.prototype.add = function(otherSched) {
+	//merges other schedule into currrent one
+	//changes it!!
+	other = otherSched.getSchedule();
+	cur = this.getSchedule();
+
+	for (m=0;m<5;m++){
+		for(n=0;n<48;n++){
+			cur[m][n]=cur[m][n] + other[m][n];
+		}
+	}
+
+	return cur;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 array = get_sub_data('CIS191 CIS380 ESE304 ACCT101', 'finaldata.txt');
 
 for (i=0; i<array.length;i++) {
 
-	console.log(array[i].getCode());
-	console.log(array[i].getSecTypes());
+	///console.log(array[i].getCode());
+	//console.log(array[i].getSecTypes());
 	console.log(array[i].getCourseName());
 }
 
 
-/*
-get_line(filename, function(line){
-  //console.log(line);
- 	matches = line.match('WRIT089')
- 	if (matches != null) {
-		console.log(matches)
-	}	
- 	matches = line.match('CIS191')
- 	if (matches != null) {
-		console.log(matches)
-	}	
- 	matches = line.match('CIS380')
- 	if (matches != null) {
-		console.log(matches)
-	}	
- 	matches = line.match('ESE304')
- 	if (matches != null) {
-		console.log(matches)
-	}	
-})
 
-*/
+
+
+
